@@ -1,0 +1,39 @@
+name: Update SenoEPG RS
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "27 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-epg-rs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Download and rebuild RS EPG
+        run: python update_rs_epg.py
+
+      - name: Commit updated RS EPG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add senoepg-rs.xml senoepg-rs.xml.gz
+
+          if git diff --cached --quiet; then
+            echo "No RS EPG changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Auto-update RS EPG"
+          git push
