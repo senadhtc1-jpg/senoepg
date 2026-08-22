@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import copy
 import gzip
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -71,15 +72,17 @@ HR1_IDS = {
     'CMC.hr',
 }
 
-RS1_IDS = {
-    "Nova.Series.rs",
-}
+RS1_SOURCE_ID = "Nova.Series.rs"
+RS1_ALIAS_ID = "Nova.Serije.hr"
 
 OUT_XML = Path("senoepg-hr.xml")
 OUT_GZ = Path("senoepg-hr.xml.gz")
 
 def fetch_root(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "SenoEPG-HR/1.0 (+GitHub Actions)"})
+    req = urllib.request.Request(
+        url,
+        headers={"User-Agent": "SenoEPG-HR/1.1 (+GitHub Actions)"}
+    )
     with urllib.request.urlopen(req, timeout=180) as r:
         data = r.read()
     return ET.fromstring(gzip.decompress(data))
@@ -97,24 +100,45 @@ new_root = ET.Element(
 
 seen_channels = set()
 
-def add_from(root, keep_ids):
-    for ch in root.findall("channel"):
-        cid = ch.attrib.get("id", "")
-        if cid in keep_ids and cid not in seen_channels:
-            new_root.append(ch)
-            seen_channels.add(cid)
-    for p in root.findall("programme"):
-        if p.attrib.get("channel", "") in keep_ids:
-            new_root.append(p)
+for ch in hr_root.findall("channel"):
+    cid = ch.attrib.get("id", "")
+    if cid in HR1_IDS and cid not in seen_channels:
+        new_root.append(copy.deepcopy(ch))
+        seen_channels.add(cid)
 
-add_from(hr_root, HR1_IDS)
-add_from(rs_root, RS1_IDS)
+for p in hr_root.findall("programme"):
+    if p.attrib.get("channel", "") in HR1_IDS:
+        new_root.append(copy.deepcopy(p))
+
+for ch in rs_root.findall("channel"):
+    if ch.attrib.get("id", "") == RS1_SOURCE_ID:
+        cloned = copy.deepcopy(ch)
+        cloned.set("id", RS1_ALIAS_ID)
+
+        names = cloned.findall("display-name")
+        if names:
+            names[0].text = "Nova Serije"
+
+        new_root.append(cloned)
+        seen_channels.add(RS1_ALIAS_ID)
+        break
+
+for p in rs_root.findall("programme"):
+    if p.attrib.get("channel", "") == RS1_SOURCE_ID:
+        cloned = copy.deepcopy(p)
+        cloned.set("channel", RS1_ALIAS_ID)
+        new_root.append(cloned)
 
 ET.indent(new_root, space="  ")
-ET.ElementTree(new_root).write(OUT_XML, encoding="utf-8", xml_declaration=True)
+ET.ElementTree(new_root).write(
+    OUT_XML,
+    encoding="utf-8",
+    xml_declaration=True
+)
 
 with OUT_XML.open("rb") as src, gzip.open(OUT_GZ, "wb", compresslevel=9) as dst:
     dst.write(src.read())
 
 print(f"Updated {OUT_XML} and {OUT_GZ}")
 print(f"Channels: {len(seen_channels)}")
+print(f"Nova Serije alias: {RS1_SOURCE_ID} -> {RS1_ALIAS_ID}")
