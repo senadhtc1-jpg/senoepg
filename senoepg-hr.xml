@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="SenoEPG HR PRAVI - filtered EPGShare HR1" generator-info-url="https://epgshare01.online/">
+<tv generator-info-name="SenoEPG HR - HR1 plus selected RS1" generator-info-url="https://epgshare01.online/">
   <channel id="HTV1.HD.hr">
     <display-name lang="hr">HTV1 HD</display-name>
     <icon src="https://www.a1.hr/rasporedhttps://ssc.a1.hr/ITV/pictures/logos/HRT1.png" />
@@ -83190,5 +83190,709 @@
     <title lang="hr">Pjesma Dana</title>
     <desc lang="hr">U emisiji "Pjesma dana" poslušajte našu glazbenu preporuku – pjesmu koja je dosegnula sami vrh glazbene ljestvice.</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/982be6f1ce0d4a20826f7ef841109271_thumb.jpg" />
+  </programme>
+  <channel id="Nova.Series.rs">
+    <display-name lang="sl">Nova Series</display-name>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/10/20/14/30/10/light_480x270.png" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/10/20/14/30/10/light_480x270.png" />
+    <url>http://www.epg.sbb.rs</url>
+  </channel>
+  <programme start="20260822002000 +0000" stop="20260822011500 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822011500 +0000" stop="20260822021000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822021000 +0000" stop="20260822030000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Kud puklo da puklo</title>
+    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+    <date>2014</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/21/f70d21ed-67bd-4c44-9bcd-a163aad2bb45_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822030000 +0000" stop="20260822040000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822040000 +0000" stop="20260822045000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Ubice mog oca</title>
+    <desc lang="sl">Pre Srletove sahrane Aleksandar hapsi Nemanju, ali nalog nije bio dobar pa biva pušten na slobodu. Zbog ovog hapšenja Aleksandar se sukobljava sa Marjanovićem i javnim tužiocem. Maskirana osoba napada Olju upada joj u stan i sve pretura. Jelenina majka krivi Aleksandra za sve što se dogodilo njenoj ćerci i traži mu da izađe iz stana. Aleksandar shvata da ga neko prati i sumnja na Nemanjinu osvetu.</desc>
+    <date>2018</date>
+    <category lang="sl">Kriminalistički</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+    <rating system="SI">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260822045000 +0000" stop="20260822054000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Kud puklo da puklo</title>
+    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+    <date>2014</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/21/f70d21ed-67bd-4c44-9bcd-a163aad2bb45_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822054000 +0000" stop="20260822063000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822063000 +0000" stop="20260822072000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822072000 +0000" stop="20260822081000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Ubice mog oca</title>
+    <desc lang="sl">Pre Srletove sahrane Aleksandar hapsi Nemanju, ali nalog nije bio dobar pa biva pušten na slobodu. Zbog ovog hapšenja Aleksandar se sukobljava sa Marjanovićem i javnim tužiocem. Maskirana osoba napada Olju upada joj u stan i sve pretura. Jelenina majka krivi Aleksandra za sve što se dogodilo njenoj ćerci i traži mu da izađe iz stana. Aleksandar shvata da ga neko prati i sumnja na Nemanjinu osvetu.</desc>
+    <date>2018</date>
+    <category lang="sl">Kriminalistički</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+    <rating system="SI">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260822081000 +0000" stop="20260822090000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822090000 +0000" stop="20260822095000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822095000 +0000" stop="20260822104000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822104000 +0000" stop="20260822113000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822113000 +0000" stop="20260822122000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Ubice mog oca</title>
+    <desc lang="sl">Pre Srletove sahrane Aleksandar hapsi Nemanju, ali nalog nije bio dobar pa biva pušten na slobodu. Zbog ovog hapšenja Aleksandar se sukobljava sa Marjanovićem i javnim tužiocem. Maskirana osoba napada Olju upada joj u stan i sve pretura. Jelenina majka krivi Aleksandra za sve što se dogodilo njenoj ćerci i traži mu da izađe iz stana. Aleksandar shvata da ga neko prati i sumnja na Nemanjinu osvetu.</desc>
+    <date>2018</date>
+    <category lang="sl">Kriminalistički</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+    <rating system="SI">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260822122000 +0000" stop="20260822131000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822131000 +0000" stop="20260822140000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822140000 +0000" stop="20260822145000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Kud puklo da puklo</title>
+    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+    <date>2014</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/21/f70d21ed-67bd-4c44-9bcd-a163aad2bb45_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822145000 +0000" stop="20260822154000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822154000 +0000" stop="20260822163000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822163000 +0000" stop="20260822171500 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822171500 +0000" stop="20260822180000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822180000 +0000" stop="20260822185000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Ubice mog oca</title>
+    <desc lang="sl">Mali Bane doušnik je nestao, Mirko ga intezivno traži ali se plaši da nije nastradao zbog poslova koje je obavljao za njega. Policija ponovo privodi Lunetovu ženu i menadžera i dolaze do novih informacija u istrazi. Nikola zove Aleksandra i traži od njega da odnese pare za Pecin otkup jer otmičari tako traže, a za uzvrat nudi da plati kompletno Jelenino lečenje u inostranstvu.</desc>
+    <date>2018</date>
+    <category lang="sl">Kriminalistički</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822185000 +0000" stop="20260822194000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Kud puklo da puklo</title>
+    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+    <date>2014</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/21/f70d21ed-67bd-4c44-9bcd-a163aad2bb45_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822194000 +0000" stop="20260822202500 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822202500 +0000" stop="20260822211500 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822211500 +0000" stop="20260822220000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822220000 +0000" stop="20260822225000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Ubice mog oca</title>
+    <desc lang="sl">Mali Bane doušnik je nestao, Mirko ga intezivno traži ali se plaši da nije nastradao zbog poslova koje je obavljao za njega. Policija ponovo privodi Lunetovu ženu i menadžera i dolaze do novih informacija u istrazi. Nikola zove Aleksandra i traži od njega da odnese pare za Pecin otkup jer otmičari tako traže, a za uzvrat nudi da plati kompletno Jelenino lečenje u inostranstvu.</desc>
+    <date>2018</date>
+    <category lang="sl">Kriminalistički</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822225000 +0000" stop="20260822233500 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Kud puklo da puklo</title>
+    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+    <date>2014</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/21/f70d21ed-67bd-4c44-9bcd-a163aad2bb45_stb_xl.jpg" />
+  </programme>
+  <programme start="20260822233500 +0000" stop="20260823002000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823002000 +0000" stop="20260823011500 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823011500 +0000" stop="20260823021000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823021000 +0000" stop="20260823030000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Kud puklo da puklo</title>
+    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+    <date>2014</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/21/f70d21ed-67bd-4c44-9bcd-a163aad2bb45_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823030000 +0000" stop="20260823040000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823040000 +0000" stop="20260823045000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Ubice mog oca</title>
+    <desc lang="sl">Mali Bane doušnik je nestao, Mirko ga intezivno traži ali se plaši da nije nastradao zbog poslova koje je obavljao za njega. Policija ponovo privodi Lunetovu ženu i menadžera i dolaze do novih informacija u istrazi. Nikola zove Aleksandra i traži od njega da odnese pare za Pecin otkup jer otmičari tako traže, a za uzvrat nudi da plati kompletno Jelenino lečenje u inostranstvu.</desc>
+    <date>2018</date>
+    <category lang="sl">Kriminalistički</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823045000 +0000" stop="20260823054000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Kud puklo da puklo</title>
+    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+    <date>2014</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/21/f70d21ed-67bd-4c44-9bcd-a163aad2bb45_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823054000 +0000" stop="20260823063000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823063000 +0000" stop="20260823072000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823072000 +0000" stop="20260823081000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Ubice mog oca</title>
+    <desc lang="sl">Mali Bane doušnik je nestao, Mirko ga intezivno traži ali se plaši da nije nastradao zbog poslova koje je obavljao za njega. Policija ponovo privodi Lunetovu ženu i menadžera i dolaze do novih informacija u istrazi. Nikola zove Aleksandra i traži od njega da odnese pare za Pecin otkup jer otmičari tako traže, a za uzvrat nudi da plati kompletno Jelenino lečenje u inostranstvu.</desc>
+    <date>2018</date>
+    <category lang="sl">Kriminalistički</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823081000 +0000" stop="20260823090000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823090000 +0000" stop="20260823095000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823095000 +0000" stop="20260823104000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823104000 +0000" stop="20260823113000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823113000 +0000" stop="20260823122000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Ubice mog oca</title>
+    <desc lang="sl">Mali Bane doušnik je nestao, Mirko ga intezivno traži ali se plaši da nije nastradao zbog poslova koje je obavljao za njega. Policija ponovo privodi Lunetovu ženu i menadžera i dolaze do novih informacija u istrazi. Nikola zove Aleksandra i traži od njega da odnese pare za Pecin otkup jer otmičari tako traže, a za uzvrat nudi da plati kompletno Jelenino lečenje u inostranstvu.</desc>
+    <date>2018</date>
+    <category lang="sl">Kriminalistički</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823122000 +0000" stop="20260823131000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823131000 +0000" stop="20260823140000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823140000 +0000" stop="20260823145000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Kud puklo da puklo</title>
+    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+    <date>2014</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/21/f70d21ed-67bd-4c44-9bcd-a163aad2bb45_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823145000 +0000" stop="20260823154000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823154000 +0000" stop="20260823163000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823163000 +0000" stop="20260823171500 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823171500 +0000" stop="20260823180000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260823185000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Ubice mog oca</title>
+    <desc lang="sl">Milanka odlazi na sastanak sa Nemanjom, međutim, iako je sve dobro naučila šta da kaže tokom razgovora s njim, on je ipak hvata u laži i neće da je pusti dok ne kaže ko ju je poslao. Aleksandar i Zoran privode Bibu ponovo i shvataju da ona nešto krije, pogotovu na pomen izvesnog menadžera Barona. Aleksandar privodi i Barona zbog čega Marjanović saziva sastanak. Tokom sastanka Mirko mu priznaje da su Milanku poslali kod Nemanje i da se ceo dan ne javlja. Marjanović shvata da mora hitno nešto da učini.</desc>
+    <date>2018</date>
+    <category lang="sl">Kriminalistički</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823185000 +0000" stop="20260823194000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Kud puklo da puklo</title>
+    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+    <date>2014</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/21/f70d21ed-67bd-4c44-9bcd-a163aad2bb45_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823194000 +0000" stop="20260823202500 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823202500 +0000" stop="20260823211500 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823211500 +0000" stop="20260823220000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823220000 +0000" stop="20260823225000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Ubice mog oca</title>
+    <desc lang="sl">Milanka odlazi na sastanak sa Nemanjom, međutim, iako je sve dobro naučila šta da kaže tokom razgovora s njim, on je ipak hvata u laži i neće da je pusti dok ne kaže ko ju je poslao. Aleksandar i Zoran privode Bibu ponovo i shvataju da ona nešto krije, pogotovu na pomen izvesnog menadžera Barona. Aleksandar privodi i Barona zbog čega Marjanović saziva sastanak. Tokom sastanka Mirko mu priznaje da su Milanku poslali kod Nemanje i da se ceo dan ne javlja. Marjanović shvata da mora hitno nešto da učini.</desc>
+    <date>2018</date>
+    <category lang="sl">Kriminalistički</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823225000 +0000" stop="20260823233500 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Kud puklo da puklo</title>
+    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+    <date>2014</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/21/f70d21ed-67bd-4c44-9bcd-a163aad2bb45_stb_xl.jpg" />
+  </programme>
+  <programme start="20260823233500 +0000" stop="20260824002000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824002000 +0000" stop="20260824011500 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824011500 +0000" stop="20260824021000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824021000 +0000" stop="20260824030000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Kud puklo da puklo</title>
+    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+    <date>2014</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/21/f70d21ed-67bd-4c44-9bcd-a163aad2bb45_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824030000 +0000" stop="20260824040000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824040000 +0000" stop="20260824045000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Ubice mog oca</title>
+    <desc lang="sl">Milanka odlazi na sastanak sa Nemanjom, međutim, iako je sve dobro naučila šta da kaže tokom razgovora s njim, on je ipak hvata u laži i neće da je pusti dok ne kaže ko ju je poslao. Aleksandar i Zoran privode Bibu ponovo i shvataju da ona nešto krije, pogotovu na pomen izvesnog menadžera Barona. Aleksandar privodi i Barona zbog čega Marjanović saziva sastanak. Tokom sastanka Mirko mu priznaje da su Milanku poslali kod Nemanje i da se ceo dan ne javlja. Marjanović shvata da mora hitno nešto da učini.</desc>
+    <date>2018</date>
+    <category lang="sl">Kriminalistički</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824045000 +0000" stop="20260824054000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Kud puklo da puklo</title>
+    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+    <date>2014</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/21/f70d21ed-67bd-4c44-9bcd-a163aad2bb45_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824054000 +0000" stop="20260824063000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824063000 +0000" stop="20260824072000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824072000 +0000" stop="20260824081000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Ubice mog oca</title>
+    <desc lang="sl">Milanka odlazi na sastanak sa Nemanjom, međutim, iako je sve dobro naučila šta da kaže tokom razgovora s njim, on je ipak hvata u laži i neće da je pusti dok ne kaže ko ju je poslao. Aleksandar i Zoran privode Bibu ponovo i shvataju da ona nešto krije, pogotovu na pomen izvesnog menadžera Barona. Aleksandar privodi i Barona zbog čega Marjanović saziva sastanak. Tokom sastanka Mirko mu priznaje da su Milanku poslali kod Nemanje i da se ceo dan ne javlja. Marjanović shvata da mora hitno nešto da učini.</desc>
+    <date>2018</date>
+    <category lang="sl">Kriminalistički</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824081000 +0000" stop="20260824090000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824090000 +0000" stop="20260824095000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824095000 +0000" stop="20260824104000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824104000 +0000" stop="20260824113000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824113000 +0000" stop="20260824122000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Ubice mog oca</title>
+    <desc lang="sl">Milanka odlazi na sastanak sa Nemanjom, međutim, iako je sve dobro naučila šta da kaže tokom razgovora s njim, on je ipak hvata u laži i neće da je pusti dok ne kaže ko ju je poslao. Aleksandar i Zoran privode Bibu ponovo i shvataju da ona nešto krije, pogotovu na pomen izvesnog menadžera Barona. Aleksandar privodi i Barona zbog čega Marjanović saziva sastanak. Tokom sastanka Mirko mu priznaje da su Milanku poslali kod Nemanje i da se ceo dan ne javlja. Marjanović shvata da mora hitno nešto da učini.</desc>
+    <date>2018</date>
+    <category lang="sl">Kriminalistički</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824122000 +0000" stop="20260824131000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824131000 +0000" stop="20260824140000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824140000 +0000" stop="20260824145000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Kud puklo da puklo</title>
+    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+    <date>2014</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/21/f70d21ed-67bd-4c44-9bcd-a163aad2bb45_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824145000 +0000" stop="20260824154000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824154000 +0000" stop="20260824163000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824163000 +0000" stop="20260824171500 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824171500 +0000" stop="20260824180000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260824185000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Ubice mog oca</title>
+    <desc lang="sl">Marjanović odvodi advokata na selo i preko bivše policajke nudi razmenu za Milunku. Nemanja na to pristaje, ali Milunka već ima vidljive povrede na sebi zbog čega advokat neće biti vraćen nepovređen. Aleksandar pomaže u odnošenju novca za Pecin otkup, ali sumnja kada mu otmičari traže da dođe na mesto gde je došlo do sukoba sa Srletom i gde je Marjanović ranjen. Njegove sumnje su jače i zbog toga što ga konstantno neko prati. Zbog toga Aleksandar prekida primopredaju ne shvatajući da iza Pecine otmice ne stoji Nemanja.</desc>
+    <date>2018</date>
+    <category lang="sl">Kriminalistički</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824185000 +0000" stop="20260824194000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Kud puklo da puklo</title>
+    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+    <date>2014</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/21/f70d21ed-67bd-4c44-9bcd-a163aad2bb45_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824194000 +0000" stop="20260824202500 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824202500 +0000" stop="20260824211500 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824211500 +0000" stop="20260824220000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824220000 +0000" stop="20260824225000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Ubice mog oca</title>
+    <desc lang="sl">Marjanović odvodi advokata na selo i preko bivše policajke nudi razmenu za Milunku. Nemanja na to pristaje, ali Milunka već ima vidljive povrede na sebi zbog čega advokat neće biti vraćen nepovređen. Aleksandar pomaže u odnošenju novca za Pecin otkup, ali sumnja kada mu otmičari traže da dođe na mesto gde je došlo do sukoba sa Srletom i gde je Marjanović ranjen. Njegove sumnje su jače i zbog toga što ga konstantno neko prati. Zbog toga Aleksandar prekida primopredaju ne shvatajući da iza Pecine otmice ne stoji Nemanja.</desc>
+    <date>2018</date>
+    <category lang="sl">Kriminalistički</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824225000 +0000" stop="20260824233500 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Kud puklo da puklo</title>
+    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+    <date>2014</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/21/f70d21ed-67bd-4c44-9bcd-a163aad2bb45_stb_xl.jpg" />
+  </programme>
+  <programme start="20260824233500 +0000" stop="20260825002000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260825002000 +0000" stop="20260825011500 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260825011500 +0000" stop="20260825021000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260825021000 +0000" stop="20260825030000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Kud puklo da puklo</title>
+    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+    <date>2014</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/21/f70d21ed-67bd-4c44-9bcd-a163aad2bb45_stb_xl.jpg" />
+  </programme>
+  <programme start="20260825030000 +0000" stop="20260825040000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260825040000 +0000" stop="20260825045000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Ubice mog oca</title>
+    <desc lang="sl">Marjanović odvodi advokata na selo i preko bivše policajke nudi razmenu za Milunku. Nemanja na to pristaje, ali Milunka već ima vidljive povrede na sebi zbog čega advokat neće biti vraćen nepovređen. Aleksandar pomaže u odnošenju novca za Pecin otkup, ali sumnja kada mu otmičari traže da dođe na mesto gde je došlo do sukoba sa Srletom i gde je Marjanović ranjen. Njegove sumnje su jače i zbog toga što ga konstantno neko prati. Zbog toga Aleksandar prekida primopredaju ne shvatajući da iza Pecine otmice ne stoji Nemanja.</desc>
+    <date>2018</date>
+    <category lang="sl">Kriminalistički</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+  </programme>
+  <programme start="20260825045000 +0000" stop="20260825054000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Kud puklo da puklo</title>
+    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+    <date>2014</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/21/f70d21ed-67bd-4c44-9bcd-a163aad2bb45_stb_xl.jpg" />
+  </programme>
+  <programme start="20260825054000 +0000" stop="20260825063000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260825063000 +0000" stop="20260825072000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260825072000 +0000" stop="20260825081000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Ubice mog oca</title>
+    <desc lang="sl">Marjanović odvodi advokata na selo i preko bivše policajke nudi razmenu za Milunku. Nemanja na to pristaje, ali Milunka već ima vidljive povrede na sebi zbog čega advokat neće biti vraćen nepovređen. Aleksandar pomaže u odnošenju novca za Pecin otkup, ali sumnja kada mu otmičari traže da dođe na mesto gde je došlo do sukoba sa Srletom i gde je Marjanović ranjen. Njegove sumnje su jače i zbog toga što ga konstantno neko prati. Zbog toga Aleksandar prekida primopredaju ne shvatajući da iza Pecine otmice ne stoji Nemanja.</desc>
+    <date>2018</date>
+    <category lang="sl">Kriminalistički</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+  </programme>
+  <programme start="20260825081000 +0000" stop="20260825090000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260825090000 +0000" stop="20260825095000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260825095000 +0000" stop="20260825104000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260825104000 +0000" stop="20260825113000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260825113000 +0000" stop="20260825122000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Ubice mog oca</title>
+    <desc lang="sl">Marjanović odvodi advokata na selo i preko bivše policajke nudi razmenu za Milunku. Nemanja na to pristaje, ali Milunka već ima vidljive povrede na sebi zbog čega advokat neće biti vraćen nepovređen. Aleksandar pomaže u odnošenju novca za Pecin otkup, ali sumnja kada mu otmičari traže da dođe na mesto gde je došlo do sukoba sa Srletom i gde je Marjanović ranjen. Njegove sumnje su jače i zbog toga što ga konstantno neko prati. Zbog toga Aleksandar prekida primopredaju ne shvatajući da iza Pecine otmice ne stoji Nemanja.</desc>
+    <date>2018</date>
+    <category lang="sl">Kriminalistički</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+  </programme>
+  <programme start="20260825122000 +0000" stop="20260825131000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260825131000 +0000" stop="20260825140000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
   </programme>
 </tv>
