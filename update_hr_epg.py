@@ -9,83 +9,74 @@ HR1_URL = "https://epgshare01.online/epgshare01/epg_ripper_HR1.xml.gz"
 RS1_URL = "https://epgshare01.online/epgshare01/epg_ripper_RS1.xml.gz"
 
 HR1_IDS = {
-    'HTV1.HD.hr',
-    'HTV2.HD.hr',
-    'HTV3.HD.hr',
-    'HTV4.HD.hr',
-    'Nova.TV.HD.hr',
-    'Nova.Family.hr',
-    'Doma.TV.HD.hr',
-    'Z1.hr',
-    'RTL.HD.hr',
-    'RTL.2.HD.hr',
-    'RTL.Living.hr',
-    'RTL.Crime.hr',
-    'RTL.Passion.hr',
-    'RTL.Adria.hr',
-    'AXN.hr',
-    'STAR.Channel.hr',
-    'STAR.Life.hr',
-    'STAR.Crime.hr',
-    'STAR.Movies.hr',
-    'Klasik.TV.hr',
-    'HBO.HD.hr',
-    'HBO.2.HD.hr',
-    'HBO.3.HD.hr',
-    'CineStar.TV.1.hr',
-    'CineStar.TV.Action.and.Thriller.hr',
-    'CineStar.TV.Premiere.1.HD.hr',
-    'CineStar.TV.Premiere.2.HD.hr',
-    'CineStar.TV.Comedy.and.Family.hr',
-    'CineStar.TV.Fantasy.hr',
-    'Cinemax.HD.hr',
-    'Cinemax.2.HD.hr',
-    'Kino.TV.HD.hr',
-    'Epic.Drama.hr',
-    'DIVA.hr',
-    'Doku.TV.HD.hr',
-    'Discovery.Channel.hr',
-    'National.Geographic.hr',
-    'National.Geographic.Wild.hr',
-    'Viasat.History.hr',
-    'Viasat.Nature.hr',
-    '24Kitchen.hr',
-    'BBC.Earth.hr',
-    'TLC.hr',
-    'E!.hr',
-    'HGTV.hr',
-    'Laudato.TV.hr',
-    'Osjeèka.TV.hr',
-    'Slavonska.TV.hr',
-    'Plava.Vinkovacka.hr',
-    'MrezaZG.hr',
-    'TV.Jadran.hr',
-    'Televizija.Dalmacija.hr',
-    'Klape.i.Tambure.hr',
-    'Libertas.TV.hr',
-    'RTV.Banovina.hr',
-    'Nickelodeon.hr',
-    'RTL.Kockica.HD.hr',
-    'Nick.Jr.HR.hr',
-    'MTV.hr',
-    'Jugoton.hr',
-    'CMC.hr',
+    'HTV1.HD.hr','HTV2.HD.hr','HTV3.HD.hr','HTV4.HD.hr',
+    'Nova.TV.HD.hr','Nova.Family.hr','Doma.TV.HD.hr','Z1.hr',
+    'RTL.HD.hr','RTL.2.HD.hr','RTL.Living.hr','RTL.Crime.hr',
+    'RTL.Passion.hr','RTL.Adria.hr','AXN.hr',
+    'STAR.Channel.hr','STAR.Life.hr','STAR.Crime.hr','STAR.Movies.hr',
+    'Klasik.TV.hr','HBO.HD.hr','HBO.2.HD.hr','HBO.3.HD.hr',
+    'CineStar.TV.1.hr','CineStar.TV.Action.and.Thriller.hr',
+    'CineStar.TV.Premiere.1.HD.hr','CineStar.TV.Premiere.2.HD.hr',
+    'CineStar.TV.Comedy.and.Family.hr','CineStar.TV.Fantasy.hr',
+    'Cinemax.HD.hr','Cinemax.2.HD.hr','Kino.TV.HD.hr',
+    'Epic.Drama.hr','DIVA.hr','Doku.TV.HD.hr',
+    'Discovery.Channel.hr','National.Geographic.hr',
+    'National.Geographic.Wild.hr','Viasat.History.hr','Viasat.Nature.hr',
+    '24Kitchen.hr','BBC.Earth.hr','TLC.hr','E!.hr','HGTV.hr',
+    'Laudato.TV.hr','Osjeèka.TV.hr','Slavonska.TV.hr',
+    'Plava.Vinkovacka.hr','MrezaZG.hr','TV.Jadran.hr',
+    'Televizija.Dalmacija.hr','Klape.i.Tambure.hr','Libertas.TV.hr',
+    'RTV.Banovina.hr','Nickelodeon.hr','RTL.Kockica.HD.hr',
+    'Nick.Jr.HR.hr','MTV.hr','Jugoton.hr','CMC.hr',
 }
 
-RS1_SOURCE_ID = "Nova.Series.rs"
-RS1_ALIAS_ID = "Nova.Serije.hr"
+# Regionalni kanali kojih nema u HR1, ali postoje u RS1.
+RS1_IDS = {
+    "Nova.Series.rs",
+    "Animal.Planet.HD.(RS).rs",
+    "History.2.HD.rs",
+}
+
+ALIASES = {
+    'HRT 1': 'HTV1.HD.hr',
+    'HRT 2': 'HTV2.HD.hr',
+    'HRT 3': 'HTV3.HD.hr',
+    'HRT 4': 'HTV4.HD.hr',
+    'Nova TV': 'Nova.TV.HD.hr',
+    'Doma TV': 'Doma.TV.HD.hr',
+    'RTL': 'RTL.HD.hr',
+    'RTL 2': 'RTL.2.HD.hr',
+    'fox': 'STAR.Channel.hr',
+    'fox-movies': 'STAR.Movies.hr',
+    'klasiktv': 'Klasik.TV.hr',
+    'hbo': 'HBO.HD.hr',
+    'hbo-comedy': 'HBO.2.HD.hr',
+    'cinestar-premiere': 'CineStar.TV.Premiere.1.HD.hr',
+    'cinestar-premiere-2': 'CineStar.TV.Premiere.2.HD.hr',
+    'cinestar-tv-comedy': 'CineStar.TV.Comedy.and.Family.hr',
+    'cinestar-tv-fantasy': 'CineStar.TV.Fantasy.hr',
+    'kinotv': 'Kino.TV.HD.hr',
+    'discovery-europe': 'Discovery.Channel.hr',
+    'national-geographic': 'National.Geographic.hr',
+    'ng-wild-hd': 'National.Geographic.Wild.hr',
+    'discovery-animal': 'Animal.Planet.HD.(RS).rs',
+    'History 2 Channel': 'History.2.HD.rs',
+    'viasat-history': 'Viasat.History.hr',
+    'viasat-nature': 'Viasat.Nature.hr',
+    'discovery-tlc': 'TLC.hr',
+    'jugoton-tv': 'Jugoton.hr',
+    'cmc': 'CMC.hr',
+}
 
 OUT_XML = Path("senoepg-hr.xml")
 OUT_GZ = Path("senoepg-hr.xml.gz")
 
 def fetch_root(url):
     req = urllib.request.Request(
-        url,
-        headers={"User-Agent": "SenoEPG-HR/1.1 (+GitHub Actions)"}
+        url, headers={"User-Agent": "SenoEPG-HR/2.0 (+GitHub Actions)"}
     )
     with urllib.request.urlopen(req, timeout=180) as r:
-        data = r.read()
-    return ET.fromstring(gzip.decompress(data))
+        return ET.fromstring(gzip.decompress(r.read()))
 
 hr_root = fetch_root(HR1_URL)
 rs_root = fetch_root(RS1_URL)
@@ -93,52 +84,56 @@ rs_root = fetch_root(RS1_URL)
 new_root = ET.Element(
     "tv",
     {
-        "generator-info-name": "SenoEPG HR - HR1 plus selected RS1",
+        "generator-info-name": "SenoEPG HR - original M3U compatible",
         "generator-info-url": "https://epgshare01.online/",
     },
 )
 
-seen_channels = set()
+seen = set()
 
-for ch in hr_root.findall("channel"):
-    cid = ch.attrib.get("id", "")
-    if cid in HR1_IDS and cid not in seen_channels:
-        new_root.append(copy.deepcopy(ch))
-        seen_channels.add(cid)
+def add_from(root, keep_ids):
+    for ch in root.findall("channel"):
+        cid = ch.attrib.get("id", "")
+        if cid in keep_ids and cid not in seen:
+            new_root.append(copy.deepcopy(ch))
+            seen.add(cid)
+    for p in root.findall("programme"):
+        if p.attrib.get("channel", "") in keep_ids:
+            new_root.append(copy.deepcopy(p))
 
-for p in hr_root.findall("programme"):
-    if p.attrib.get("channel", "") in HR1_IDS:
-        new_root.append(copy.deepcopy(p))
+add_from(hr_root, HR1_IDS)
+add_from(rs_root, RS1_IDS)
 
-for ch in rs_root.findall("channel"):
-    if ch.attrib.get("id", "") == RS1_SOURCE_ID:
-        cloned = copy.deepcopy(ch)
-        cloned.set("id", RS1_ALIAS_ID)
+def add_aliases(root, aliases):
+    channels = {c.attrib.get("id", ""): c for c in root.findall("channel")}
+    programmes = list(root.findall("programme"))
+    existing = set(channels)
 
-        names = cloned.findall("display-name")
-        if names:
-            names[0].text = "Nova Serije"
+    for alias_id, source_id in aliases.items():
+        if alias_id in existing:
+            continue
+        src_ch = channels.get(source_id)
+        if src_ch is None:
+            print(f"WARNING: nema izvornog kanala za alias {alias_id} -> {source_id}")
+            continue
+        ch = copy.deepcopy(src_ch)
+        ch.set("id", alias_id)
+        root.append(ch)
+        existing.add(alias_id)
+        for p in programmes:
+            if p.attrib.get("channel") == source_id:
+                cp = copy.deepcopy(p)
+                cp.set("channel", alias_id)
+                root.append(cp)
 
-        new_root.append(cloned)
-        seen_channels.add(RS1_ALIAS_ID)
-        break
-
-for p in rs_root.findall("programme"):
-    if p.attrib.get("channel", "") == RS1_SOURCE_ID:
-        cloned = copy.deepcopy(p)
-        cloned.set("channel", RS1_ALIAS_ID)
-        new_root.append(cloned)
+add_aliases(new_root, ALIASES)
 
 ET.indent(new_root, space="  ")
-ET.ElementTree(new_root).write(
-    OUT_XML,
-    encoding="utf-8",
-    xml_declaration=True
-)
+ET.ElementTree(new_root).write(OUT_XML, encoding="utf-8", xml_declaration=True)
 
 with OUT_XML.open("rb") as src, gzip.open(OUT_GZ, "wb", compresslevel=9) as dst:
     dst.write(src.read())
 
 print(f"Updated {OUT_XML} and {OUT_GZ}")
-print(f"Channels: {len(seen_channels)}")
-print(f"Nova Serije alias: {RS1_SOURCE_ID} -> {RS1_ALIAS_ID}")
+print(f"Channels: {len(new_root.findall('channel'))}")
+print(f"Programmes: {len(new_root.findall('programme'))}")
