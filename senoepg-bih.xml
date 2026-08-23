@@ -292,25 +292,25 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/03/26/6efb10a4-f8b5-49eb-bd86-ddd6b5948089_stb_xl.jpg" />
     <country lang="hr">Srbija</country>
   </programme>
-  <programme start="20260822074757 +0000" stop="20260822133000 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20260822074757 +0000" stop="20260822083016 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Ponos Ratkajevih</title>
     <desc lang="hr">Radnja serije se odvija u najturbulentnijem razdoblju hrvatske i jugoslavenske istorije, u periodu od 1938. do 1948. godine, a prati život jedne plemićke hrvatske porodice od njenog predratnog. Radnja serije se odvija u najturbulentnijem razdoblju hrvatske i jugoslavenske istorije, u periodu od 1938. do 1948. godine, a prati život jedne plemićke hrvatske porodice od njenog predratnog uspona, pa sve do posle Drugog svetskog rata, usled koga je došlo do promene državnog uređenja, propadanja plemstva i korenite promene svih do tada ustaljenih društvenih vrednosti.</desc>
     <date>2007</date>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/01/b94e1055-a7db-4671-8988-d0ae2abad1d5_stb_xl.jpg" />
     <country lang="hr">Hrvatska</country>
   </programme>
-  <programme start="20260822133000 +0000" stop="20260822134000 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20260822083016 +0000" stop="20260822084406 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Vijesti dana</title>
     <desc lang="hr">Svakodnevni informativni program koji nam prezentuju AI avatari, donosi najnovije i najvažnije vesti iz Sarajeva, Bosne i Hercegovine i sveta. Svakodnevni informativni program koji nam prezentuju AI avatari, donosi najnovije i najvažnije vesti iz Sarajeva, Bosne i Hercegovine i sveta.</desc>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/07/20/7012cb04_f37d_45ba_a9d8_20c8525e6f0b_xl.jpg" />
   </programme>
-  <programme start="20260822134000 +0000" stop="20260822135600 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20260822084406 +0000" stop="20260822090006 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Vremenska prognoza</title>
     <desc lang="hr">Informacije o vremenu i prognoza za naredne dane u Bosni i Hercegovini... Informacije o vremenu i prognoza za naredne dane u Bosni i Hercegovini...</desc>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/08/05/86c92699_28c2_4c55_ac2c_8f1966300557_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
-  <programme start="20260822135600 +0000" stop="20260822152600 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20260822090006 +0000" stop="20260822103045 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Kuduz</title>
     <desc lang="hr">U sumornom ambijentu gradske periferije počinje priča o lokalnoj zavodnici koja se udaje za doskorašnjeg robijaša Kuduza, čoveka kojeg razapinju strasti. U sumornom ambijentu gradske periferije počinje priča o lokalnoj zavodnici koja se udaje za doskorašnjeg robijaša Kuduza, čoveka kojeg razapinju strasti. Početni nesporazumi i praštanja izmedu supružnika, a zatim potere i svađe, mirenja i molbe, neminovno vode ovu vezu dvoje ljudi elementarnog naboja tragičnom završetku. On će izvršiti zločin. Za sve vreme ove burne veze odvija se plemenita, nežna i kristalno čista ljubav između poočima Kuduza i njegove petogodišnje pastorke.</desc>
     <date>1989</date>
@@ -319,12 +319,12 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260822152600 +0000" stop="20260822153600 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20260822103045 +0000" stop="20260822104557 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Vijesti dana</title>
     <desc lang="hr">Svakodnevni informativni program koji nam prezentuju AI avatari, donosi najnovije i najvažnije vesti iz Sarajeva, Bosne i Hercegovine i sveta. Svakodnevni informativni program koji nam prezentuju AI avatari, donosi najnovije i najvažnije vesti iz Sarajeva, Bosne i Hercegovine i sveta.</desc>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/07/20/7012cb04_f37d_45ba_a9d8_20c8525e6f0b_xl.jpg" />
   </programme>
-  <programme start="20260822153600 +0000" stop="20260822155800 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20260822104557 +0000" stop="20260822110016 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Kuduz</title>
     <desc lang="hr">U sumornom ambijentu gradske periferije počinje priča o lokalnoj zavodnici koja se udaje za doskorašnjeg robijaša Kuduza, čoveka kojeg razapinju strasti. U sumornom ambijentu gradske periferije počinje priča o lokalnoj zavodnici koja se udaje za doskorašnjeg robijaša Kuduza, čoveka kojeg razapinju strasti. Početni nesporazumi i praštanja izmedu supružnika, a zatim potere i svađe, mirenja i molbe, neminovno vode ovu vezu dvoje ljudi elementarnog naboja tragičnom završetku. On će izvršiti zločin. Za sve vreme ove burne veze odvija se plemenita, nežna i kristalno čista ljubav između poočima Kuduza i njegove petogodišnje pastorke.</desc>
     <date>1989</date>
@@ -333,27 +333,27 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260822155800 +0000" stop="20260822163800 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20260822110016 +0000" stop="20260822113942 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Zakopane tajne</title>
     <desc lang="hr">Serija "Zakopane tajne" je kombinacija TV novele i porodične serije, sa širokom lepezom živopisnih likova, koja u sebi spaja različite žanrove: od vrtloga ljubavi i strasti, izrazitih dramskih. Serija "Zakopane tajne" je kombinacija TV novele i porodične serije, sa širokom lepezom živopisnih likova, koja u sebi spaja različite žanrove: od vrtloga ljubavi i strasti, izrazitih dramskih momenata, do krimi-zapleta, misterija i humora. Pored uzbudljive priče sa mnogo šokantnih obrta i iznenađenja, u ovoj seriji pratimo psihologiju likova, čiji se životi dramatično menjaju. Ljubav, porodica, sudar sveta bogatih i sveta siromašnih, prijateljstva, izdaje, mućke, podmetanja, spletke, zavist, pohlepa, izneverena očekivanja, ogorčena borba za novac, moć i uticaj, težnje za pravim vrednostima, ali i elementi trilera, stare porodične tajne koje izlaze na videlo, misterije, uz obilje drame, ali i humora, sa izrazito koloritnim likovima - samo su delić onoga što serija.</desc>
     <date>2022</date>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/03/26/6efb10a4-f8b5-49eb-bd86-ddd6b5948089_stb_xl.jpg" />
     <country lang="hr">Srbija</country>
   </programme>
-  <programme start="20260822163800 +0000" stop="20260822173100 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20260822113942 +0000" stop="20260822123114 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Radio Mileva</title>
     <desc lang="hr">Glavna junakinja Mileva je glava kuće, sve zna, sve ume i u sve se razume. Penzionerka koja je radni vek provela kao sekretarica predsednika Opštine. Glavna junakinja Mileva je glava kuće, sve zna, sve ume i u sve se razume. Penzionerka koja je radni vek provela kao sekretarica predsednika Opštine. Samouverena, energična, snalažljiva i oštroumna žena koja ima sve informacije i širi ih tradicionalnim načinima. Njena svakodnevica protiče u stanu sa ćerkom Natalijom i unukom Sonjom, koja je Milevina naslednica u modernoj verziji jer svoja saznanja, savete i tračeve deli na društvenim mrežama. Mileva nije autoritet samo u okvirima svoje porodice već i u čitavoj zgradi koja je pravi kosmos u malom sa čitavom lepezom živopisnih karaktera iz čijih suprotnosti proističu duhoviti zapleti i iznenadni obrti. Za mnoge od njih postojanje bez Mileve je nezamislivo, a neki znaju da bi bez Mileve jednostavno sve bilo dosadno. U sklopu zgrade, koja je pravi amalgam različitih karaktera, nalazi se i kafić Tavolino u vlasništvu starog beogradskog frajera Dače i frizerski salon koji drži borbena i neposredna Jeca iz Kaluđerice. Radio Mileva je živa, laka, jednostavna i dinamična komedija koja se bavi temama kao što su nesklad među generacijama, sukob različitih naravi i preplitanjem situacione i verbalne komike, pisana, pre svega, da se onaj ko je gleda oseti dobro.</desc>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/10/11/4bcc9cae-ce1c-4d56-bbae-6d4ea774b192_stb_xl.jpg" />
     <country lang="hr">Srbija</country>
   </programme>
-  <programme start="20260822173100 +0000" stop="20260822180000 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20260822123114 +0000" stop="20260822130026 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Kafanica blizu SiS-a</title>
     <desc lang="hr">Već znamo da je "Agencija za sve i svašta" vlasotinačko preduzeće koje rešava sve probleme svojih klijenata. Već znamo da je "Agencija za sve i svašta" vlasotinačko preduzeće koje rešava sve probleme svojih klijenata. Osnivač i vlasnik firme je Spiridon Don Karamarković, nekadašnji pripadnik Legije stranaca, ekspert za sva pitanja i najškrtiji gazda na svetu. Deda mu je rekao da svaki uspešan Srbin mora da ima kafanu i on je ove godine osnovao svoju. Poslove oko kafane poverio je misterioznoj Madam Žaklini koja je naše gore list, ali je ugostiteljsko znanje sticala u Parizu.</desc>
     <date>2007</date>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/08/07/5a325acb_f0e5_4345_b7f0_e13bd9fb1654_stb_xl.jpg" />
     <country lang="hr">Srbija</country>
   </programme>
-  <programme start="20260822180000 +0000" stop="20260822201300 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20260822130026 +0000" stop="20260822201300 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Let</title>
     <desc lang="hr">Vip Vitaker je iskusni pilot koji nekim čudom uspeva da prizemlji avion u kvaru, spasivši pritom skoro svakog putnika. Vip Vitaker je iskusni pilot koji nekim čudom uspeva da prizemlji avion u kvaru, spasivši pritom skoro svakog putnika. Posle nesreće, Vip je proglašen za junaka, ali dok se sve više saznaje o nesrećnom slučaju, postavlja se sve više pitanja o tome ko je i šta je zapravo uzrok nesreće.</desc>
     <date>2012</date>
@@ -438,7 +438,7 @@
   <programme start="20260823094100 +0000" stop="20260823100000 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">ALFA Music box</title>
     <desc lang="hr">ALFA Music Box donosi najnovije muzičke spotove i hitove, prateći savremene trendove domaće i regionalne scene. ALFA Music Box donosi najnovije muzičke spotove i hitove, prateći savremene trendove domaće i regionalne scene.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/08/07/b458f05f_3706_48af_a6be_05e73090a8ee_stb_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/08/07/b458f05f_3706_48af_a6be_05e73090a8ee_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260823100000 +0000" stop="20260823105500 +0000" channel="Alfa.(Sarajevo).ba">
@@ -721,7 +721,7 @@
     <title lang="hr">42</title>
     <desc lang="hr">Junak je reč koju često čujemo u svetu sporta, ali junaštvo se ne odnosi uvek na dostignuća na terenu. Junak je reč koju često čujemo u svetu sporta, ali junaštvo se ne odnosi uvek na dostignuća na terenu. "42" pripoveda priču o dvojici muškaraca - slavnom Jackieju Robinsonu (Chadwick Boseman) i legendarnom menadžeru "Brooklyn Dodgersa" Branchu Rickeyju (Harrison Ford), čiji je hrabar istup protiv predrasuda zauvek promenio svet promenivši bejzbol. 1946. g. Rickey je angažovao Robinsona u ekipu, prekinuvši zloglasnu rasnu podelu u prvoligaškom bejzbolu. Suočen s rasizmom sa svih strana, Robinson je pokazao veliku hrabrost pustivši da njegov talenat na igralištu govori umesto njega, pa je na kraju osvojio i fanove i svoje saigrače utirući put onima koji su ga sledili.</desc>
     <date>2013</date>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/08/21/85083e91_f6b6_4254_a942_3af937843a74_stb_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/08/21/85083e91_f6b6_4254_a942_3af937843a74_xl.jpg" />
     <country lang="hr">SAD</country>
   </programme>
   <programme start="20260825002300 +0000" stop="20260825021600 +0000" channel="Alfa.(Sarajevo).ba">
@@ -2814,7 +2814,7 @@
   <programme start="20260823090000 +0000" stop="20260823100000 +0000" channel="BN.HD.(BIH).ba">
     <title lang="hr">Cvrčak na sat</title>
     <desc lang="hr">Zabavno-muzička emisija "Cvrčak na sat" u vaš će dom unijeti veselje sa sjajnim izborom muzike. Uz to, očekuju vas i intervjui sa nekim od najomiljenijih muzičkih zvijezda iz regiona! Zabavno-muzička emisija "Cvrčak na sat" u vaš će dom unijeti veselje sa sjajnim izborom muzike. Uz to, očekuju vas i intervjui sa nekim od najomiljenijih muzičkih zvijezda iz regiona!</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/02/18/281d7302-e09c-40d9-b3b4-a0140c6aa416_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/02/18/4a04bf25-9df7-46c9-9304-7db5795ade32_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260823100000 +0000" stop="20260823102000 +0000" channel="BN.HD.(BIH).ba">
@@ -3015,7 +3015,7 @@
   <programme start="20260824180500 +0000" stop="20260824185500 +0000" channel="BN.HD.(BIH).ba">
     <title lang="hr">Ljubomora</title>
     <desc lang="hr">Od djetinjstva zasjenjena uspješnim bratom i lišena majčine ljubavi, žena bez samopouzdanja polako tone u osjećaj bezvrijednosti, uvjerena da je u vlastitom životu postala tek "Gospođa Niko". Još kao djevojčica, odrastala je u sjeni svog brata. Lišena majčine pažnje i ljubavi razvila je duboki osjećaj ljubomore jer njeno nesavršeno lice nije odgovaralo njihovoj plemenitoj i bogatoj porodici. Za razliku od nje, njen brat je bio majčin ponos. Završio je najbolje škole, iskoristio sve mogućnosti i postao najuspješniji advokat u zemlji i poželjan neženja. Mlada djevojka bez samopouzdanja, tonula je sve više u osjećaj bezvrijednosti. Nikada nije završila školu, nije se udavala, a u vlastitom domu bila je skoro na položaju služavke. Kako bi njen brat rekao, postala je "Gospođa Niko ".</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/07/14/f73b5045_95de_40bd_8cc5_f39333ec43f5_stb_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/07/14/f73b5045_95de_40bd_8cc5_f39333ec43f5_xl.jpg" />
     <country lang="hr">Turska</country>
   </programme>
   <programme start="20260824185500 +0000" stop="20260824194500 +0000" channel="BN.HD.(BIH).ba">
@@ -6650,7 +6650,7 @@
   <programme start="20260822100000 +0000" stop="20260822100500 +0000" channel="Hayat.Folk.Box.ba">
     <title lang="hr">Novo</title>
     <desc lang="hr">Novi singl koji zaslužuje vašu pažnju. Novi singl koji zaslužuje vašu pažnju.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/02/27/d1b3edd8-b618-456a-8095-47884eee1f0f_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/02/27/df699345-24df-488b-a19b-bc92fcefcd0d_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260822100500 +0000" stop="20260822130000 +0000" channel="Hayat.Folk.Box.ba">
@@ -6680,7 +6680,7 @@
   <programme start="20260822180000 +0000" stop="20260822180500 +0000" channel="Hayat.Folk.Box.ba">
     <title lang="hr">Novo</title>
     <desc lang="hr">Novi singl koji zaslužuje vašu pažnju. Novi singl koji zaslužuje vašu pažnju.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/02/27/d1b3edd8-b618-456a-8095-47884eee1f0f_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/02/27/df699345-24df-488b-a19b-bc92fcefcd0d_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260822180500 +0000" stop="20260822190000 +0000" channel="Hayat.Folk.Box.ba">
@@ -6692,7 +6692,7 @@
   <programme start="20260822190000 +0000" stop="20260822203000 +0000" channel="Hayat.Folk.Box.ba">
     <title lang="hr">Samo dernek</title>
     <desc lang="hr">Najbolja bh. muzika za dernek. Najbolja bh. muzika za dernek.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/03/06/cb140186-c34e-4804-ad50-bebbb8ebc65f_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/03/06/9cd91f5f-b3fb-45ee-9910-5706214f64ae_stb_xl.jpg" />
   </programme>
   <programme start="20260822203000 +0000" stop="20260822220000 +0000" channel="Hayat.Folk.Box.ba">
     <title lang="hr">Koncert</title>
@@ -6726,7 +6726,7 @@
   <programme start="20260823100000 +0000" stop="20260823100500 +0000" channel="Hayat.Folk.Box.ba">
     <title lang="hr">Novo</title>
     <desc lang="hr">Novi singl koji zaslužuje vašu pažnju. Novi singl koji zaslužuje vašu pažnju.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/02/27/d1b3edd8-b618-456a-8095-47884eee1f0f_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/02/27/df699345-24df-488b-a19b-bc92fcefcd0d_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260823100500 +0000" stop="20260823180000 +0000" channel="Hayat.Folk.Box.ba">
@@ -6738,7 +6738,7 @@
   <programme start="20260823180000 +0000" stop="20260823180500 +0000" channel="Hayat.Folk.Box.ba">
     <title lang="hr">Novo</title>
     <desc lang="hr">Novi singl koji zaslužuje vašu pažnju. Novi singl koji zaslužuje vašu pažnju.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/02/27/d1b3edd8-b618-456a-8095-47884eee1f0f_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/02/27/df699345-24df-488b-a19b-bc92fcefcd0d_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260823180500 +0000" stop="20260823183000 +0000" channel="Hayat.Folk.Box.ba">
@@ -6796,7 +6796,7 @@
   <programme start="20260824100000 +0000" stop="20260824100500 +0000" channel="Hayat.Folk.Box.ba">
     <title lang="hr">Novo</title>
     <desc lang="hr">Novi singl koji zaslužuje vašu pažnju. Novi singl koji zaslužuje vašu pažnju.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/02/27/d1b3edd8-b618-456a-8095-47884eee1f0f_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/02/27/df699345-24df-488b-a19b-bc92fcefcd0d_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260824100500 +0000" stop="20260824120500 +0000" channel="Hayat.Folk.Box.ba">
@@ -6826,7 +6826,7 @@
   <programme start="20260824180000 +0000" stop="20260824180500 +0000" channel="Hayat.Folk.Box.ba">
     <title lang="hr">Novo</title>
     <desc lang="hr">Novi singl koji zaslužuje vašu pažnju. Novi singl koji zaslužuje vašu pažnju.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/02/27/d1b3edd8-b618-456a-8095-47884eee1f0f_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/02/27/df699345-24df-488b-a19b-bc92fcefcd0d_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260824180500 +0000" stop="20260824184000 +0000" channel="Hayat.Folk.Box.ba">
@@ -7033,7 +7033,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260822073321 +0000" stop="20260822131500 +0000" channel="Hayat.HD.ba">
+  <programme start="20260822073321 +0000" stop="20260822082404 +0000" channel="Hayat.HD.ba">
     <title lang="hr">Osman</title>
     <desc lang="hr">Ulugan se u plemenu Kaji sprema za Osmanov napad. Aladin priča Merjem kako je Bala teško podnijela gubitak svoje kćerke Halime. Ulugan se u plemenu Kaji sprema za Osmanov napad. Aladin priča Merjem kako je Bala teško podnijela gubitak svoje kćerke Halime. Sofija podsjeća Balu da ona čuva veoma važnu tajnu, i ističe da ta tajna ima veze s Halime. Mada Džerkutaja grize krivica zbog Baline smrti, Osman ga uvjerava da nikad nije sumnjao u to da je dao sve od sebe da je zaštiti.</desc>
     <date>2024</date>
@@ -7043,7 +7043,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260822131500 +0000" stop="20260822143300 +0000" channel="Hayat.HD.ba">
+  <programme start="20260822082404 +0000" stop="20260822094214 +0000" channel="Hayat.HD.ba">
     <title lang="hr">Za istim stolom</title>
     <desc lang="hr">Jedinstveni recepti najboljih kuhara koji nam omogućavaju da manje vremena provedemo u kuhinji, a više u razgovoru za stolom. Jedinstveni recepti najboljih kuhara koji nam omogućavaju da manje vremena provedemo u kuhinji, a više u razgovoru za stolom. Za stolom ne dijelimo samo hranu, dijelimo vrijeme, pažnju, ljubav i za istim stolom postajemo bolji. U emisiji "Za istim stolom" razgovaramo o nečemu što svi poznajemo, ali rijetko o tome duboko razmišljamo - o filozofiji okupljanja za stolom. Da li je ručak samo obrok ili mnogo više? Cilj ove emisije je da ugostimo plemenite goste, podijelimo s njima stil života kao važne lekcije, razgovaramo o vrijednostima života, ali i kvaliteti obroka. Naša opredjeljenost je uvijek za najbolje i to dijelimo i sa gledateljima. Pred nama je sezona izdvojenih tema, posebnih recepata, specijalnih gostiju kroz koju nas vodi Maja Munda.</desc>
     <date>2026</date>
@@ -7053,7 +7053,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260822143300 +0000" stop="20260822150300 +0000" channel="Hayat.HD.ba">
+  <programme start="20260822094214 +0000" stop="20260822100410 +0000" channel="Hayat.HD.ba">
     <title lang="hr">Hronika općine Novi Grad</title>
     <desc lang="hr">Hronika Općine Novi Grad je polusatni sedmični magazin koji prezentira projekte, aktivnosti i infrastrukturne radove u općini Novi Grad, ali i zanimljive priče stanovnika najmnogoljudnije sarajevske. Hronika Općine Novi Grad je polusatni sedmični magazin koji prezentira projekte, aktivnosti i infrastrukturne radove u općini Novi Grad, ali i zanimljive priče stanovnika najmnogoljudnije sarajevske općine.</desc>
     <date>2024</date>
@@ -7063,7 +7063,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260822150300 +0000" stop="20260822160400 +0000" channel="Hayat.HD.ba">
+  <programme start="20260822100410 +0000" stop="20260822110453 +0000" channel="Hayat.HD.ba">
     <title lang="hr">Anatomija života</title>
     <desc lang="hr">Nova emisija u programu Hayat TV-a je Anatomija života. Nova emisija u programu Hayat TV-a je Anatomija života. Cilj ove emisije jeste da u saradnji sa stručnim osobljem, ljekarima i profesorima gledateljima ponudimo odgovore na mnogobrojna pitanja o zdravlju. Okruženi i "zatrpani" različitim zdravstvenim savjetnicima koji se kroz različite platforme nameću bez sigurnih izvora, odlučili smo postaviti emisiju u kojoj će profesionalne i etablirane ličnosti odgovoriti na pitanja o prevenciji zdravlja. Mnogi su simptomi koji upućuju na određene tegobe te mogu biti kobni za život pojedinca. Pomoći ćemo i učiniti sve da pravovremeno svakom gledatelju pružimo zdravstveni savjet. Zdravlje, kao jedna od najvažnijih tema, vodi nas do mnogobrojnih svakodnevnih pitanja koja ćemo pravovremeno komunicirati, a u korist gledatelja i njihovih pitanja. Bit će ovo TV ordinacija u kojoj svi imaju priliku sudjelovati. Naši gosti su ljekari, stručnjaci s dugogodišnjim iskustvom. Briga o zdravlju je i najvažnija tema koja umnogome kreira zadovoljno društvo. Medijski komunicirati i proširiti profesionalne teze kao odgovor na mnogobrojna pitanja o zdravlju naš je zadatak.</desc>
     <date>2024</date>
@@ -7073,7 +7073,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260822160400 +0000" stop="20260822165100 +0000" channel="Hayat.HD.ba">
+  <programme start="20260822110453 +0000" stop="20260822115151 +0000" channel="Hayat.HD.ba">
     <title lang="hr">Mjesto povratka - Život povratnika</title>
     <desc lang="hr">"Mjesto povratka" se u novoj sezoni fokusira na ljude koji su se unatoč teškim okolnostima odlučili na potez povratka, koji je okarakterisan kao "svjetski fenomen". "Mjesto povratka" se u novoj sezoni fokusira na ljude koji su se unatoč teškim okolnostima odlučili na potez povratka, koji je okarakterisan kao "svjetski fenomen". U ovoj sezoni "Moja povratnička priča" biće vodilja emisije kroz direktniji pristup povratnicima i detaljima njihovog povratka.</desc>
     <date>2023</date>
@@ -7083,7 +7083,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260822165100 +0000" stop="20260822171300 +0000" channel="Hayat.HD.ba">
+  <programme start="20260822115151 +0000" stop="20260822122043 +0000" channel="Hayat.HD.ba">
     <title lang="hr">Vijesti u 7</title>
     <desc lang="hr">U Vijestima u 7, Hayat TV-a našoj centralnoj informativnoj emisiji, informišemo javnost o najznačajnijim događajima iz zemlje, regije i svijeta. U Vijestima u 7, Hayat TV-a našoj centralnoj informativnoj emisiji, informišemo javnost o najznačajnijim događajima iz zemlje, regije i svijeta. Svakodnevno pravimo naše priče po kojima smo postali prepoznatljiv brend i prvi izbor gledalaca dugi niz godina. Naš izbor je istina, neka vaš budu Vijesti u 7.</desc>
     <date>2026</date>
@@ -7093,7 +7093,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260822171300 +0000" stop="20260822180000 +0000" channel="Hayat.HD.ba">
+  <programme start="20260822122043 +0000" stop="20260822180000 +0000" channel="Hayat.HD.ba">
     <title lang="hr">7plus</title>
     <desc lang="hr">Emisija "7plus" je dijaloška emisija Hayata TV. U polusatnom formatu, sa relevantnim gostima iz zemlje, regije i svijeta, analizirimo najaktuelnije teme i događaje. Emisija "7plus" je dijaloška emisija Hayata TV. U polusatnom formatu, sa relevantnim gostima iz zemlje, regije i svijeta, analizirimo najaktuelnije teme i događaje. "7plus" vam svaki dan donosi više od informacija - daje vam širi kontekst vijesti, ukazuje na uzroke problema i traga za rješenjima. Zašto imati dio informacija kada možete imati informacije plus? Svaki dan od 19:15, uživo, gledajte "7plus".</desc>
     <date>2026</date>
@@ -7369,7 +7369,7 @@
     <title lang="hr">Kizilelma</title>
     <desc lang="hr">Razvoj sistema borbene bespilotne letjelice započeo je novu eru razvoja turske odbrane i avijacijske industrije. Razvoj sistema borbene bespilotne letjelice započeo je novu eru razvoja turske odbrane i avijacijske industrije. Ovo je nastavak priče o nastanku Bayraktara Kizilelme, prve turske bespilotne letjelice. Nastavak priče o avanturi, o izumu koji je postigao uspjeh zahvaljujući odlučnosti i upornosti unatoč brojnim preprekama.</desc>
     <date>2023</date>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/08/11/80b7ace5_4494_4bf4_97ea_494753d492ab_stb_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/08/11/80b7ace5_4494_4bf4_97ea_494753d492ab_xl.jpg" />
     <country lang="hr">Turska</country>
     <rating system="BA">
       <value>12+</value>
@@ -7814,7 +7814,7 @@
     <title lang="hr">Ljubomora</title>
     <desc lang="hr">Nalan se želi suočiti sa svima nakon što je otkrila Mukereminu i Nuzhetovu tajnu, ali razgovor sa Senihom mijenja njenu odluku. Nalan se želi suočiti sa svima nakon što je otkrila Mukereminu i Nuzhetovu tajnu, ali razgovor sa Senihom mijenja njenu odluku. Ona odlučuje da se što prije vjenča s Nuzhetom u Atini, dok Mukerem pristaje poći s njom u kupovinu haljine ne sluteći kakvu joj tajnu Nalan prešućuje. Seniha pokreće postupak kojim želi dokazati Halitovo porijeklo, dok se njena porodica pokušava suprotstaviti otvaranju groba radi DNK analize. Burak, obuzet ljubomorom zbog Turkan i Envera, prijeti Turkan pištoljem, ali Nuzhet i Seniha uspijevaju ga uvjeriti da je njihovo zbližavanje dio plana protiv Halita. Mediha otkriva Mudžahitu da je spremna u potpunosti ukloniti Senihu kako bi spriječila da istina izađe na vidjelo.</desc>
     <date>2025</date>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/07/09/007d4ccc_c09c_4981_8134_aaa0e95a7d75_stb_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/07/09/007d4ccc_c09c_4981_8134_aaa0e95a7d75_xl.jpg" />
     <country lang="hr">Turska</country>
     <rating system="BA">
       <value>12+</value>
@@ -9440,7 +9440,7 @@
   <programme start="20260824221500 +0000" stop="20260824223000 +0000" channel="Hayatovci.ba">
     <title lang="hr">Dječiji hitovi</title>
     <desc lang="hr">Uživajte u muzičkim numerama, namjenjenim najmlađim gledateljima, brojnih bh. autora. Uživajte u muzičkim numerama, namjenjenim najmlađim gledateljima, brojnih bh. autora.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/02/18/d9bcbb26-bf2d-4a8d-bc06-3f76f0c1a802_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/02/18/3bdc0945-8c7e-47c0-94a7-a78fe68994ff_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260824223000 +0000" stop="20260824223500 +0000" channel="Hayatovci.ba">
@@ -9545,7 +9545,7 @@
   <programme start="20260825033500 +0000" stop="20260825040300 +0000" channel="Hayatovci.ba">
     <title lang="hr">Dječiji hitovi</title>
     <desc lang="hr">Uživajte u muzičkim numerama, namjenjenim najmlađim gledateljima, brojnih bh. autora. Uživajte u muzičkim numerama, namjenjenim najmlađim gledateljima, brojnih bh. autora.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/02/18/d9bcbb26-bf2d-4a8d-bc06-3f76f0c1a802_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/02/18/3bdc0945-8c7e-47c0-94a7-a78fe68994ff_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260825040300 +0000" stop="20260825041500 +0000" channel="Hayatovci.ba">
@@ -9557,7 +9557,7 @@
   <programme start="20260825041500 +0000" stop="20260825043000 +0000" channel="Hayatovci.ba">
     <title lang="hr">Dječiji hitovi</title>
     <desc lang="hr">Uživajte u muzičkim numerama, namjenjenim najmlađim gledateljima, brojnih bh. autora. Uživajte u muzičkim numerama, namjenjenim najmlađim gledateljima, brojnih bh. autora.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/02/18/d9bcbb26-bf2d-4a8d-bc06-3f76f0c1a802_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/02/18/3bdc0945-8c7e-47c0-94a7-a78fe68994ff_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260825043000 +0000" stop="20260825043500 +0000" channel="Hayatovci.ba">
@@ -9662,7 +9662,7 @@
   <programme start="20260825093500 +0000" stop="20260825100300 +0000" channel="Hayatovci.ba">
     <title lang="hr">Dječiji hitovi</title>
     <desc lang="hr">Uživajte u muzičkim numerama, namjenjenim najmlađim gledateljima, brojnih bh. autora. Uživajte u muzičkim numerama, namjenjenim najmlađim gledateljima, brojnih bh. autora.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/02/18/d9bcbb26-bf2d-4a8d-bc06-3f76f0c1a802_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/02/18/3bdc0945-8c7e-47c0-94a7-a78fe68994ff_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260825100300 +0000" stop="20260825101500 +0000" channel="Hayatovci.ba">
@@ -9674,7 +9674,7 @@
   <programme start="20260825101500 +0000" stop="20260825103000 +0000" channel="Hayatovci.ba">
     <title lang="hr">Dječiji hitovi</title>
     <desc lang="hr">Uživajte u muzičkim numerama, namjenjenim najmlađim gledateljima, brojnih bh. autora. Uživajte u muzičkim numerama, namjenjenim najmlađim gledateljima, brojnih bh. autora.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/02/18/d9bcbb26-bf2d-4a8d-bc06-3f76f0c1a802_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/02/18/3bdc0945-8c7e-47c0-94a7-a78fe68994ff_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260825103000 +0000" stop="20260825103500 +0000" channel="Hayatovci.ba">
@@ -14433,10 +14433,38 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/01/07/19fada2b_49b6_47e6_973d_bcfc24897828_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
-  <programme start="20260823080606 +0000" stop="20260823132200 +0000" channel="OBN.(BIH).ba">
+  <programme start="20260823080606 +0000" stop="20260823082313 +0000" channel="OBN.(BIH).ba">
     <title lang="hr">Global Natures Pharma - TV prodaja</title>
     <desc lang="hr">U našoj TV trgovini otkrijte bogatu ponudu proizvoda Global Natures Pharme. U našoj TV trgovini otkrijte bogatu ponudu proizvoda Global Natures Pharme.</desc>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/07/29/c3c9ee69-f053-4977-ba38-f494d26a86fc_stb_xl.jpg" />
+    <country lang="hr">BiH</country>
+  </programme>
+  <programme start="20260823082313 +0000" stop="20260823091235 +0000" channel="OBN.(BIH).ba">
+    <title lang="hr">Stol za 4</title>
+    <desc lang="hr">Ko je najbolji domaćin ili domaćica? Saznajte u emisiji Stol za 4 koja spaja četiri potpuna stranca. Oni nam otvaraju vrata svoga doma od ponedjeljka od četvrka u 17:50 na OBN Televiziji. Ko je najbolji domaćin ili domaćica? Saznajte u emisiji Stol za 4 koja spaja četiri potpuna stranca. Oni nam otvaraju vrata svoga doma od ponedjeljka od četvrka u 17:50 na OBN Televiziji. Priprema večere i osvajanje simpatija gostiju njihove su glavne brige, jer u ovoj emisiji nije dovoljno samo napraviti ukusno jelo. Boduje se atmosfera, kreativnost detalji i šarm. Stol za 4 publici nudi široku paletu okusa i iskustava, pripremite se za mnoštvo savjeta, ideja i inspiracije kako večeru pretvoriti u nezaboravni događaj.</desc>
+    <date>2025</date>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/03/11/c2fede33-f925-45c9-82a9-146bf4ddae3d_stb_xl.jpg" />
+    <country lang="hr">BiH</country>
+  </programme>
+  <programme start="20260823091235 +0000" stop="20260823100049 +0000" channel="OBN.(BIH).ba">
+    <title lang="hr">Stol za 4</title>
+    <desc lang="hr">Ko je najbolji domaćin ili domaćica? Saznajte u emisiji Stol za 4 koja spaja četiri potpuna stranca. Oni nam otvaraju vrata svoga doma od ponedjeljka od četvrka u 17:50 na OBN Televiziji. Ko je najbolji domaćin ili domaćica? Saznajte u emisiji Stol za 4 koja spaja četiri potpuna stranca. Oni nam otvaraju vrata svoga doma od ponedjeljka od četvrka u 17:50 na OBN Televiziji. Priprema večere i osvajanje simpatija gostiju njihove su glavne brige, jer u ovoj emisiji nije dovoljno samo napraviti ukusno jelo. Boduje se atmosfera, kreativnost detalji i šarm. Stol za 4 publici nudi široku paletu okusa i iskustava, pripremite se za mnoštvo savjeta, ideja i inspiracije kako večeru pretvoriti u nezaboravni događaj.</desc>
+    <date>2025</date>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/03/11/c2fede33-f925-45c9-82a9-146bf4ddae3d_stb_xl.jpg" />
+    <country lang="hr">BiH</country>
+  </programme>
+  <programme start="20260823100049 +0000" stop="20260823105454 +0000" channel="OBN.(BIH).ba">
+    <title lang="hr">Stol za 4</title>
+    <desc lang="hr">Ko je najbolji domaćin ili domaćica? Saznajte u emisiji Stol za 4 koja spaja četiri potpuna stranca. Oni nam otvaraju vrata svoga doma od ponedjeljka od četvrka u 17:50 na OBN Televiziji. Ko je najbolji domaćin ili domaćica? Saznajte u emisiji Stol za 4 koja spaja četiri potpuna stranca. Oni nam otvaraju vrata svoga doma od ponedjeljka od četvrka u 17:50 na OBN Televiziji. Priprema večere i osvajanje simpatija gostiju njihove su glavne brige, jer u ovoj emisiji nije dovoljno samo napraviti ukusno jelo. Boduje se atmosfera, kreativnost detalji i šarm. Stol za 4 publici nudi široku paletu okusa i iskustava, pripremite se za mnoštvo savjeta, ideja i inspiracije kako večeru pretvoriti u nezaboravni događaj.</desc>
+    <date>2025</date>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/03/11/c2fede33-f925-45c9-82a9-146bf4ddae3d_stb_xl.jpg" />
+    <country lang="hr">BiH</country>
+  </programme>
+  <programme start="20260823105454 +0000" stop="20260823114645 +0000" channel="OBN.(BIH).ba">
+    <title lang="hr">Stol za 4</title>
+    <desc lang="hr">Ko je najbolji domaćin ili domaćica? Saznajte u emisiji Stol za 4 koja spaja četiri potpuna stranca. Oni nam otvaraju vrata svoga doma od ponedjeljka od četvrka u 17:50 na OBN Televiziji. Ko je najbolji domaćin ili domaćica? Saznajte u emisiji Stol za 4 koja spaja četiri potpuna stranca. Oni nam otvaraju vrata svoga doma od ponedjeljka od četvrka u 17:50 na OBN Televiziji. Priprema večere i osvajanje simpatija gostiju njihove su glavne brige, jer u ovoj emisiji nije dovoljno samo napraviti ukusno jelo. Boduje se atmosfera, kreativnost detalji i šarm. Stol za 4 publici nudi široku paletu okusa i iskustava, pripremite se za mnoštvo savjeta, ideja i inspiracije kako večeru pretvoriti u nezaboravni događaj.</desc>
+    <date>2025</date>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/03/11/c2fede33-f925-45c9-82a9-146bf4ddae3d_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260823114100 +0000" stop="20260824065903 +0000" channel="OBN.(BIH).ba">
@@ -14446,56 +14474,28 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/01/20/cbb600b5-ad90-4531-81de-56068b0c4af6_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
-  <programme start="20260823132200 +0000" stop="20260823141200 +0000" channel="OBN.(BIH).ba">
-    <title lang="hr">Stol za 4</title>
-    <desc lang="hr">Ko je najbolji domaćin ili domaćica? Saznajte u emisiji Stol za 4 koja spaja četiri potpuna stranca. Oni nam otvaraju vrata svoga doma od ponedjeljka od četvrka u 17:50 na OBN Televiziji. Ko je najbolji domaćin ili domaćica? Saznajte u emisiji Stol za 4 koja spaja četiri potpuna stranca. Oni nam otvaraju vrata svoga doma od ponedjeljka od četvrka u 17:50 na OBN Televiziji. Priprema večere i osvajanje simpatija gostiju njihove su glavne brige, jer u ovoj emisiji nije dovoljno samo napraviti ukusno jelo. Boduje se atmosfera, kreativnost detalji i šarm. Stol za 4 publici nudi široku paletu okusa i iskustava, pripremite se za mnoštvo savjeta, ideja i inspiracije kako večeru pretvoriti u nezaboravni događaj.</desc>
-    <date>2025</date>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/03/11/593890e2-ede5-487e-99dd-4a905c82444b_xl.jpg" />
-    <country lang="hr">BiH</country>
-  </programme>
-  <programme start="20260823141200 +0000" stop="20260823150100 +0000" channel="OBN.(BIH).ba">
-    <title lang="hr">Stol za 4</title>
-    <desc lang="hr">Ko je najbolji domaćin ili domaćica? Saznajte u emisiji Stol za 4 koja spaja četiri potpuna stranca. Oni nam otvaraju vrata svoga doma od ponedjeljka od četvrka u 17:50 na OBN Televiziji. Ko je najbolji domaćin ili domaćica? Saznajte u emisiji Stol za 4 koja spaja četiri potpuna stranca. Oni nam otvaraju vrata svoga doma od ponedjeljka od četvrka u 17:50 na OBN Televiziji. Priprema večere i osvajanje simpatija gostiju njihove su glavne brige, jer u ovoj emisiji nije dovoljno samo napraviti ukusno jelo. Boduje se atmosfera, kreativnost detalji i šarm. Stol za 4 publici nudi široku paletu okusa i iskustava, pripremite se za mnoštvo savjeta, ideja i inspiracije kako večeru pretvoriti u nezaboravni događaj.</desc>
-    <date>2025</date>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/03/11/593890e2-ede5-487e-99dd-4a905c82444b_xl.jpg" />
-    <country lang="hr">BiH</country>
-  </programme>
-  <programme start="20260823150100 +0000" stop="20260823155400 +0000" channel="OBN.(BIH).ba">
-    <title lang="hr">Stol za 4</title>
-    <desc lang="hr">Ko je najbolji domaćin ili domaćica? Saznajte u emisiji Stol za 4 koja spaja četiri potpuna stranca. Oni nam otvaraju vrata svoga doma od ponedjeljka od četvrka u 17:50 na OBN Televiziji. Ko je najbolji domaćin ili domaćica? Saznajte u emisiji Stol za 4 koja spaja četiri potpuna stranca. Oni nam otvaraju vrata svoga doma od ponedjeljka od četvrka u 17:50 na OBN Televiziji. Priprema večere i osvajanje simpatija gostiju njihove su glavne brige, jer u ovoj emisiji nije dovoljno samo napraviti ukusno jelo. Boduje se atmosfera, kreativnost detalji i šarm. Stol za 4 publici nudi široku paletu okusa i iskustava, pripremite se za mnoštvo savjeta, ideja i inspiracije kako večeru pretvoriti u nezaboravni događaj.</desc>
-    <date>2025</date>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/03/11/593890e2-ede5-487e-99dd-4a905c82444b_xl.jpg" />
-    <country lang="hr">BiH</country>
-  </programme>
-  <programme start="20260823155400 +0000" stop="20260823164300 +0000" channel="OBN.(BIH).ba">
-    <title lang="hr">Stol za 4</title>
-    <desc lang="hr">Ko je najbolji domaćin ili domaćica? Saznajte u emisiji Stol za 4 koja spaja četiri potpuna stranca. Oni nam otvaraju vrata svoga doma od ponedjeljka od četvrka u 17:50 na OBN Televiziji. Ko je najbolji domaćin ili domaćica? Saznajte u emisiji Stol za 4 koja spaja četiri potpuna stranca. Oni nam otvaraju vrata svoga doma od ponedjeljka od četvrka u 17:50 na OBN Televiziji. Priprema večere i osvajanje simpatija gostiju njihove su glavne brige, jer u ovoj emisiji nije dovoljno samo napraviti ukusno jelo. Boduje se atmosfera, kreativnost detalji i šarm. Stol za 4 publici nudi široku paletu okusa i iskustava, pripremite se za mnoštvo savjeta, ideja i inspiracije kako večeru pretvoriti u nezaboravni događaj.</desc>
-    <date>2025</date>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/03/11/c2fede33-f925-45c9-82a9-146bf4ddae3d_stb_xl.jpg" />
-    <country lang="hr">BiH</country>
-  </programme>
-  <programme start="20260823164300 +0000" stop="20260823164500 +0000" channel="OBN.(BIH).ba">
+  <programme start="20260823114645 +0000" stop="20260823115030 +0000" channel="OBN.(BIH).ba">
     <title lang="hr">Vremenska prognoza</title>
     <desc lang="hr">U detaljnoj vremenskoj prognozi otkrijte kakvo vrijeme vas očekuje za narednih nekoliko dana. U detaljnoj vremenskoj prognozi otkrijte kakvo vrijeme vas očekuje za narednih nekoliko dana.</desc>
     <date>2026</date>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/01/07/19fada2b_49b6_47e6_973d_bcfc24897828_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
-  <programme start="20260823164500 +0000" stop="20260823170800 +0000" channel="OBN.(BIH).ba">
+  <programme start="20260823115030 +0000" stop="20260823121513 +0000" channel="OBN.(BIH).ba">
     <title lang="hr">OBN Info</title>
     <desc lang="hr">"OBN INFO" je središnja informativna emisija OBN TV koja je za relativno kratko vrijeme emitiranja postigla visoku gledanost. U OBN INFO-u izvještavamo o najaktualnijim vijestima iz zemlje i svijeta.... "OBN INFO" je središnja informativna emisija OBN TV koja je za relativno kratko vrijeme emitiranja postigla visoku gledanost. U OBN INFO-u izvještavamo o najaktualnijim vijestima iz zemlje i svijeta. Popodnevni i večernji termin rezerviran je za pregled političkih, gospodarskih, kulturnih i društvenih događanja! Cijeneći želje svojih gledatelja, OBN TV odlučila se napraviti ovaj format, umjesto uobičajene i pomalo prevaziđene forme polusatnih informativnih emisija. Pružamo vam mogućnost da u kratkom vremenu s mnoštvom dobro sročenih i pomno odabranih informacija obiđete Bosnu i Hercegovinu i svijet. Držimo vas informiranim, ali vas pri tom ne zamaramo iscrpnim, često nepotrebnim informacijama.</desc>
     <date>2026</date>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/01/07/6f05c963_0044_4d64_b240_d2f13b0555a1_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
-  <programme start="20260823170800 +0000" stop="20260823180000 +0000" channel="OBN.(BIH).ba">
+  <programme start="20260823121513 +0000" stop="20260823130016 +0000" channel="OBN.(BIH).ba">
     <title lang="hr">Crveni pupoljci</title>
     <desc lang="hr">Naim prisiljava Zejnep na pregled djevičanstva. Ipak, Merjem ga uz Džunejdovu pomoć spriječava u tome. Beste konačno izlazi iz sjenke i staje pred Miru, ali Mira nema namjeru da joj oprosti. Naim prisiljava Zejnep na pregled djevičanstva. Ipak, Merjem ga uz Džunejdovu pomoć spriječava u tome. Beste konačno izlazi iz sjenke i staje pred Miru, ali Mira nema namjeru da joj oprosti. Džunejd smatra da je on uzrok Zejnepina stanja, te traži njen oprost. Naim pred Džunejdom i Sadijem objavljuje svoju odluku da se s porodicom vrati u zavičaj. Merjem i Zejnep nemaju mnogo vremena da pobjegnu. Ali Zejnep saznaje da mora otići bez majke.</desc>
     <date>2023</date>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/03/13/9b8fce6b-35ee-4994-9dcd-b58e5549744d_stb_xl.jpg" />
     <country lang="hr">Turska</country>
   </programme>
-  <programme start="20260823180000 +0000" stop="20260823190200 +0000" channel="OBN.(BIH).ba">
+  <programme start="20260823130016 +0000" stop="20260823190200 +0000" channel="OBN.(BIH).ba">
     <title lang="hr">Usamljena srca</title>
     <desc lang="hr">Sve više se pogoršava situacija s Demet obzirom da joj Teoman ne vjeruje. Kumru govori Safije kako se mora udati za Jašara obzirom da je nemoguće da bude s Ozanom. Melahat je bijesna zbog Kumruinih... Sve više se pogoršava situacija s Demet obzirom da joj Teoman ne vjeruje. Kumru govori Safije kako se mora udati za Jašara obzirom da je nemoguće da bude s Ozanom. Melahat je bijesna zbog Kumruinih zaruka, te toga što niko ne čini povodom toga. Ajda videći istu tetovažu kod Alev kao kod Teomana, shvata da su bili u vezi ranije. Ozan je slomljen zbog Kumruinih zaruka. Povrijeđeni Ozan dolazi kod Kumru i čestita joj na zarukama. Alev navodno odlazi na razgovor za posao, ali zapravo uopšte nema namjeru da se zaposli. Jašar se i dalje iživljava na Kumru Mehmet govori Ajdi kako su Teoman i Alev nekada bili u vezi. Ajda i njena majka opažaju Teomana i Alev i ostaju u šoku kada ugledaju otisak ruža na Teomanovom obrazu.</desc>
     <date>2023</date>
@@ -14625,7 +14625,7 @@
   <programme start="20260824073000 +0000" stop="20260824080000 +0000" channel="OBN.(BIH).ba">
     <title lang="hr">TV Doktor</title>
     <desc lang="hr">Emisija "TV Doktor" donosi savjete za zdraviji i kvalitetniji život. Voditeljica Njegica, kroz zanimljive razgovore s doktorima, stručnjacima i specijalistima, približava gledateljima najvažnije teme... Emisija "TV Doktor" donosi savjete za zdraviji i kvalitetniji život. Voditeljica Njegica, kroz zanimljive razgovore s doktorima, stručnjacima i specijalistima, približava gledateljima najvažnije teme iz svijeta medicine i zdravlja.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/03/04/98b9851a-e703-4bcf-b924-fdb4a82443e8_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/03/04/f36eb1a2-2e95-49f5-b617-f980d3cd7a20_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260824080000 +0000" stop="20260824082000 +0000" channel="OBN.(BIH).ba">
@@ -14828,7 +14828,7 @@
     <title lang="hr">Iz bakine kuhinje</title>
     <desc lang="hr">Možete li zamisliti obiteljsko okupljanje bez tradicionalnih jela ili slastica koje su vam se od djetinjstva duboko urezale u pamćenje? Prhki kolačići, pite, pihtije, uštipci, savijače, džemovi,... Možete li zamisliti obiteljsko okupljanje bez tradicionalnih jela ili slastica koje su vam se od djetinjstva duboko urezale u pamćenje? Prhki kolačići, pite, pihtije, uštipci, savijače, džemovi, kompoti... Baka/nana Azra pokazat će vam riznicu slatkih i slanih delicija iz cijele BiH koje će mnoge odvesti u djetinjstvo. Bez obzira na to jesu li vaše nane ili bake na vas prenijele svoja znanja ili nisu, ova će vas emisija uvesti u tajne spravljanja gotovo svih domaćih jela po tradicionalnim recepturama. Uživajte u pripremi i nezaboravnim okusima u kojima će uživati i vaša djeca i unuci, i po kojima će vas se uvijek sjećati! Baka/nana Azra uvijek surađuje sa prirodom i iz okoliša i sa svog imanja uzima sezonske plodove koje koristi u emisiji. Recepti su tradicionalni, jednostavni i uvijek idu uz neku lijepu priču iz naroda. Kuhinja je starinska i prilagođena tematici i jelima, što daje posebnu atmosferu samoj emisiji. savršeno će se u nju uklopiti i svi proizvodi koje svakodnevno koristimo u kuhinji, a posebno oni koji se koriste za zdrav način života.</desc>
     <date>2024</date>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/04/19/ef522a5d-02e2-4793-86cc-48c7be9afec2_stb_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/04/19/6ff1c8a1-fe7f-4424-b6b1-b7c112415f1a_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260825070000 +0000" stop="20260825072100 +0000" channel="OBN.(BIH).ba">
@@ -14861,7 +14861,7 @@
     <title lang="hr">Rat bendova</title>
     <desc lang="hr">Muzičko - zabavni show u kojem mladi demo bendovi, ali i oni sa stažem, dobivaju priliku da se pokažu i otkriju sve svoje glazbene talente. Muzičko - zabavni show u kojem mladi demo bendovi, ali i oni sa stažem, dobivaju priliku da se pokažu i otkriju sve svoje glazbene talente.</desc>
     <date>2011</date>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/04/29/14773997-ebef-4d87-83a8-f3c782bdb37e_stb_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/04/29/60767de4-37a7-4d43-8474-cbed2fb5664d_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260825100000 +0000" stop="20260825104000 +0000" channel="OBN.(BIH).ba">
@@ -14930,7 +14930,7 @@
     <title lang="hr">Stol za 4</title>
     <desc lang="hr">Ko je najbolji domaćin ili domaćica? Saznajte u emisiji Stol za 4 koja spaja četiri potpuna stranca. Oni nam otvaraju vrata svoga doma od ponedjeljka od četvrka u 17:50 na OBN Televiziji. Ko je najbolji domaćin ili domaćica? Saznajte u emisiji Stol za 4 koja spaja četiri potpuna stranca. Oni nam otvaraju vrata svoga doma od ponedjeljka od četvrka u 17:50 na OBN Televiziji. Priprema večere i osvajanje simpatija gostiju njihove su glavne brige, jer u ovoj emisiji nije dovoljno samo napraviti ukusno jelo. Boduje se atmosfera, kreativnost detalji i šarm. Stol za 4 publici nudi široku paletu okusa i iskustava, pripremite se za mnoštvo savjeta, ideja i inspiracije kako večeru pretvoriti u nezaboravni događaj.</desc>
     <date>2025</date>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/03/11/c2fede33-f925-45c9-82a9-146bf4ddae3d_stb_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/03/11/593890e2-ede5-487e-99dd-4a905c82444b_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260825164400 +0000" stop="20260825164500 +0000" channel="OBN.(BIH).ba">
@@ -15164,7 +15164,7 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20260822074737 +0000" stop="20260822132000 +0000" channel="Pink.BH.ba">
+  <programme start="20260822074737 +0000" stop="20260822081956 +0000" channel="Pink.BH.ba">
     <title lang="hr">Elita Narod pita</title>
     <desc lang="hr">Pregled najzanimljivijih dešavanja u Eliti prethodnog dana... Za potrebe "Elita", velelepno imanje u Šimanovcima se potpuno renovira, a radove na ovom projektu lično nadgleda vlasnik i direktor Pink Media Group, Željko Mitrović, kao i direktorica programa TV Pink, Milica Mitrović. Imanje, na kojem su učesnici reality showa boravili u prethodnim sezonama, dobiće nove tonove, a vrhunski tim arhitekata, scenografa i dizajnera enterijera temeljno radi na preuređenju svakog kutka prostranog imanja, koje će biti oplemenjeno potpuno novim zgradama i sobama, dok će neke od postojećih izgledati potpuno drugačije, dobiti novi, značajno osvježen izgled, a neke će čak imati i namjenu. Vodeće "ružičasto jato" čine Dušica Jakovljević, Darko Tanasijević, Milan Milošević, Ivana Šopić i Ana Radulović.</desc>
     <date>2025</date>
@@ -15174,7 +15174,7 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20260822132000 +0000" stop="20260822133800 +0000" channel="Pink.BH.ba">
+  <programme start="20260822081956 +0000" stop="20260822083751 +0000" channel="Pink.BH.ba">
     <title lang="hr">Elita Narod pita</title>
     <desc lang="hr">Pregled najzanimljivijih dešavanja u Eliti prethodnog dana... Za potrebe "Elita", velelepno imanje u Šimanovcima se potpuno renovira, a radove na ovom projektu lično nadgleda vlasnik i direktor Pink Media Group, Željko Mitrović, kao i direktorica programa TV Pink, Milica Mitrović. Imanje, na kojem su učesnici reality showa boravili u prethodnim sezonama, dobiće nove tonove, a vrhunski tim arhitekata, scenografa i dizajnera enterijera temeljno radi na preuređenju svakog kutka prostranog imanja, koje će biti oplemenjeno potpuno novim zgradama i sobama, dok će neke od postojećih izgledati potpuno drugačije, dobiti novi, značajno osvježen izgled, a neke će čak imati i namjenu. Vodeće "ružičasto jato" čine Dušica Jakovljević, Darko Tanasijević, Milan Milošević, Ivana Šopić i Ana Radulović.</desc>
     <date>2025</date>
@@ -15184,7 +15184,7 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20260822133800 +0000" stop="20260822135900 +0000" channel="Pink.BH.ba">
+  <programme start="20260822083751 +0000" stop="20260822085908 +0000" channel="Pink.BH.ba">
     <title lang="hr">Elita Narod pita</title>
     <desc lang="hr">Pregled najzanimljivijih dešavanja u Eliti prethodnog dana... Za potrebe "Elita", velelepno imanje u Šimanovcima se potpuno renovira, a radove na ovom projektu lično nadgleda vlasnik i direktor Pink Media Group, Željko Mitrović, kao i direktorica programa TV Pink, Milica Mitrović. Imanje, na kojem su učesnici reality showa boravili u prethodnim sezonama, dobiće nove tonove, a vrhunski tim arhitekata, scenografa i dizajnera enterijera temeljno radi na preuređenju svakog kutka prostranog imanja, koje će biti oplemenjeno potpuno novim zgradama i sobama, dok će neke od postojećih izgledati potpuno drugačije, dobiti novi, značajno osvježen izgled, a neke će čak imati i namjenu. Vodeće "ružičasto jato" čine Dušica Jakovljević, Darko Tanasijević, Milan Milošević, Ivana Šopić i Ana Radulović.</desc>
     <date>2025</date>
@@ -15194,7 +15194,7 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20260822135900 +0000" stop="20260822141200 +0000" channel="Pink.BH.ba">
+  <programme start="20260822085908 +0000" stop="20260822091146 +0000" channel="Pink.BH.ba">
     <title lang="hr">Elita Narod pita</title>
     <desc lang="hr">Pregled najzanimljivijih dešavanja u Eliti prethodnog dana... Za potrebe "Elita", velelepno imanje u Šimanovcima se potpuno renovira, a radove na ovom projektu lično nadgleda vlasnik i direktor Pink Media Group, Željko Mitrović, kao i direktorica programa TV Pink, Milica Mitrović. Imanje, na kojem su učesnici reality showa boravili u prethodnim sezonama, dobiće nove tonove, a vrhunski tim arhitekata, scenografa i dizajnera enterijera temeljno radi na preuređenju svakog kutka prostranog imanja, koje će biti oplemenjeno potpuno novim zgradama i sobama, dok će neke od postojećih izgledati potpuno drugačije, dobiti novi, značajno osvježen izgled, a neke će čak imati i namjenu. Vodeće "ružičasto jato" čine Dušica Jakovljević, Darko Tanasijević, Milan Milošević, Ivana Šopić i Ana Radulović.</desc>
     <date>2025</date>
@@ -15204,7 +15204,7 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20260822141200 +0000" stop="20260822150000 +0000" channel="Pink.BH.ba">
+  <programme start="20260822091146 +0000" stop="20260822095922 +0000" channel="Pink.BH.ba">
     <title lang="hr">Elita Narod pita</title>
     <desc lang="hr">Pregled najzanimljivijih dešavanja u Eliti prethodnog dana... Za potrebe "Elita", velelepno imanje u Šimanovcima se potpuno renovira, a radove na ovom projektu lično nadgleda vlasnik i direktor Pink Media Group, Željko Mitrović, kao i direktorica programa TV Pink, Milica Mitrović. Imanje, na kojem su učesnici reality showa boravili u prethodnim sezonama, dobiće nove tonove, a vrhunski tim arhitekata, scenografa i dizajnera enterijera temeljno radi na preuređenju svakog kutka prostranog imanja, koje će biti oplemenjeno potpuno novim zgradama i sobama, dok će neke od postojećih izgledati potpuno drugačije, dobiti novi, značajno osvježen izgled, a neke će čak imati i namjenu. Vodeće "ružičasto jato" čine Dušica Jakovljević, Darko Tanasijević, Milan Milošević, Ivana Šopić i Ana Radulović.</desc>
     <date>2025</date>
@@ -15214,7 +15214,7 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20260822150000 +0000" stop="20260822161900 +0000" channel="Pink.BH.ba">
+  <programme start="20260822095922 +0000" stop="20260822111903 +0000" channel="Pink.BH.ba">
     <title lang="hr">Magazin In</title>
     <desc lang="hr">U "Magazinu In" vas očekuju smijeh, suze, emotivne ispovjesti i priznanja poznatih ličnosti - i prikaz života bez filtera. Kroz svoju autorsku emisiju, Sanja Marinković će nastaviti da javne ličnosti... U "Magazinu In" vas očekuju smijeh, suze, emotivne ispovjesti i priznanja poznatih ličnosti - i prikaz života bez filtera. Kroz svoju autorsku emisiju, Sanja Marinković će nastaviti da javne ličnosti pita sve ono što biste i vi željeli da znate, i baviće se zanimljivom, ali ponekad i škakljivom temom muško - ženskih odnosa. Kako bi svake sezone bila inovativna i opravdala povjerenje milionskog auditorijuma, Sanja pomno prati svjetske trendove i implementira ih u svoju autorsku emisiju, zbog čega je u domovima širom regiona subotnje popodne rezervisano upravo za "Magazin In".</desc>
     <date>2025</date>
@@ -15224,7 +15224,7 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20260822161900 +0000" stop="20260822162100 +0000" channel="Pink.BH.ba">
+  <programme start="20260822111903 +0000" stop="20260822112025 +0000" channel="Pink.BH.ba">
     <title lang="hr">Vremenska prognoza BH</title>
     <desc lang="hr">Informacije o vremenu i prognoza za naredne dane u Bosni i Hercegovini i okruženju. Informacije o vremenu i prognoza za naredne dane u Bosni i Hercegovini i okruženju.</desc>
     <date>2026</date>
@@ -15234,7 +15234,7 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20260822162100 +0000" stop="20260822183000 +0000" channel="Pink.BH.ba">
+  <programme start="20260822112025 +0000" stop="20260822183000 +0000" channel="Pink.BH.ba">
     <title lang="hr">Kuduz</title>
     <desc lang="hr">Kultni jugoslavenski film donosi priču o bivšem zatvoreniku Kuduzu koji se zaljubljuje u fatalnu konobaricu Bademu. U sumornom ambijentu gradske periferije počinje priča o lokalnoj zavodnici koja se udaje za doskorašnjeg robijaša Kuduza, čoveka kojeg razapinju strasti. Početni nesporazumi i praštanja izmedu supružnika, a zatim potere i svađe, mirenja i molbe, neminovno vode ovu vezu dvoje ljudi elementarnog naboja tragičnom završetku. On će izvršiti zločin. Za sve vreme ove burne veze odvija se plemenita, nežna i kristalno čista ljubav između poočima Kuduza i njegove petogodišnje pastorke.</desc>
     <date>1989</date>
@@ -15343,7 +15343,7 @@
   <programme start="20260823070000 +0000" stop="20260823090000 +0000" channel="Pink.BH.ba">
     <title lang="hr">Filmski program</title>
     <desc lang="hr">Kroz raznovrsne filmske žanrove zabavićete se i opustiti, jer pružaju vrhunsku zabavu gledaocima u svako doba. Kroz raznovrsne filmske žanrove zabavićete se i opustiti, jer pružaju vrhunsku zabavu gledaocima u svako doba.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/02/20/4834365d-c416-4157-924b-9a7484ca15e6_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/02/20/f49f94ef-b8a1-42d2-a56e-faf373a1379a_stb_xl.jpg" />
     <rating system="BA">
       <value>18+</value>
     </rating>
@@ -15351,7 +15351,7 @@
   <programme start="20260823090000 +0000" stop="20260823110000 +0000" channel="Pink.BH.ba">
     <title lang="hr">Filmski program</title>
     <desc lang="hr">Kroz raznovrsne filmske žanrove zabavićete se i opustiti, jer pružaju vrhunsku zabavu gledaocima u svako doba. Kroz raznovrsne filmske žanrove zabavićete se i opustiti, jer pružaju vrhunsku zabavu gledaocima u svako doba.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/02/20/4834365d-c416-4157-924b-9a7484ca15e6_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/02/20/f49f94ef-b8a1-42d2-a56e-faf373a1379a_stb_xl.jpg" />
     <rating system="BA">
       <value>18+</value>
     </rating>
@@ -15359,7 +15359,7 @@
   <programme start="20260823110000 +0000" stop="20260823123000 +0000" channel="Pink.BH.ba">
     <title lang="hr">Scena region</title>
     <desc lang="hr">Emisija se bavi aktuelnim dešavanjima iz života poznatih, prati bitne događaje na domaćoj javnoj sceni i donosi pregršt zanimljivih vijesti, intervjua i izveštaja o poznatima. Za ovu zabavnu emisiju o... Emisija se bavi aktuelnim dešavanjima iz života poznatih, prati bitne događaje na domaćoj javnoj sceni i donosi pregršt zanimljivih vijesti, intervjua i izveštaja o poznatima. Za ovu zabavnu emisiju o poznatima govorile su najveće domaće i regionalne zvijezde, a čine je i aktuealne vijesti iz svijeta šoubiznisa, kako domaćeg, tako i stranog. Ekipa emisije SCENA REGION donosi sve važne vijesti iz života poznatih i prati sve najznačajnije događaje, ne samo u zemlji, već i u regionu.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/30/77db391b-3057-4344-9df0-2727b0275ffd_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/30/6e62ee10-b71b-4ccb-8fdd-3a85d2cac728_stb_xl.jpg" />
     <country lang="hr">Srbija</country>
     <rating system="BA">
       <value>18+</value>
@@ -15377,7 +15377,7 @@
   <programme start="20260823161000 +0000" stop="20260823180000 +0000" channel="Pink.BH.ba">
     <title lang="hr">Filmski program</title>
     <desc lang="hr">Kroz raznovrsne filmske žanrove zabavićete se i opustiti, jer pružaju vrhunsku zabavu gledaocima u svako doba. Kroz raznovrsne filmske žanrove zabavićete se i opustiti, jer pružaju vrhunsku zabavu gledaocima u svako doba.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/02/20/4834365d-c416-4157-924b-9a7484ca15e6_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/02/20/f49f94ef-b8a1-42d2-a56e-faf373a1379a_stb_xl.jpg" />
     <rating system="BA">
       <value>18+</value>
     </rating>
@@ -16052,7 +16052,7 @@
   <programme start="20260823051500 +0000" stop="20260823060000 +0000" channel="RTV.BIR.HD.ba">
     <title lang="hr">Velikani sevdaha</title>
     <desc lang="hr">U ovom glazbenom dokumentarcu, saznajte imena najpoznatijih umjetnika koji su predstavljali sevdalinke, baštinili ih i njegovali i tako ostavili velik trag u kulturnoj tradiciji. Dokumentarna serija posvećena velikanima sevdaha i njihovom značajnom doprinosu očuvanju i razvoju tradicionalne muzičke baštine. Kroz arhivske snimke, interpretacije i svjedočanstva, emisija donosi portrete umjetnika i njihov umjetnički put. Prikazuje se razvoj sevdaha kroz vrijeme, njegova emotivna snaga i kulturni značaj. Serija ističe važnost prenošenja tradicije na nove generacije i očuvanja muzičkog identiteta kao dijela zajedničkog naslijeđa.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/05/09/eb61e206-4c7b-45ed-94a1-ab5f069dc745_stb_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/05/09/487a1c26-a6e6-4f94-ac02-481eec74167d_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260823060000 +0000" stop="20260823063000 +0000" channel="RTV.BIR.HD.ba">
@@ -16192,7 +16192,7 @@
   <programme start="20260823163000 +0000" stop="20260823171500 +0000" channel="RTV.BIR.HD.ba">
     <title lang="hr">Ljudi i vrijeme</title>
     <desc lang="hr">Ljudi i vrijeme mozaična je emisija koja se bavi društvenim temama i raznolikim životnim pričama koje će da vas inspirišu i nadahnu na promjenu. Ljudi koji žive u jednom periodu svojim djelima, trudom i zalaganjem ostavljaju trag u vremenu. I dok vrijeme troši čovjeka, čovjek mu ostavlja dio sebe. U emisji Ljudi i vrijeme možete pogledati zanimljive životne priče ljudi koji su dio historije.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/07/04/d481bcc3-f9e0-4e05-8f59-c31a4c9ae855_stb_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/07/04/3a32297c-ffcd-4cdb-90d4-64b8b1b32790_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260823171500 +0000" stop="20260823173000 +0000" channel="RTV.BIR.HD.ba">
@@ -16302,7 +16302,7 @@
   <programme start="20260824014500 +0000" stop="20260824023000 +0000" channel="RTV.BIR.HD.ba">
     <title lang="hr">Velikani sevdaha</title>
     <desc lang="hr">U ovom glazbenom dokumentarcu, saznajte imena najpoznatijih umjetnika koji su predstavljali sevdalinke, baštinili ih i njegovali i tako ostavili velik trag u kulturnoj tradiciji. Dokumentarna serija posvećena velikanima sevdaha i njihovom značajnom doprinosu očuvanju i razvoju tradicionalne muzičke baštine. Kroz arhivske snimke, interpretacije i svjedočanstva, emisija donosi portrete umjetnika i njihov umjetnički put. Prikazuje se razvoj sevdaha kroz vrijeme, njegova emotivna snaga i kulturni značaj. Serija ističe važnost prenošenja tradicije na nove generacije i očuvanja muzičkog identiteta kao dijela zajedničkog naslijeđa.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/05/09/eb61e206-4c7b-45ed-94a1-ab5f069dc745_stb_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/05/09/487a1c26-a6e6-4f94-ac02-481eec74167d_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260824023000 +0000" stop="20260824043000 +0000" channel="RTV.BIR.HD.ba">
@@ -16636,7 +16636,7 @@
   <programme start="20260825014500 +0000" stop="20260825023000 +0000" channel="RTV.BIR.HD.ba">
     <title lang="hr">Ljudi i vrijeme</title>
     <desc lang="hr">Ljudi i vrijeme mozaična je emisija koja se bavi društvenim temama i raznolikim životnim pričama koje će da vas inspirišu i nadahnu na promjenu. Ljudi koji žive u jednom periodu svojim djelima, trudom i zalaganjem ostavljaju trag u vremenu. I dok vrijeme troši čovjeka, čovjek mu ostavlja dio sebe. U emisji Ljudi i vrijeme možete pogledati zanimljive životne priče ljudi koji su dio historije.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/07/04/3a32297c-ffcd-4cdb-90d4-64b8b1b32790_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/07/04/d481bcc3-f9e0-4e05-8f59-c31a4c9ae855_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260825023000 +0000" stop="20260825043000 +0000" channel="RTV.BIR.HD.ba">
@@ -18774,7 +18774,7 @@
   <programme start="20260823235100 +0000" stop="20260823235500 +0000" channel="RTV.TK.ba">
     <title lang="hr">Promocija programa</title>
     <desc lang="hr">Predstavljanje televizijskih sadržaja koji će biti u programu RTV TK. Predstavljanje televizijskih sadržaja koji će biti u programu RTV TK.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/07/07/3bdb9f1c_1540_4201_a773_3390c093ddca_stb_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/07/07/3bdb9f1c_1540_4201_a773_3390c093ddca_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260823235500 +0000" stop="20260824004000 +0000" channel="RTV.TK.ba">
@@ -19284,7 +19284,7 @@
   <programme start="20260825111000 +0000" stop="20260825112300 +0000" channel="RTV.TK.ba">
     <title lang="hr">Detektor TV</title>
     <desc lang="hr">'Detektor TV' je emisija koja obrađuje teme vezane uz suđenja za ratne zločine, političke afere i terorizam. Naš cilj je na istinit i relevantan način obraditi aktuelne teme. Emisija istraživačkog tipa donosi dubinske priče o društvenim fenomenima, korupciji, ljudskim pravima i radu institucija, koristeći intervjue, dokumente i terenske izvještaje. Poseban fokus stavlja se na transparentnost, odgovornost i uticaj odluka vlasti na svakodnevni život građana. Reportaže se temelje na provjerenim izvorima i dugotrajnom istraživačkom radu novinara. Program nastoji podići svijest javnosti i podstaći diskusiju o važnim društvenim pitanjima. Emisija doprinosi medijskoj pismenosti kontinuirano.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/03/07/565679d2-acaa-4f1d-a9fd-2ff2029039b3_stb_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/03/07/25ad14fb-42e5-428e-a741-16dc00b05792_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260825112300 +0000" stop="20260825112500 +0000" channel="RTV.TK.ba">
@@ -19992,7 +19992,7 @@
   <programme start="20260824165000 +0000" stop="20260824170000 +0000" channel="RTV.Zenica.HD.ba">
     <title lang="hr">O bosanskom na bosanskom</title>
     <desc lang="hr">Emisija posvećena bosanskom jeziku nastala je u saradnji sa Institutom za jezik Univerziteta u Sarajevu. Saznajte brojne jezične zanimljivosti i naučite kako da se izražavate bez problema. Emisija posvećena bosanskom jeziku nastala je u saradnji sa Institutom za jezik Univerziteta u Sarajevu. Saznajte brojne jezične zanimljivosti i naučite kako da se izražavate bez problema.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/12/20/98273f37-b617-4bb3-944c-a5fd95a2c937_stb_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/12/20/b3596f11-bff6-482e-9e31-37c0fd8d0e7a_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260824170000 +0000" stop="20260824173000 +0000" channel="RTV.Zenica.HD.ba">
@@ -21607,7 +21607,7 @@
   <programme start="20260822130000 +0000" stop="20260822131500 +0000" channel="TV.Bugojno.ba">
     <title lang="hr">Najava programa</title>
     <desc lang="hr">Pregled programskog sadržaja za današnji dan. Pregled programskog sadržaja za današnji dan.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/05/08/8e0ff150-fffa-4e34-97af-bff9da853c39_stb_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/05/08/db2809cb-2ba2-4b26-b1e6-f387b393b322_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260822131500 +0000" stop="20260822133000 +0000" channel="TV.Bugojno.ba">
@@ -21763,7 +21763,7 @@
   <programme start="20260823130000 +0000" stop="20260823131500 +0000" channel="TV.Bugojno.ba">
     <title lang="hr">Najava programa</title>
     <desc lang="hr">Pregled programskog sadržaja za današnji dan. Pregled programskog sadržaja za današnji dan.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/05/08/8e0ff150-fffa-4e34-97af-bff9da853c39_stb_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/05/08/db2809cb-2ba2-4b26-b1e6-f387b393b322_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260823131500 +0000" stop="20260823133000 +0000" channel="TV.Bugojno.ba">
@@ -21918,7 +21918,7 @@
   <programme start="20260824130000 +0000" stop="20260824131500 +0000" channel="TV.Bugojno.ba">
     <title lang="hr">Najava programa</title>
     <desc lang="hr">Pregled programskog sadržaja za današnji dan. Pregled programskog sadržaja za današnji dan.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/05/08/db2809cb-2ba2-4b26-b1e6-f387b393b322_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/05/08/8e0ff150-fffa-4e34-97af-bff9da853c39_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
   <programme start="20260824131500 +0000" stop="20260824133000 +0000" channel="TV.Bugojno.ba">
