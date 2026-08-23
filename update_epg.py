@@ -46,10 +46,14 @@ KEEP_IDS = {
     'Televizija.Hema.ba',
 }
 
-# EPGShare koristi stari ID za Nova BH.
-# U našem SenoEPG-u ga pretvaramo u 108.ba
-ID_REMAP = {
-    'Nova.BH.HD.(BIH).ba': '108.ba',
+# Originalni tvg-id iz Senadove M3U -> pravi EPG ID.
+ALIASES = {
+    '108.ba': 'Nova.BH.HD.(BIH).ba',   # zadržava i već provjereni Nova BH ID
+    'Hayat Plus': 'Hayat.2.ba',
+    'hayat-music': 'Hayat.Music.Box.ba',
+    'BiH BN': 'BN.HD.(BIH).ba',
+    'n1': 'N1.HD.(BH)/(BIH).ba',
+    'izvorna-tv': 'Izvorna.TV.ba',
 }
 
 OUT_XML = Path("senoepg-bih.xml")
@@ -57,59 +61,59 @@ OUT_GZ = Path("senoepg-bih.xml.gz")
 
 req = urllib.request.Request(
     SOURCE_URL,
-    headers={"User-Agent": "SenoEPG-BiH/1.0 (+GitHub Actions)"}
+    headers={"User-Agent": "SenoEPG-BiH/2.0 (+GitHub Actions)"}
 )
-
-with urllib.request.urlopen(req, timeout=120) as response:
-    compressed = response.read()
-
-xml_bytes = gzip.decompress(compressed)
-source_root = ET.fromstring(xml_bytes)
+with urllib.request.urlopen(req, timeout=180) as response:
+    source_root = ET.fromstring(gzip.decompress(response.read()))
 
 new_root = ET.Element(
     "tv",
     {
-        "generator-info-name": "SenoEPG BiH PRAVI - filtered EPGShare BA1",
+        "generator-info-name": "SenoEPG BiH - original M3U compatible",
         "generator-info-url": "https://epgshare01.online/",
     },
 )
 
-channel_count = 0
-programme_count = 0
+for ch in source_root.findall("channel"):
+    if ch.attrib.get("id") in KEEP_IDS:
+        new_root.append(copy.deepcopy(ch))
 
-# Kanali
-for channel in source_root.findall("channel"):
-    source_id = channel.attrib.get("id")
+for p in source_root.findall("programme"):
+    if p.attrib.get("channel") in KEEP_IDS:
+        new_root.append(copy.deepcopy(p))
 
-    if source_id in KEEP_IDS:
-        new_channel = copy.deepcopy(channel)
+def add_aliases(root, aliases):
+    channels = {c.attrib.get("id", ""): c for c in root.findall("channel")}
+    programmes = list(root.findall("programme"))
+    existing = set(channels)
 
-        # Nova BH: stari ID -> 108.ba
-        new_channel.attrib["id"] = ID_REMAP.get(source_id, source_id)
+    for alias_id, source_id in aliases.items():
+        if alias_id in existing:
+            continue
+        src_ch = channels.get(source_id)
+        if src_ch is None:
+            print(f"WARNING: nema izvornog kanala za alias {alias_id} -> {source_id}")
+            continue
 
-        new_root.append(new_channel)
-        channel_count += 1
+        ch = copy.deepcopy(src_ch)
+        ch.set("id", alias_id)
+        root.append(ch)
+        existing.add(alias_id)
 
-# Programski raspored
-for programme in source_root.findall("programme"):
-    source_id = programme.attrib.get("channel")
+        for p in programmes:
+            if p.attrib.get("channel") == source_id:
+                cp = copy.deepcopy(p)
+                cp.set("channel", alias_id)
+                root.append(cp)
 
-    if source_id in KEEP_IDS:
-        new_programme = copy.deepcopy(programme)
-
-        # Nova BH program također mora koristiti 108.ba
-        new_programme.attrib["channel"] = ID_REMAP.get(source_id, source_id)
-
-        new_root.append(new_programme)
-        programme_count += 1
+add_aliases(new_root, ALIASES)
 
 ET.indent(new_root, space="  ")
-tree = ET.ElementTree(new_root)
-tree.write(OUT_XML, encoding="utf-8", xml_declaration=True)
+ET.ElementTree(new_root).write(OUT_XML, encoding="utf-8", xml_declaration=True)
 
 with OUT_XML.open("rb") as src, gzip.open(OUT_GZ, "wb", compresslevel=9) as dst:
     dst.write(src.read())
 
-print(f"Updated {OUT_XML}: {channel_count} channels, {programme_count} programme entries")
-print(f"Updated {OUT_GZ}")
-print("Nova BH EPG ID: 108.ba")
+print(f"Updated {OUT_XML} and {OUT_GZ}")
+print(f"Channels: {len(new_root.findall('channel'))}")
+print(f"Programmes: {len(new_root.findall('programme'))}")
