@@ -90231,234 +90231,6 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/2022/10/20/14/30/10/light_480x270.png" />
     <url>http://www.epg.sbb.rs</url>
   </channel>
-  <programme start="20260824001500 +0000" stop="20260824010000 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Dom po meri ljubimaca</title>
-    <desc lang="sl">Porodica traži od Antonija da dizajnira savršeni raj za svinju. Gospodinu Piklsu treba nova kuća, jama s blatom i dovoljno prostora za trčanje u njihovom vrtu.</desc>
-    <date>2019</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/08/20/ef80b020-be6f-4c17-b103-a7a3de1426d3_stb_xl.jpg" />
-    <rating system="SI">
-      <value>1+</value>
-    </rating>
-  </programme>
-  <programme start="20260824010000 +0000" stop="20260824014500 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Teksaški lovočuvari</title>
-    <desc lang="sl">U okrugu Kalhun, Ben i Čelsi Bejli nadziru čamce za lov na škampe, kada jedan krene u akciju. U međuvremenu, jedan drugi čuvar stiče par novih krznenih prijatelja.</desc>
-    <date>2019</date>
-    <category lang="sl">Priroda</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/06/18/bb3eba02-4b16-42e6-853c-f24bab27fd00_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824014500 +0000" stop="20260824023000 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Život u divljini Aljaske</title>
-    <desc lang="sl">Duboko u srcu Aljaske žive Braunovi, rođeni i odgajani u divljini. Porodica sa sedmoro dece živi van granica civilizacije i zavise jedni od drugih kako bi preživeli u divljini.</desc>
-    <date>2015</date>
-    <category lang="sl">Porodični zivot</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/b6098417-49fb-4958-b5af-c170529fbff6_stb_xl.jpg" />
-    <rating system="SI">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260824023000 +0000" stop="20260824031500 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Život u divljini Aljaske</title>
-    <desc lang="sl">Duboko u srcu Aljaske žive Braunovi, rođeni i odgajani u divljini. Porodica sa sedmoro dece živi van granica civilizacije i zavise jedni od drugih kako bi preživeli u divljini.</desc>
-    <date>2016</date>
-    <category lang="sl">Porodični zivot</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/b6098417-49fb-4958-b5af-c170529fbff6_stb_xl.jpg" />
-    <rating system="SI">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260824031500 +0000" stop="20260824040000 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Projekat "Grizli"</title>
-    <desc lang="sl">Džef je zadovoljan što Bob i Skrič uče kako da se sami hrane. On ih uči kako da naprave jazbinu za zimu. Osim toga, grizliji razvijaju osećaj za zaštitu svoje teritorije.</desc>
-    <date>2016</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/18/b1f71137-2301-473d-aeba-94d3768412d7_stb_xl.jpg" />
-    <rating system="SI">
-      <value>1+</value>
-    </rating>
-  </programme>
-  <programme start="20260824040000 +0000" stop="20260824045000 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Pa to su Irvinovi!</title>
-    <desc lang="sl">Porodica Irvin - Teri, Bindi i Robert - svojim radom u velikom australijskom zoološkom vrtu nastavlja tradiciju Stiva Irvina u cilju zaštite životinja.</desc>
-    <date>2019</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/18/34214c6c-c424-4b54-9763-86e2e5d0cd39_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824045000 +0000" stop="20260824054000 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Zoološki vrt</title>
-    <desc lang="sl">Zoološki vrt Central Park dočekuje svog prvog atlantskog morskog papagaja. U međuvremenu, ugrožena vrsta guštera spremna je za svoje prvo izleganje, a nosorog Peni prolazi testove.</desc>
-    <date>2020</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/05/18/d5f3557a-24c3-4acf-9319-eeb0fd8700af_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824054000 +0000" stop="20260824063000 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Spasavanje imanja</title>
-    <desc lang="sl">Renijevi se vraćaju u Australiju, ali uviđaju da im je dom u lošem stanju. Žure da renoviraju kuću dok ponovo ne krene jaka zima.</desc>
-    <date>2019</date>
-    <category lang="sl">Životni stil</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/05/16/3ec140e6-ae63-4749-8b02-6a66c43956f5_stb_xl.jpg" />
-    <rating system="SI">
-      <value>1+</value>
-    </rating>
-  </programme>
-  <programme start="20260824063000 +0000" stop="20260824072500 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Dr Džef: Veterinar sa Stenovitih planina</title>
-    <desc lang="sl">Kada je voljenom psu potrebna operacija kolena, dr Džef je možda njegova jedina nada. Dr Nikols i dr Petra se udružuju kako bi učvrstili slomljeni lakat jedne mačke.</desc>
-    <date>2016</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/58d1f6ba-19cb-4b32-8d98-acd3f058c334_xl.jpg" />
-  </programme>
-  <programme start="20260824072500 +0000" stop="20260824082000 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Akvarijumi</title>
-    <desc lang="sl">Košarkaška legenda Dvajt Hauard želi da mu momci iz firme ATM osmisle i naprave stanište za njegovih 14 zmija. I želi vilu za reptile.</desc>
-    <date>2015</date>
-    <category lang="sl">Profesija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2020/02/04/68a7af02-2578-4c0a-baaa-b49ad2ac4440_stb_xl.jpg" />
-    <rating system="SI">
-      <value>1+</value>
-    </rating>
-  </programme>
-  <programme start="20260824082000 +0000" stop="20260824091500 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Policija za životinje Feniks</title>
-    <desc lang="sl">Istražitelj Ej Džej daje sve od sebe da spasi štenad psa koji se okotio na ulici. Na drugom mestu, veterinar tehničar Kinsel se zalaže za život povređene ptice.</desc>
-    <date>2009</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/17/bcf592af-2e76-4c03-9072-dbe471c46a3f_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824091500 +0000" stop="20260824101000 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Policija za životinje Feniks</title>
-    <desc lang="sl">Rentgenski zraci pružaju bitne dokaze u istraživanju slučaja tri izgladnela psa. Istražitelj Ej Džej se suočava sa vlasnikom oko vrste hrane koju životinje jedu.</desc>
-    <date>2009</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/17/bcf592af-2e76-4c03-9072-dbe471c46a3f_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824101000 +0000" stop="20260824110500 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Teksaški lovočuvari</title>
-    <desc lang="sl">Širom Teksasa, rekordne oluje i poplave ometaju patrolne čamce. Tragačke i spasilačke ekipe spasile su veliki broj ljudi iz opasne brze vode.</desc>
-    <date>2016</date>
-    <category lang="sl">Priroda</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/10/21/6ef581b0-046a-4f3e-bfbb-d0ec05610e82_xl.jpg" />
-  </programme>
-  <programme start="20260824110500 +0000" stop="20260824120000 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Heroji organizacije Dodo</title>
-    <desc lang="sl">Porodica koja se posvetila spasavanju životinja u Australiji pustila je koalu Krikija u prirodu nakon što su ga godinu dana negovali dok nije ozdravio.</desc>
-    <date>2018</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/29/be378d20-e069-453b-a45a-9d8ef46b6405_stb_xl.jpg" />
-    <rating system="SI">
-      <value>1+</value>
-    </rating>
-  </programme>
-  <programme start="20260824120000 +0000" stop="20260824130000 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Dom po meri ljubimaca</title>
-    <desc lang="sl">Antonio upoznaje porodicu sa dva bradata zmaja koje je zatekao u akvarijumu u spavaćoj sobi. On u dvorištu gradi klub za zmajeve kao super mesto za druženje za celu porodicu.</desc>
-    <date>2019</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/08/20/ef80b020-be6f-4c17-b103-a7a3de1426d3_stb_xl.jpg" />
-    <rating system="SI">
-      <value>1+</value>
-    </rating>
-  </programme>
-  <programme start="20260824130000 +0000" stop="20260824140000 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Pitbul terijeri i bivši zatvorenici</title>
-    <desc lang="sl">Ekipa žuri da spasi psa na prometnom auto-putu. Osim toga, porodica putuje iz Masačusetsa kako bi pronašla četvoronožnog prijatelja koga će uključiti u svoje domaćinstvo.</desc>
-    <date>2019</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/05/30/2857dacd-6eb2-4478-a9d3-5534caa5cfd7_stb_xl.jpg" />
-    <rating system="SI">
-      <value>1+</value>
-    </rating>
-  </programme>
-  <programme start="20260824140000 +0000" stop="20260824150000 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Paklene mačke</title>
-    <desc lang="sl">Pegi je 'Prava domaćica okruga Orandž'. Navikla je na svađe, ali sada se suočava sa jednom u koju je uključena njena prava mačka.</desc>
-    <date>2015</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/09/27/59fb3287-84c8-4ea6-8f48-40821b2d5bab_stb_xl.jpg" />
-    <rating system="SI">
-      <value>1+</value>
-    </rating>
-  </programme>
-  <programme start="20260824150000 +0000" stop="20260824160000 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Pa to su Irvinovi!</title>
-    <desc lang="sl">Porodica Irvin - Teri, Bindi i Robert - svojim radom u velikom australijskom zoološkom vrtu nastavlja tradiciju Stiva Irvina u cilju zaštite životinja.</desc>
-    <date>2019</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/18/34214c6c-c424-4b54-9763-86e2e5d0cd39_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824160000 +0000" stop="20260824170000 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Dr Džef: Veterinar sa Stenovitih planina</title>
-    <desc lang="sl">U veterinarskoj ambulanti Planned Pethood Plus ne postoji pojam "uobičajen dan". Za brojne klijente i njihove ljubimce, neobični veterinar dr Džef Jang predstavlja poslednju nadu.</desc>
-    <date>2016</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/58d1f6ba-19cb-4b32-8d98-acd3f058c334_xl.jpg" />
-  </programme>
-  <programme start="20260824170000 +0000" stop="20260824180000 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Izvanredni bazeni - Smeli projekti</title>
-    <desc lang="sl">Porodica sa izraženom ekološkom svešću koja živi u rezervatu za ptice na Floridi traži da im stručnjak za dizajn Lukas napravi bazen koji će biti raj za ljude i oaza za ptice.</desc>
-    <date>2016</date>
-    <category lang="sl">Zabava</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/07/18/a0615d9e-392b-4895-9623-697ba9ad48b8_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824180000 +0000" stop="20260824190000 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Ekspedicija Bigfut</title>
-    <desc lang="sl">Tim veruje da su konačno locirali mesto gde se Bigfut krio tokom njihove ekspedicije. Za potrebe istraživanja stigao je visokotehnološki dron.</desc>
-    <date>2020</date>
-    <category lang="sl">Avantura</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/02/25/9249acf7-e97b-45a1-99ae-0a58f3a852ed_stb_xl.jpg" />
-    <rating system="SI">
-      <value>1+</value>
-    </rating>
-  </programme>
-  <programme start="20260824190000 +0000" stop="20260824200000 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Život u divljini Aljaske</title>
-    <desc lang="sl">Bilijev san o samoodrživosti je na ispitu dok Braunovi počinju svoj najveći projekat do sada, a Met i Bam pomažu proširenje Brauntauna svojim ličnim poduhvatima.</desc>
-    <date>2017</date>
-    <category lang="sl">Porodični zivot</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/18/043e7740-f005-4e94-bc3e-f10740d37c86_stb_xl.jpg" />
-    <rating system="SI">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260824200000 +0000" stop="20260824210000 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Teksaški lovočuvari</title>
-    <desc lang="sl">U Teksasu je sve teže, uključujući i posao teksaških lovočuvara, koji štite prirodne resurse ove savezne države i održavaju red među njenih 27 miliona stanovnika. Ova elitna patrola štiti više od četvrt miliona kvadratnih milja.</desc>
-    <date>2016</date>
-    <category lang="sl">Priroda</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/10/21/6ef581b0-046a-4f3e-bfbb-d0ec05610e82_xl.jpg" />
-  </programme>
-  <programme start="20260824210000 +0000" stop="20260824220000 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Smrtonosna ostrva</title>
-    <desc lang="sl">Dejv Salmoni, biolog i stručnjak za životinje grabljivce, odlazi na planinsko ostrvo u severoistočnom Pacifiku koje je dom velikom broju grizli medveda.</desc>
-    <date>2014</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/03/31/801646c3_763a_4c0a_9b01_95d2c025a174_xl.jpg" />
-  </programme>
-  <programme start="20260824220000 +0000" stop="20260824224500 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Istrebljeni ili ne</title>
-    <desc lang="sl">Forest pročešljava Everglejds na Floridi tražeći crnog pantera, koji nikada nije viđen u SAD. Otkrića u ovoj oblasti sugerišu da možda postoji nešto više od glasina. [9-A.</desc>
-    <date>2018</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/2d91f641-5242-4315-a4a7-81b966c7b3dd_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824224500 +0000" stop="20260824233000 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Policija za životinje Majami</title>
-    <desc lang="sl">Istražitelji za okrutnost prema životinjama u Majamiju pronalaze dva usvojena psa kako lutaju gradom i kojima treba pomoć.</desc>
-    <date>2010</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/28/e4433e80-b1a7-4fef-b2c1-04128e216671_xl.jpg" />
-  </programme>
-  <programme start="20260824233000 +0000" stop="20260825001500 +0000" channel="Animal.Planet.HD.(RS).rs">
-    <title lang="sl">Akvarijumi</title>
-    <desc lang="sl">Direktor porodične vinarije želi predivan akvarijum s grebenom za svoju dnevnu sobu - i to treba uraditi pre sezone berbe. Mogu li momci da završe posao na vreme.</desc>
-    <date>2017</date>
-    <category lang="sl">Profesija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/057cd72f-c730-440f-8e41-578564dd59ac_xl.jpg" />
-    <rating system="SI">
-      <value>16+</value>
-    </rating>
-  </programme>
   <programme start="20260825001500 +0000" stop="20260825010000 +0000" channel="Animal.Planet.HD.(RS).rs">
     <title lang="sl">Policija za životinje Feniks</title>
     <desc lang="sl">Istražitelj Berkli pronalazi dva psa koji umiru na vrućini. Plus, istražitelji moraju da se nose sa ženom čije sažaljenje nadmašuje njenu sposobnost za brigu o životinjama.</desc>
@@ -90653,7 +90425,7 @@
     <desc lang="sl">Upoznajte čoveka koji je toliko opsednut gušterima da je promenio ime u g-din. Lizardlover (obožavalac guštera) i postigao slavu fotografišući svoje ljubimce u ljudskim pozama.</desc>
     <date>2014</date>
     <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/01/09/19b6f0a3_c5dc_4b91_9df9_51301cbd46af_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/01/09/19b6f0a3_c5dc_4b91_9df9_51301cbd46af_stb_xl.jpg" />
   </programme>
   <programme start="20260825220000 +0000" stop="20260825224500 +0000" channel="Animal.Planet.HD.(RS).rs">
     <title lang="sl">Istrebljeni ili ne</title>
@@ -90998,7 +90770,7 @@
     <desc lang="sl">Patuljasta koza je doneta u kliniku zbog izrasline. Dr Lavin je zauzet sa psom za zaštitu koji ne voli kamere, a Bluovi organizuju zabavu otkrivanja pola.</desc>
     <date>2019</date>
     <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/10/01/763106ad-ff35-4587-bdd6-c5746cadf100_stb_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/10/01/bd238963-5abe-4d97-9acb-496b006eb2b5_xl.jpg" />
   </programme>
   <programme start="20260827120000 +0000" stop="20260827130000 +0000" channel="Animal.Planet.HD.(RS).rs">
     <title lang="sl">Dom po meri ljubimaca</title>
@@ -91017,268 +90789,218 @@
     <category lang="sl">Životinje</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/05/30/2857dacd-6eb2-4478-a9d3-5534caa5cfd7_stb_xl.jpg" />
   </programme>
-  <programme start="20260824001500 +0000" stop="20260824010000 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Drevni vanzemaljci</title>
-    <desc lang="sl">Hiljadama godina ljudska civilizacija rukovodila se rečima i delima drevnih proroka, ali sa kim su ti proroci komunicirali.</desc>
-    <date>2013</date>
-    <category lang="sl">Istorija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/08/02/b16a8565-14c0-49dd-90c0-da7ed69168f9_stb_xl.jpg" />
+  <programme start="20260827140000 +0000" stop="20260827150000 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Paklene mačke</title>
+    <desc lang="sl">Merjam je vidovnjak za kućne ljubimce, ali ne može da komunicira sa svojom zlobnom mačkom Lili. Pored toga, Kloi otkriva čitavu divlju koloniju iza kuće svojih roditelja.</desc>
+    <date>2015</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/09/27/59fb3287-84c8-4ea6-8f48-40821b2d5bab_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260827150000 +0000" stop="20260827160000 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Pa to su Irvinovi!</title>
+    <desc lang="sl">Porodica Irvin - Teri, Bindi i Robert - nastavlja zaveštanje Stiva Irvina kroz svoj rad u velikom australijskom zoološkom vrtu. PREMIERE.</desc>
+    <date>2018</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/05/16/fa97e3d5-86ab-4c72-9da3-4f1f4f20e1a4_stb_xl.jpg" />
+  </programme>
+  <programme start="20260827160000 +0000" stop="20260827170000 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Dr Džef: Veterinar sa Stenovitih planina</title>
+    <desc lang="sl">Najzauzetiji veterinar iz Denvera se vratio! Dok se dr Ejmi bavi istraživačkom hirurgijom zbog mačke sa neobičnim apetitom, dr Džef pomaže povređenom tigru.</desc>
+    <date>2017</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/58d1f6ba-19cb-4b32-8d98-acd3f058c334_xl.jpg" />
+  </programme>
+  <programme start="20260827170000 +0000" stop="20260827180000 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Izvanredni bazeni - Smeli projekti</title>
+    <desc lang="sl">Stručnjak za dizajn eksterijera Lukas Kongdon i njegov tim podižu koncept dvorišnih bazena do neslućenih visina. Izrade su im veće nego ikada i imaju veoma ekstravagantne odlike.</desc>
+    <date>2018</date>
+    <category lang="sl">Zabava</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2020/01/29/3fba4e11-2aff-40ca-8380-77f8f9c6d6d1_stb_xl.jpg" />
+  </programme>
+  <programme start="20260827180000 +0000" stop="20260827190000 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Urgentni centar za životinje</title>
+    <desc lang="sl">Kroz autentični prikaz intervencija, operacija i emotivnih trenutaka između ljubimaca i njihovih vlasnika, gledaoci će imati priliku da prate tim veterinara i njihov rad u malom veterinarskom bolničkom odeljenju najvećeg grada Škotske - Glazgova. Pogledajte kako stručnjaci leče životinje sa različitim povredama i bolestima - od pasa i mačaka do većih životinja - u izazovnim svakodnevnim situacijama.</desc>
+    <date>2019</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/03/03/45adf099_cb40_4923_ae29_3414706912c8_xl.jpg" />
+  </programme>
+  <programme start="20260827190000 +0000" stop="20260827200000 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Život u divljini Aljaske</title>
+    <desc lang="sl">Duboko u srcu Aljaske žive Braunovi, rođeni i odgajani u divljini. Porodica sa sedmoro dece živi van granica civilizacije i zavise jedni od drugih kako bi preživeli u divljini.</desc>
+    <date>2017</date>
+    <category lang="sl">Porodični zivot</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/18/043e7740-f005-4e94-bc3e-f10740d37c86_stb_xl.jpg" />
     <rating system="SI">
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260824010000 +0000" stop="20260824014500 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Neidentifikovani: Tajne američke istrage NLO-a</title>
-    <desc lang="sl">Istraga je otkrila šokantne video dokaze, obrasce, tajne koordinate i svedočenja očevidaca u vezi sa NLO. Najveće pitanje sada je šta su oni i jesu li opasni.</desc>
-    <date>2019</date>
-    <category lang="sl">Vanzemaljci</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/09/27/e181f638-958c-4611-ad0d-c1f9f5ccde48_stb_xl.jpg" />
+  <programme start="20260827200000 +0000" stop="20260827210000 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Teksaški lovočuvari</title>
+    <desc lang="sl">Teksaski lovočuvari moraju da premeste aligatora od 230 kg koji luta po predgrađu. Osim toga oni otkrivaju veliku količinu marihuane sakrivene u rezervatu za divlje životinje.</desc>
+    <date>2016</date>
+    <category lang="sl">Priroda</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/10/21/6ef581b0-046a-4f3e-bfbb-d0ec05610e82_xl.jpg" />
+  </programme>
+  <programme start="20260827210000 +0000" stop="20260827220000 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Preživeo sam</title>
+    <desc lang="sl">Pogledajte dirljive priče ljudi koji su prkosili smrti i koji su, uprkos preprekama i posledicama bili odlučni da prežive napade životinja.</desc>
+    <date>2011</date>
+    <category lang="sl">Preživljavanje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/06/1188647f_875a_4eb4_8b9f_5a41cd6a9ba5_xl.jpg" />
+  </programme>
+  <programme start="20260827220000 +0000" stop="20260827224500 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Projekat "Grizli"</title>
+    <desc lang="sl">Džefove nekonvencionalne lekcije lova ne pripremaju Boba i Skriča da love u divljini, ali otkrio je da oni možda uče samostalno.</desc>
+    <date>2016</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/18/b1f71137-2301-473d-aeba-94d3768412d7_stb_xl.jpg" />
     <rating system="SI">
-      <value>6+</value>
+      <value>1+</value>
     </rating>
   </programme>
-  <programme start="20260824014500 +0000" stop="20260824023000 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Lovci na NLO</title>
-    <desc lang="sl">Stručnjaci istražuju navodni pad svemirske letilice u Teksasu 1897. godine. Navodno su njeni ostaci bačeni u bunar dok je telo vanzemaljca pokopano na obližnjem groblju.</desc>
-    <date>2008</date>
-    <category lang="sl">Paranormalni</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/55fe2d1e-f89a-469a-9ac4-9eb62db74ce5_xl.jpg" />
+  <programme start="20260827224500 +0000" stop="20260827233000 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Policija za životinje Majami</title>
+    <desc lang="sl">Dramatično spasavanje morske krave dovodi do otkrivanja tajne. Za to vreme, istražitelj Kasadeval goni lovokradice čiji su napadi ostavili nekoliko mrtvih goveda.</desc>
+    <date>2010</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/28/e4433e80-b1a7-4fef-b2c1-04128e216671_xl.jpg" />
   </programme>
-  <programme start="20260824023000 +0000" stop="20260824031500 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Arhiva NLO</title>
-    <desc lang="sl">Po prvi put otkrivamo audio snimke pilotske kabine i kontrolnog tornja sukoba pilota i astronauta i prizore neidentifikovanih letećih objekata visoko na našem nebu.</desc>
-    <date>2006</date>
-    <category lang="sl">Naučna fantastika</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/07/10/73d4d126-1169-42de-8103-f7e58cbc865a_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824031500 +0000" stop="20260824040000 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Neidentifikovani: Tajne američke istrage NLO-a</title>
-    <desc lang="sl">Bivši američki insajderi koje je okupila rok zvezda Tom Delondž udružuju se da otkriju šta vlada zna o vanzemaljcima.</desc>
-    <date>2019</date>
-    <category lang="sl">Vanzemaljci</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/09/27/e181f638-958c-4611-ad0d-c1f9f5ccde48_stb_xl.jpg" />
+  <programme start="20260827233000 +0000" stop="20260828001500 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Akvarijumi</title>
+    <desc lang="sl">Momci su u Indijani, gde prave jedan od najvećih akvarijuma za ajkule do sada - u koji smeštaju preko stotinu riba i dve vrste ajkula - a prenošenje ne protiče lako.</desc>
+    <date>2017</date>
+    <category lang="sl">Profesija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/057cd72f-c730-440f-8e41-578564dd59ac_xl.jpg" />
     <rating system="SI">
-      <value>6+</value>
+      <value>1+</value>
     </rating>
   </programme>
-  <programme start="20260824040000 +0000" stop="20260824044500 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Drevna otkrića</title>
-    <desc lang="sl">Istraživači u Meksiku koriste šifru iz drevnog hrama Maja da istraže okultni podzemni svet. U Britaniji istraživači otkrivaju tajnu tehnologiju kojom je načinjena statua Isusa u prirodnoj veličini.</desc>
+  <programme start="20260828001500 +0000" stop="20260828010000 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Policija za životinje Feniks</title>
+    <desc lang="sl">Istražiteljka Marisa Mekhju pokušava da spasi život štenetu koje je neko pokušao da ubije, a potom se usredsređuje da otkrije ko je to uradio.</desc>
     <date>2009</date>
-    <category lang="sl">Nauka</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/03/3cd3c844_b939_43da_917d_d09688d0ad52_stb_xl.jpg" />
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/17/bcf592af-2e76-4c03-9072-dbe471c46a3f_stb_xl.jpg" />
   </programme>
-  <programme start="20260824044500 +0000" stop="20260824053000 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Lovci na izgubljene relikvije</title>
-    <desc lang="sl">Hamilton je sakupio izuzetnu, donekle uznemirujuću kolekciju nacističkih relikvija. Među njima je kolekcija nacističkih broševa koji su prodavani radi prikupljanja novca za nemačku sirotinju i kutija za municiju prepuna srebrnih poluga.</desc>
+  <programme start="20260828010000 +0000" stop="20260828014500 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Policija za životinje Feniks</title>
+    <desc lang="sl">Istražitelj Merlin Barkli pokušava da spasi psa koji je odbačen i ostavljen od strane svojih vlasnika da ugine. Merlin očajnički žuri u bolnicu.</desc>
+    <date>2009</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/17/bcf592af-2e76-4c03-9072-dbe471c46a3f_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828014500 +0000" stop="20260828023000 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Urgentni centar za životinje</title>
+    <desc lang="sl">Kroz autentični prikaz intervencija, operacija i emotivnih trenutaka između ljubimaca i njihovih vlasnika, gledaoci će imati priliku da prate tim veterinara i njihov rad u malom veterinarskom bolničkom odeljenju najvećeg grada Škotske - Glazgova. Pogledajte kako stručnjaci leče životinje sa različitim povredama i bolestima - od pasa i mačaka do većih životinja - u izazovnim svakodnevnim situacijama.</desc>
+    <date>2019</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/03/03/45adf099_cb40_4923_ae29_3414706912c8_xl.jpg" />
+  </programme>
+  <programme start="20260828023000 +0000" stop="20260828031500 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Život u divljini Aljaske</title>
+    <desc lang="sl">Duboko u srcu Aljaske žive Braunovi, rođeni i odgajani u divljini. Porodica sa sedmoro dece živi van granica civilizacije i zavise jedni od drugih kako bi preživeli u divljini.</desc>
+    <date>2017</date>
+    <category lang="sl">Porodični zivot</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/18/043e7740-f005-4e94-bc3e-f10740d37c86_stb_xl.jpg" />
+    <rating system="SI">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260828031500 +0000" stop="20260828040000 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Paklene mačke</title>
+    <desc lang="sl">Džekson Galaksi pomaže vlasnicima đavolastih mačaka. Dve posvađane mačke predstavljaju pretnju za predstojeći medeni mesec jednog para, a bengalska mačka odbija da se igra.</desc>
+    <date>2012</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/08/29/2268ffa9-15de-44b1-90d8-37532b34c4e0_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828040000 +0000" stop="20260828045000 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Pa to su Irvinovi!</title>
+    <desc lang="sl">Porodica Irvin - Teri, Bindi i Robert - svojim radom u velikom australijskom zoološkom vrtu nastavlja tradiciju Stiva Irvina u cilju zaštite životinja.</desc>
+    <date>2019</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/18/34214c6c-c424-4b54-9763-86e2e5d0cd39_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828045000 +0000" stop="20260828054000 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Zoološki vrt</title>
+    <desc lang="sl">Medicinski tim mora da izvede komplikovan zahvat na mladunčetu bizona koje je povredilo nogu. Tri mladunčeta risa spremni su za istraživački zadatak.</desc>
     <date>2021</date>
-    <category lang="sl">Arheologija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/07/26/695fb857-9189-4505-922d-fa3d3322c48d_stb_xl.jpg" />
-    <rating system="SI">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme start="20260824053000 +0000" stop="20260824061500 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Nestali na Aljasci</title>
-    <desc lang="sl">Viđenja majušnih bića poklapaju se sa izveštajima o nestalim osobama u Aljaskom trouglu. Da li možda Aljaskom vršljaju patuljci koji jedu ljude.</desc>
-    <date>2015</date>
-    <category lang="sl">Istorija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/20/da9094c9-c11b-4910-b928-6b2df296a1bd_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824061500 +0000" stop="20260824070000 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Drevni vanzemaljci</title>
-    <desc lang="sl">Hiljadama godina ljudska civilizacija rukovodila se rečima i delima drevnih proroka, ali sa kim su ti proroci komunicirali.</desc>
-    <date>2013</date>
-    <category lang="sl">Istorija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/08/02/b16a8565-14c0-49dd-90c0-da7ed69168f9_stb_xl.jpg" />
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/06/13/103f9825-6532-4dfc-be2d-8d9c3b1c28a2_stb_xl.jpg" />
     <rating system="SI">
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260824070000 +0000" stop="20260824074500 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Neidentifikovani: Tajne američke istrage NLO-a</title>
-    <desc lang="sl">Istraga je otkrila šokantne video dokaze, obrasce, tajne koordinate i svedočenja očevidaca u vezi sa NLO. Najveće pitanje sada je šta su oni i jesu li opasni.</desc>
-    <date>2019</date>
-    <category lang="sl">Vanzemaljci</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/09/27/e181f638-958c-4611-ad0d-c1f9f5ccde48_stb_xl.jpg" />
+  <programme start="20260828054000 +0000" stop="20260828063000 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Neobični kućni ljubimci</title>
+    <desc lang="sl">Upoznajte čoveka koji je toliko opsednut gušterima da je promenio ime u g-din. Lizardlover (obožavalac guštera) i postigao slavu fotografišući svoje ljubimce u ljudskim pozama.</desc>
+    <date>2014</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/01/09/19b6f0a3_c5dc_4b91_9df9_51301cbd46af_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828063000 +0000" stop="20260828072500 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Dr Džef: Veterinar sa Stenovitih planina</title>
+    <desc lang="sl">Dr Džef operiše psa koji je doveden na kliniku nakon što mu je izraslina na vratu pukla. U međuvremenu, tim primenjuje rizičan zahvat na paru spasenih minijaturnih magaraca.</desc>
+    <date>2017</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/58d1f6ba-19cb-4b32-8d98-acd3f058c334_xl.jpg" />
+  </programme>
+  <programme start="20260828072500 +0000" stop="20260828082000 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Akvarijumi</title>
+    <desc lang="sl">Di-džej Ašbi je hitno potreban akvarijum za novu prodavnicu! On će biti domaćin svečanog otvaranja sa akvarijumom kao centralnim elementom. Mogu li momci da ga završe na vreme.</desc>
+    <date>2017</date>
+    <category lang="sl">Profesija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/057cd72f-c730-440f-8e41-578564dd59ac_xl.jpg" />
     <rating system="SI">
-      <value>6+</value>
+      <value>1+</value>
     </rating>
   </programme>
-  <programme start="20260824074500 +0000" stop="20260824083000 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Lovci na NLO</title>
-    <desc lang="sl">Stručnjaci istražuju navodni pad svemirske letilice u Teksasu 1897. godine. Navodno su njeni ostaci bačeni u bunar dok je telo vanzemaljca pokopano na obližnjem groblju.</desc>
-    <date>2008</date>
-    <category lang="sl">Paranormalni</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/55fe2d1e-f89a-469a-9ac4-9eb62db74ce5_xl.jpg" />
-  </programme>
-  <programme start="20260824083000 +0000" stop="20260824091500 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Arhiva NLO</title>
-    <desc lang="sl">Po prvi put otkrivamo audio snimke pilotske kabine i kontrolnog tornja sukoba pilota i astronauta i prizore neidentifikovanih letećih objekata visoko na našem nebu.</desc>
-    <date>2006</date>
-    <category lang="sl">Naučna fantastika</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/07/10/73d4d126-1169-42de-8103-f7e58cbc865a_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824091500 +0000" stop="20260824100000 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Neidentifikovani: Tajne američke istrage NLO-a</title>
-    <desc lang="sl">Bivši američki insajderi koje je okupila rok zvezda Tom Delondž udružuju se da otkriju šta vlada zna o vanzemaljcima.</desc>
-    <date>2019</date>
-    <category lang="sl">Vanzemaljci</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/09/27/e181f638-958c-4611-ad0d-c1f9f5ccde48_stb_xl.jpg" />
-    <rating system="SI">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme start="20260824100000 +0000" stop="20260824104500 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Drevna otkrića</title>
-    <desc lang="sl">Istraživači u Meksiku koriste šifru iz drevnog hrama Maja da istraže okultni podzemni svet. U Britaniji istraživači otkrivaju tajnu tehnologiju kojom je načinjena statua Isusa u prirodnoj veličini.</desc>
+  <programme start="20260828082000 +0000" stop="20260828091500 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Policija za životinje Feniks</title>
+    <desc lang="sl">Istražiteljka Marisa MekHju i menadžer za operacije na terenu, Stejsi DeBolt, se suočavaju sa vlasnikom šest napuštenih pasa koji imaju strahovitu šugu.</desc>
     <date>2009</date>
-    <category lang="sl">Nauka</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/03/3cd3c844_b939_43da_917d_d09688d0ad52_stb_xl.jpg" />
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/17/bcf592af-2e76-4c03-9072-dbe471c46a3f_stb_xl.jpg" />
   </programme>
-  <programme start="20260824104500 +0000" stop="20260824113000 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Lovci na izgubljene relikvije</title>
-    <desc lang="sl">Hamilton je sakupio izuzetnu, donekle uznemirujuću kolekciju nacističkih relikvija. Među njima je kolekcija nacističkih broševa koji su prodavani radi prikupljanja novca za nemačku sirotinju i kutija za municiju prepuna srebrnih poluga.</desc>
-    <date>2021</date>
-    <category lang="sl">Arheologija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/07/26/695fb857-9189-4505-922d-fa3d3322c48d_stb_xl.jpg" />
-    <rating system="SI">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme start="20260824113000 +0000" stop="20260824121500 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Nestali na Aljasci</title>
-    <desc lang="sl">Viđenja majušnih bića poklapaju se sa izveštajima o nestalim osobama u Aljaskom trouglu. Da li možda Aljaskom vršljaju patuljci koji jedu ljude.</desc>
-    <date>2015</date>
-    <category lang="sl">Istorija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/20/da9094c9-c11b-4910-b928-6b2df296a1bd_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824121500 +0000" stop="20260824130000 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Drevni vanzemaljci</title>
-    <desc lang="sl">Hiljadama godina ljudska civilizacija rukovodila se rečima i delima drevnih proroka, ali sa kim su ti proroci komunicirali.</desc>
-    <date>2013</date>
-    <category lang="sl">Istorija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/08/02/b16a8565-14c0-49dd-90c0-da7ed69168f9_stb_xl.jpg" />
-    <rating system="SI">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260824130000 +0000" stop="20260824134500 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Neidentifikovani: Tajne američke istrage NLO-a</title>
-    <desc lang="sl">Istraga je otkrila šokantne video dokaze, obrasce, tajne koordinate i svedočenja očevidaca u vezi sa NLO. Najveće pitanje sada je šta su oni i jesu li opasni.</desc>
-    <date>2019</date>
-    <category lang="sl">Vanzemaljci</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/09/27/e181f638-958c-4611-ad0d-c1f9f5ccde48_stb_xl.jpg" />
-    <rating system="SI">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme start="20260824134500 +0000" stop="20260824143000 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Lovci na NLO</title>
-    <desc lang="sl">Stručnjaci istražuju navodni pad svemirske letilice u Teksasu 1897. godine. Navodno su njeni ostaci bačeni u bunar dok je telo vanzemaljca pokopano na obližnjem groblju.</desc>
-    <date>2008</date>
-    <category lang="sl">Paranormalni</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/55fe2d1e-f89a-469a-9ac4-9eb62db74ce5_xl.jpg" />
-  </programme>
-  <programme start="20260824143000 +0000" stop="20260824151500 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Arhiva NLO</title>
-    <desc lang="sl">Po prvi put otkrivamo audio snimke pilotske kabine i kontrolnog tornja sukoba pilota i astronauta i prizore neidentifikovanih letećih objekata visoko na našem nebu.</desc>
-    <date>2006</date>
-    <category lang="sl">Naučna fantastika</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/07/10/73d4d126-1169-42de-8103-f7e58cbc865a_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824151500 +0000" stop="20260824160000 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Neidentifikovani: Tajne američke istrage NLO-a</title>
-    <desc lang="sl">Bivši operater radara američke mornarice izlazi iz senke kako bi otkrio informacije o zastrašujućem danu kada se dogodila najezda vanzemaljaca. Osoblje američke mornarice otkriva nove detalje, uključujući objašnjenje zašto su NLO viđeni iznad okeana.</desc>
-    <date>2019</date>
-    <category lang="sl">Vanzemaljci</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/09/27/e181f638-958c-4611-ad0d-c1f9f5ccde48_stb_xl.jpg" />
-    <rating system="SI">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme start="20260824160000 +0000" stop="20260824164500 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Drevna otkrića</title>
-    <desc lang="sl">Kako je oklop napravljen od običnog papira mogao da zaustavi kišu strela.</desc>
+  <programme start="20260828091500 +0000" stop="20260828101000 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Policija za životinje Feniks</title>
+    <desc lang="sl">Menadžer za operacije na terenu, DeBolt i istražitelj Berkli istražuju izveštaje o ilegalnoj borbi pasa i pronalaze tri pitbula kojima je hitno potrebna njihova pomoć.</desc>
     <date>2009</date>
-    <category lang="sl">Nauka</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/03/3cd3c844_b939_43da_917d_d09688d0ad52_stb_xl.jpg" />
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/17/bcf592af-2e76-4c03-9072-dbe471c46a3f_stb_xl.jpg" />
   </programme>
-  <programme start="20260824164500 +0000" stop="20260824173000 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Svemir</title>
-    <desc lang="sl">Da li su zemlja i život na njoj pravilo ili izuzetak u svemiru.</desc>
-    <date>2007</date>
-    <category lang="sl">Astronomija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/f362ff6b-7a90-4444-b2b2-186c6ffe53c1_xl.jpg" />
+  <programme start="20260828101000 +0000" stop="20260828110500 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Teksaški lovočuvari</title>
+    <desc lang="sl">Čuvari se po noći raspoređuju u više okruga kako bi zaustavili lovce na putevima koji koriste snopove svetlosti, a uginuli jelen prostreljen strelom vodi čuvare do lovokradice.</desc>
+    <date>2016</date>
+    <category lang="sl">Priroda</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/10/21/6ef581b0-046a-4f3e-bfbb-d0ec05610e82_xl.jpg" />
   </programme>
-  <programme start="20260824173000 +0000" stop="20260824181500 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Nestali na Aljasci</title>
-    <desc lang="sl">Tim istražuje izveštaje o hibridu vuka i medveda koji u Aljaskom trouglu vreba žrtve.</desc>
-    <date>2015</date>
-    <category lang="sl">Istorija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/20/da9094c9-c11b-4910-b928-6b2df296a1bd_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824181500 +0000" stop="20260824190000 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Drevni vanzemaljci</title>
-    <desc lang="sl">Nasku čine stotine ogromnih linija dugih kilometre i kilometre, koje zauzimaju veliku površinu u peruanskoj pustinji. Da li su ova obeležja povezana sa vanzemaljcima.</desc>
-    <date>2013</date>
-    <category lang="sl">Istorija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/08/02/b16a8565-14c0-49dd-90c0-da7ed69168f9_stb_xl.jpg" />
-    <rating system="SI">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260824190000 +0000" stop="20260824194500 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Izgubljeni svetovi</title>
-    <desc lang="sl">Pridružite se neustrašivim gusarima u njihovom pljačkaškim pohodima.</desc>
-    <date>2007</date>
-    <category lang="sl">Istorija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2020/01/28/9a724d53-37b2-47b8-9794-91fed11e10c6_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824194500 +0000" stop="20260824203000 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Razotkrivanje tajni Biblije</title>
-    <desc lang="sl">Smatra se da su Biblijske knjige, jevanđelja i poslanice plod božanskog nadahnuća. Ali da li nedostaju pojedina poglavlja Biblije? Da li su priče cenzurisane i poglavlja izbačena? Ako je tako, ko odlučuje šta u Bibliju sme, i ne sme da uđe.</desc>
-    <date>2013</date>
-    <category lang="sl">Biografski</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/11/16/09504d1f-bd99-4316-b432-4dd63822972b_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824203000 +0000" stop="20260824211500 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Kopanje za istinom</title>
-    <desc lang="sl">Priča o vulkanu Vezuvu, čija je erupcija uništila Pompeju 79. godine pre N.E.</desc>
-    <date>2005</date>
-    <category lang="sl">Arheologija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2020/06/03/239c0030-d148-487f-a059-66ac0615c506_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824211500 +0000" stop="20260824220000 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Neidentifikovani: Tajne američke istrage NLO-a</title>
-    <desc lang="sl">Bivši operater radara američke mornarice izlazi iz senke kako bi otkrio informacije o zastrašujućem danu kada se dogodila najezda vanzemaljaca. Osoblje američke mornarice otkriva nove detalje, uključujući objašnjenje zašto su NLO viđeni iznad okeana.</desc>
+  <programme start="20260828110500 +0000" stop="20260828120000 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Život veterinara</title>
+    <desc lang="sl">Dr Lavinj leči francuskog buldoga koji ima problem sa disanjem i potrebna mu je posebna operacija. Pored toga, dr Ros pomaže hrčku koji neprestano kašlje.</desc>
     <date>2019</date>
-    <category lang="sl">Vanzemaljci</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/09/27/e181f638-958c-4611-ad0d-c1f9f5ccde48_stb_xl.jpg" />
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/10/01/763106ad-ff35-4587-bdd6-c5746cadf100_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828120000 +0000" stop="20260828130000 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Majstori za kuće na drvetu: Internacionalno</title>
+    <desc lang="sl">Pit je našao savršeno mesto za kuću na drvetu za par koji traži mesto za meditaciju. Na šest metara visine među vijugavim granama javora ekipa gradi sklonište ispunjeno energijom.</desc>
+    <date>2015</date>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/1bce127a-7a1d-496d-b3ed-03a50b2fafff_xl.jpg" />
     <rating system="SI">
-      <value>6+</value>
+      <value>1+</value>
     </rating>
   </programme>
-  <programme start="20260824220000 +0000" stop="20260824224500 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Drevna otkrića</title>
-    <desc lang="sl">Kako je oklop napravljen od običnog papira mogao da zaustavi kišu strela.</desc>
-    <date>2009</date>
-    <category lang="sl">Nauka</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/03/3cd3c844_b939_43da_917d_d09688d0ad52_xl.jpg" />
-  </programme>
-  <programme start="20260824224500 +0000" stop="20260824233000 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Svemir</title>
-    <desc lang="sl">Da li su zemlja i život na njoj pravilo ili izuzetak u svemiru.</desc>
-    <date>2007</date>
-    <category lang="sl">Astronomija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/f362ff6b-7a90-4444-b2b2-186c6ffe53c1_xl.jpg" />
-  </programme>
-  <programme start="20260824233000 +0000" stop="20260825001500 +0000" channel="History.2.HD.rs">
-    <title lang="sl">Nestali na Aljasci</title>
-    <desc lang="sl">Tim istražuje izveštaje o hibridu vuka i medveda koji u Aljaskom trouglu vreba žrtve.</desc>
-    <date>2015</date>
-    <category lang="sl">Istorija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/20/da9094c9-c11b-4910-b928-6b2df296a1bd_stb_xl.jpg" />
+  <programme start="20260828130000 +0000" stop="20260828140000 +0000" channel="Animal.Planet.HD.(RS).rs">
+    <title lang="sl">Pitbul terijeri i bivši zatvorenici</title>
+    <desc lang="sl">Viljalobos priređuje zabavu za Noć veštica kako bi prikupio novac za spašavanje. Jedan stari prijatelj se vraća, a Lizi se bori da spasi napuštenog psa usred noći.</desc>
+    <date>2019</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/05/30/2857dacd-6eb2-4478-a9d3-5534caa5cfd7_stb_xl.jpg" />
   </programme>
   <programme start="20260825001500 +0000" stop="20260825010000 +0000" channel="History.2.HD.rs">
     <title lang="sl">Drevni vanzemaljci</title>
@@ -91960,199 +91682,286 @@
     <category lang="sl">Divlje životinje</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2020/10/20/c35a1a40-3254-4080-8f7e-cc1e6e9ab260_stb_xl.jpg" />
   </programme>
-  <programme start="20260824002000 +0000" stop="20260824011500 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Larin izbor</title>
-    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
-    <date>2011</date>
-    <category lang="sl">Romantika</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  <programme start="20260827143000 +0000" stop="20260827151500 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Bitke pre Hrista</title>
+    <desc lang="sl">Veliki general vodi svoje ogromno carstvo u Indiju. Suočen sa izazovnim pohodom u teškim uslovima, Aleksandrov plan zahteva taktičku genijalnost.</desc>
+    <date>2009</date>
+    <category lang="sl">Akcija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2020/02/21/5f528531-e09c-4495-bd1b-084e979a164e_stb_xl.jpeg" />
   </programme>
-  <programme start="20260824011500 +0000" stop="20260824021000 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Larin izbor</title>
-    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
-    <date>2011</date>
-    <category lang="sl">Romantika</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  <programme start="20260827151500 +0000" stop="20260827160000 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Neidentifikovani: Tajne američke istrage NLO-a</title>
+    <desc lang="sl">Susret u srcu Amerike ukazuje na uznemirujući preokret u NLO fenomenu. Tim prati trag eksplozivnih dokaza koji povezuju NLO sa najrazornijim oružjem u istoriji čovečanstva.</desc>
+    <date>2019</date>
+    <category lang="sl">Vanzemaljci</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/09/27/e181f638-958c-4611-ad0d-c1f9f5ccde48_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
   </programme>
-  <programme start="20260824021000 +0000" stop="20260824030000 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Kud puklo da puklo</title>
-    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+  <programme start="20260827160000 +0000" stop="20260827164500 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Drevna otkrića</title>
+    <desc lang="sl">Priča o neverovatnim načinima na koje je čovek kroz istoriju ritualizovao smrt.</desc>
+    <date>2009</date>
+    <category lang="sl">Nauka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/03/3cd3c844_b939_43da_917d_d09688d0ad52_xl.jpg" />
+  </programme>
+  <programme start="20260827164500 +0000" stop="20260827173000 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Svemir</title>
+    <desc lang="sl">Priča o Mlečnom putu, jednoj od miliona galaksija u svemiru.</desc>
+    <date>2007</date>
+    <category lang="sl">Astronomija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/f362ff6b-7a90-4444-b2b2-186c6ffe53c1_xl.jpg" />
+  </programme>
+  <programme start="20260827173000 +0000" stop="20260827181500 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Nestali na Aljasci</title>
+    <desc lang="sl">Drevna predanja govore o kanadskom ratničkom plemenu koje je vršilo teror u dolini Nahani i neprijatelju odsecalo glave. Pleme je davno nestalo, ali izveštaji o nestalima vremenski se poklapaju sa tvrdnjama očevidaca da su videli ove drevne ratnike.</desc>
+    <date>2015</date>
+    <category lang="sl">Istorija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/06/13/6fbc4809_6c6b_4247_b213_9c22a0dd8db0_stb_xl.jpg" />
+  </programme>
+  <programme start="20260827181500 +0000" stop="20260827190000 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Drevni vanzemaljci</title>
+    <desc lang="sl">Vikinzi su se klanjali tajanstvenim i zastrašujućim bogovima. Stručnjaci istražuju da li su možda njihovi bogovi bili posetioci sa druge planete.</desc>
+    <date>2013</date>
+    <category lang="sl">Istorija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/08/02/b16a8565-14c0-49dd-90c0-da7ed69168f9_stb_xl.jpg" />
+    <rating system="SI">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260827190000 +0000" stop="20260827194500 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Nemogući drevni poduhvati</title>
+    <desc lang="sl">Prikazaćemo vam genijalna dostignuća Arhimeda koji je učinio da voda teče uzbrdo, Filona koji je stvorio prvog robota, i Ktesibija koji je eksperimentisao sa pneumatikom. Heron iz Aleksandrije izumeo je parnu mašinu, automatska vrata i automate.</desc>
     <date>2014</date>
-    <category lang="sl">Romantika</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/21/f70d21ed-67bd-4c44-9bcd-a163aad2bb45_stb_xl.jpg" />
+    <category lang="sl">Nauka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/07/3e421a43-04e5-4421-a6f0-b0ee795a0aae_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
   </programme>
-  <programme start="20260824030000 +0000" stop="20260824040000 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Dar Mar</title>
-    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
-    <category lang="sl">Komedija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  <programme start="20260827194500 +0000" stop="20260827203000 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Top-lista antičkih izuma</title>
+    <desc lang="sl">Drevne civilizacije ostavile su dokaze zapanjujuće tehnologije ravnoj našoj: antički kompjuter, makete koje prikazuju let i kamene blokove teške stotine tona prenošene sa lakoćom.</desc>
+    <date>2016</date>
+    <category lang="sl">Istorija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/17/f1741e4f-b48d-46e4-ad0f-9198a8d8d1d6_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
   </programme>
-  <programme start="20260824040000 +0000" stop="20260824045000 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Ubice mog oca</title>
-    <desc lang="sl">Milanka odlazi na sastanak sa Nemanjom, međutim, iako je sve dobro naučila šta da kaže tokom razgovora s njim, on je ipak hvata u laži i neće da je pusti dok ne kaže ko ju je poslao. Aleksandar i Zoran privode Bibu ponovo i shvataju da ona nešto krije, pogotovu na pomen izvesnog menadžera Barona. Aleksandar privodi i Barona zbog čega Marjanović saziva sastanak. Tokom sastanka Mirko mu priznaje da su Milanku poslali kod Nemanje i da se ceo dan ne javlja. Marjanović shvata da mora hitno nešto da učini.</desc>
-    <date>2018</date>
-    <category lang="sl">Kriminalistički</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+  <programme start="20260827203000 +0000" stop="20260827211500 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Ros Kemp: Lovac na blaga potopljenih brodova</title>
+    <desc lang="sl">Rosov prvi pokušaj na najveće olupine u Skapa Flouu: potopljena nemačka flota iz Drugog svetskog rata. Ros pokušava da sazna zašto je ponosna fota Nemačke završila na dnu. Trag vodi do ekperimentalne britanske podmornice - nosača aviona.</desc>
+    <date>2022</date>
+    <category lang="sl">Putovanje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/05/05/9da4187c-2314-40db-a1bc-0f15637e91fa_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
   </programme>
-  <programme start="20260824045000 +0000" stop="20260824054000 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Kud puklo da puklo</title>
-    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+  <programme start="20260827211500 +0000" stop="20260827220000 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Neidentifikovani: Tajne američke istrage NLO-a</title>
+    <desc lang="sl">Susret u srcu Amerike ukazuje na uznemirujući preokret u NLO fenomenu. Tim prati trag eksplozivnih dokaza koji povezuju NLO sa najrazornijim oružjem u istoriji čovečanstva.</desc>
+    <date>2019</date>
+    <category lang="sl">Vanzemaljci</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/09/27/e181f638-958c-4611-ad0d-c1f9f5ccde48_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260827220000 +0000" stop="20260827224500 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Drevna otkrića</title>
+    <desc lang="sl">Priča o neverovatnim načinima na koje je čovek kroz istoriju ritualizovao smrt.</desc>
+    <date>2009</date>
+    <category lang="sl">Nauka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/03/3cd3c844_b939_43da_917d_d09688d0ad52_xl.jpg" />
+  </programme>
+  <programme start="20260827224500 +0000" stop="20260827233000 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Svemir</title>
+    <desc lang="sl">Priča o Mlečnom putu, jednoj od miliona galaksija u svemiru.</desc>
+    <date>2007</date>
+    <category lang="sl">Astronomija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/f362ff6b-7a90-4444-b2b2-186c6ffe53c1_xl.jpg" />
+  </programme>
+  <programme start="20260827233000 +0000" stop="20260828001500 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Nestali na Aljasci</title>
+    <desc lang="sl">Drevna predanja govore o kanadskom ratničkom plemenu koje je vršilo teror u dolini Nahani i neprijatelju odsecalo glave. Pleme je davno nestalo, ali izveštaji o nestalima vremenski se poklapaju sa tvrdnjama očevidaca da su videli ove drevne ratnike.</desc>
+    <date>2015</date>
+    <category lang="sl">Istorija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/06/13/6fbc4809_6c6b_4247_b213_9c22a0dd8db0_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828001500 +0000" stop="20260828010000 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Drevni vanzemaljci</title>
+    <desc lang="sl">Vikinzi su se klanjali tajanstvenim i zastrašujućim bogovima. Stručnjaci istražuju da li su možda njihovi bogovi bili posetioci sa druge planete.</desc>
+    <date>2013</date>
+    <category lang="sl">Istorija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/08/02/b16a8565-14c0-49dd-90c0-da7ed69168f9_stb_xl.jpg" />
+    <rating system="SI">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260828010000 +0000" stop="20260828014500 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Nemogući drevni poduhvati</title>
+    <desc lang="sl">Prikazaćemo vam genijalna dostignuća Arhimeda koji je učinio da voda teče uzbrdo, Filona koji je stvorio prvog robota, i Ktesibija koji je eksperimentisao sa pneumatikom. Heron iz Aleksandrije izumeo je parnu mašinu, automatska vrata i automate.</desc>
     <date>2014</date>
-    <category lang="sl">Romantika</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/21/f70d21ed-67bd-4c44-9bcd-a163aad2bb45_stb_xl.jpg" />
+    <category lang="sl">Nauka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/07/3e421a43-04e5-4421-a6f0-b0ee795a0aae_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
   </programme>
-  <programme start="20260824054000 +0000" stop="20260824063000 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Dar Mar</title>
-    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
-    <category lang="sl">Komedija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  <programme start="20260828014500 +0000" stop="20260828023000 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Top-lista antičkih izuma</title>
+    <desc lang="sl">Drevne civilizacije ostavile su dokaze zapanjujuće tehnologije ravnoj našoj: antički kompjuter, makete koje prikazuju let i kamene blokove teške stotine tona prenošene sa lakoćom.</desc>
+    <date>2016</date>
+    <category lang="sl">Istorija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/17/f1741e4f-b48d-46e4-ad0f-9198a8d8d1d6_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
   </programme>
-  <programme start="20260824063000 +0000" stop="20260824072000 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Dar Mar</title>
-    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
-    <category lang="sl">Komedija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  <programme start="20260828023000 +0000" stop="20260828031500 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Ros Kemp: Lovac na blaga potopljenih brodova</title>
+    <desc lang="sl">Rosov prvi pokušaj na najveće olupine u Skapa Flouu: potopljena nemačka flota iz Drugog svetskog rata. Ros pokušava da sazna zašto je ponosna fota Nemačke završila na dnu. Trag vodi do ekperimentalne britanske podmornice - nosača aviona.</desc>
+    <date>2022</date>
+    <category lang="sl">Putovanje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/05/05/9da4187c-2314-40db-a1bc-0f15637e91fa_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
   </programme>
-  <programme start="20260824072000 +0000" stop="20260824081000 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Ubice mog oca</title>
-    <desc lang="sl">Milanka odlazi na sastanak sa Nemanjom, međutim, iako je sve dobro naučila šta da kaže tokom razgovora s njim, on je ipak hvata u laži i neće da je pusti dok ne kaže ko ju je poslao. Aleksandar i Zoran privode Bibu ponovo i shvataju da ona nešto krije, pogotovu na pomen izvesnog menadžera Barona. Aleksandar privodi i Barona zbog čega Marjanović saziva sastanak. Tokom sastanka Mirko mu priznaje da su Milanku poslali kod Nemanje i da se ceo dan ne javlja. Marjanović shvata da mora hitno nešto da učini.</desc>
-    <date>2018</date>
-    <category lang="sl">Kriminalistički</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+  <programme start="20260828031500 +0000" stop="20260828040000 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Neidentifikovani: Tajne američke istrage NLO-a</title>
+    <desc lang="sl">Susret u srcu Amerike ukazuje na uznemirujući preokret u NLO fenomenu. Tim prati trag eksplozivnih dokaza koji povezuju NLO sa najrazornijim oružjem u istoriji čovečanstva.</desc>
+    <date>2019</date>
+    <category lang="sl">Vanzemaljci</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/09/27/e181f638-958c-4611-ad0d-c1f9f5ccde48_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
   </programme>
-  <programme start="20260824081000 +0000" stop="20260824090000 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Larin izbor</title>
-    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
-    <date>2011</date>
-    <category lang="sl">Romantika</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  <programme start="20260828040000 +0000" stop="20260828044500 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Drevna otkrića</title>
+    <desc lang="sl">Priča o neverovatnim načinima na koje je čovek kroz istoriju ritualizovao smrt.</desc>
+    <date>2009</date>
+    <category lang="sl">Nauka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/03/3cd3c844_b939_43da_917d_d09688d0ad52_xl.jpg" />
   </programme>
-  <programme start="20260824090000 +0000" stop="20260824095000 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Larin izbor</title>
-    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
-    <date>2011</date>
-    <category lang="sl">Romantika</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  <programme start="20260828044500 +0000" stop="20260828053000 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Svemir</title>
+    <desc lang="sl">Priča o Mlečnom putu, jednoj od miliona galaksija u svemiru.</desc>
+    <date>2007</date>
+    <category lang="sl">Astronomija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/f362ff6b-7a90-4444-b2b2-186c6ffe53c1_xl.jpg" />
   </programme>
-  <programme start="20260824095000 +0000" stop="20260824104000 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Dar Mar</title>
-    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
-    <category lang="sl">Komedija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  <programme start="20260828053000 +0000" stop="20260828061500 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Nestali na Aljasci</title>
+    <desc lang="sl">Drevna predanja govore o kanadskom ratničkom plemenu koje je vršilo teror u dolini Nahani i neprijatelju odsecalo glave. Pleme je davno nestalo, ali izveštaji o nestalima vremenski se poklapaju sa tvrdnjama očevidaca da su videli ove drevne ratnike.</desc>
+    <date>2015</date>
+    <category lang="sl">Istorija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/06/13/6fbc4809_6c6b_4247_b213_9c22a0dd8db0_stb_xl.jpg" />
   </programme>
-  <programme start="20260824104000 +0000" stop="20260824113000 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Dar Mar</title>
-    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
-    <category lang="sl">Komedija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  <programme start="20260828061500 +0000" stop="20260828070000 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Drevni vanzemaljci</title>
+    <desc lang="sl">Vikinzi su se klanjali tajanstvenim i zastrašujućim bogovima. Stručnjaci istražuju da li su možda njihovi bogovi bili posetioci sa druge planete.</desc>
+    <date>2013</date>
+    <category lang="sl">Istorija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/08/02/b16a8565-14c0-49dd-90c0-da7ed69168f9_stb_xl.jpg" />
+    <rating system="SI">
+      <value>12+</value>
+    </rating>
   </programme>
-  <programme start="20260824113000 +0000" stop="20260824122000 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Ubice mog oca</title>
-    <desc lang="sl">Milanka odlazi na sastanak sa Nemanjom, međutim, iako je sve dobro naučila šta da kaže tokom razgovora s njim, on je ipak hvata u laži i neće da je pusti dok ne kaže ko ju je poslao. Aleksandar i Zoran privode Bibu ponovo i shvataju da ona nešto krije, pogotovu na pomen izvesnog menadžera Barona. Aleksandar privodi i Barona zbog čega Marjanović saziva sastanak. Tokom sastanka Mirko mu priznaje da su Milanku poslali kod Nemanje i da se ceo dan ne javlja. Marjanović shvata da mora hitno nešto da učini.</desc>
-    <date>2018</date>
-    <category lang="sl">Kriminalistički</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824122000 +0000" stop="20260824131000 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Larin izbor</title>
-    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
-    <date>2011</date>
-    <category lang="sl">Romantika</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824131000 +0000" stop="20260824140000 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Larin izbor</title>
-    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
-    <date>2011</date>
-    <category lang="sl">Romantika</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824140000 +0000" stop="20260824145000 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Kud puklo da puklo</title>
-    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+  <programme start="20260828070000 +0000" stop="20260828074500 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Nemogući drevni poduhvati</title>
+    <desc lang="sl">Prikazaćemo vam genijalna dostignuća Arhimeda koji je učinio da voda teče uzbrdo, Filona koji je stvorio prvog robota, i Ktesibija koji je eksperimentisao sa pneumatikom. Heron iz Aleksandrije izumeo je parnu mašinu, automatska vrata i automate.</desc>
     <date>2014</date>
-    <category lang="sl">Romantika</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/21/f70d21ed-67bd-4c44-9bcd-a163aad2bb45_stb_xl.jpg" />
+    <category lang="sl">Nauka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/07/3e421a43-04e5-4421-a6f0-b0ee795a0aae_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
   </programme>
-  <programme start="20260824145000 +0000" stop="20260824154000 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Dar Mar</title>
-    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
-    <category lang="sl">Komedija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  <programme start="20260828074500 +0000" stop="20260828083000 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Top-lista antičkih izuma</title>
+    <desc lang="sl">Drevne civilizacije ostavile su dokaze zapanjujuće tehnologije ravnoj našoj: antički kompjuter, makete koje prikazuju let i kamene blokove teške stotine tona prenošene sa lakoćom.</desc>
+    <date>2016</date>
+    <category lang="sl">Istorija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/17/f1741e4f-b48d-46e4-ad0f-9198a8d8d1d6_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
   </programme>
-  <programme start="20260824154000 +0000" stop="20260824163000 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Dar Mar</title>
-    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
-    <category lang="sl">Komedija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  <programme start="20260828083000 +0000" stop="20260828091500 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Ros Kemp: Lovac na blaga potopljenih brodova</title>
+    <desc lang="sl">Rosov prvi pokušaj na najveće olupine u Skapa Flouu: potopljena nemačka flota iz Drugog svetskog rata. Ros pokušava da sazna zašto je ponosna fota Nemačke završila na dnu. Trag vodi do ekperimentalne britanske podmornice - nosača aviona.</desc>
+    <date>2022</date>
+    <category lang="sl">Putovanje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/05/05/9da4187c-2314-40db-a1bc-0f15637e91fa_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
   </programme>
-  <programme start="20260824163000 +0000" stop="20260824171500 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Larin izbor</title>
-    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
-    <date>2011</date>
-    <category lang="sl">Romantika</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  <programme start="20260828091500 +0000" stop="20260828100000 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Neidentifikovani: Tajne američke istrage NLO-a</title>
+    <desc lang="sl">Susret u srcu Amerike ukazuje na uznemirujući preokret u NLO fenomenu. Tim prati trag eksplozivnih dokaza koji povezuju NLO sa najrazornijim oružjem u istoriji čovečanstva.</desc>
+    <date>2019</date>
+    <category lang="sl">Vanzemaljci</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/09/27/e181f638-958c-4611-ad0d-c1f9f5ccde48_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
   </programme>
-  <programme start="20260824171500 +0000" stop="20260824180000 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Larin izbor</title>
-    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
-    <date>2011</date>
-    <category lang="sl">Romantika</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  <programme start="20260828100000 +0000" stop="20260828104500 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Drevna otkrića</title>
+    <desc lang="sl">Priča o neverovatnim načinima na koje je čovek kroz istoriju ritualizovao smrt.</desc>
+    <date>2009</date>
+    <category lang="sl">Nauka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/03/3cd3c844_b939_43da_917d_d09688d0ad52_xl.jpg" />
   </programme>
-  <programme start="20260824180000 +0000" stop="20260824185000 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Ubice mog oca</title>
-    <desc lang="sl">Marjanović odvodi advokata na selo i preko bivše policajke nudi razmenu za Milunku. Nemanja na to pristaje, ali Milunka već ima vidljive povrede na sebi zbog čega advokat neće biti vraćen nepovređen. Aleksandar pomaže u odnošenju novca za Pecin otkup, ali sumnja kada mu otmičari traže da dođe na mesto gde je došlo do sukoba sa Srletom i gde je Marjanović ranjen. Njegove sumnje su jače i zbog toga što ga konstantno neko prati. Zbog toga Aleksandar prekida primopredaju ne shvatajući da iza Pecine otmice ne stoji Nemanja.</desc>
-    <date>2018</date>
-    <category lang="sl">Kriminalistički</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+  <programme start="20260828104500 +0000" stop="20260828113000 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Svemir</title>
+    <desc lang="sl">Priča o Mlečnom putu, jednoj od miliona galaksija u svemiru.</desc>
+    <date>2007</date>
+    <category lang="sl">Astronomija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/f362ff6b-7a90-4444-b2b2-186c6ffe53c1_xl.jpg" />
   </programme>
-  <programme start="20260824185000 +0000" stop="20260824194000 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Kud puklo da puklo</title>
-    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+  <programme start="20260828113000 +0000" stop="20260828121500 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Nestali na Aljasci</title>
+    <desc lang="sl">Drevna predanja govore o kanadskom ratničkom plemenu koje je vršilo teror u dolini Nahani i neprijatelju odsecalo glave. Pleme je davno nestalo, ali izveštaji o nestalima vremenski se poklapaju sa tvrdnjama očevidaca da su videli ove drevne ratnike.</desc>
+    <date>2015</date>
+    <category lang="sl">Istorija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/06/13/6fbc4809_6c6b_4247_b213_9c22a0dd8db0_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828121500 +0000" stop="20260828130000 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Drevni vanzemaljci</title>
+    <desc lang="sl">Vikinzi su se klanjali tajanstvenim i zastrašujućim bogovima. Stručnjaci istražuju da li su možda njihovi bogovi bili posetioci sa druge planete.</desc>
+    <date>2013</date>
+    <category lang="sl">Istorija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/08/02/b16a8565-14c0-49dd-90c0-da7ed69168f9_stb_xl.jpg" />
+    <rating system="SI">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260828130000 +0000" stop="20260828134500 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Nemogući drevni poduhvati</title>
+    <desc lang="sl">Prikazaćemo vam genijalna dostignuća Arhimeda koji je učinio da voda teče uzbrdo, Filona koji je stvorio prvog robota, i Ktesibija koji je eksperimentisao sa pneumatikom. Heron iz Aleksandrije izumeo je parnu mašinu, automatska vrata i automate.</desc>
     <date>2014</date>
-    <category lang="sl">Romantika</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/21/f70d21ed-67bd-4c44-9bcd-a163aad2bb45_stb_xl.jpg" />
+    <category lang="sl">Nauka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/07/3e421a43-04e5-4421-a6f0-b0ee795a0aae_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
   </programme>
-  <programme start="20260824194000 +0000" stop="20260824202500 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Dar Mar</title>
-    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
-    <category lang="sl">Komedija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824202500 +0000" stop="20260824211500 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Larin izbor</title>
-    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
-    <date>2011</date>
-    <category lang="sl">Romantika</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824211500 +0000" stop="20260824220000 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Larin izbor</title>
-    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
-    <date>2011</date>
-    <category lang="sl">Romantika</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824220000 +0000" stop="20260824225000 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Ubice mog oca</title>
-    <desc lang="sl">Marjanović odvodi advokata na selo i preko bivše policajke nudi razmenu za Milunku. Nemanja na to pristaje, ali Milunka već ima vidljive povrede na sebi zbog čega advokat neće biti vraćen nepovređen. Aleksandar pomaže u odnošenju novca za Pecin otkup, ali sumnja kada mu otmičari traže da dođe na mesto gde je došlo do sukoba sa Srletom i gde je Marjanović ranjen. Njegove sumnje su jače i zbog toga što ga konstantno neko prati. Zbog toga Aleksandar prekida primopredaju ne shvatajući da iza Pecine otmice ne stoji Nemanja.</desc>
-    <date>2018</date>
-    <category lang="sl">Kriminalistički</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824225000 +0000" stop="20260824233500 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Kud puklo da puklo</title>
-    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
-    <date>2014</date>
-    <category lang="sl">Romantika</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/21/f70d21ed-67bd-4c44-9bcd-a163aad2bb45_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824233500 +0000" stop="20260825002000 +0000" channel="Nova.Series.rs">
-    <title lang="sl">Dar Mar</title>
-    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
-    <category lang="sl">Komedija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  <programme start="20260828134500 +0000" stop="20260828143000 +0000" channel="History.2.HD.rs">
+    <title lang="sl">Top-lista antičkih izuma</title>
+    <desc lang="sl">Drevne civilizacije ostavile su dokaze zapanjujuće tehnologije ravnoj našoj: antički kompjuter, makete koje prikazuju let i kamene blokove teške stotine tona prenošene sa lakoćom.</desc>
+    <date>2016</date>
+    <category lang="sl">Istorija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/17/f1741e4f-b48d-46e4-ad0f-9198a8d8d1d6_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
   </programme>
   <programme start="20260825002000 +0000" stop="20260825011500 +0000" channel="Nova.Series.rs">
     <title lang="sl">Larin izbor</title>
@@ -92673,6 +92482,200 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
   </programme>
   <programme start="20260827131000 +0000" stop="20260827140000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260827140000 +0000" stop="20260827145000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Kud puklo da puklo</title>
+    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+    <date>2015</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/07/11/26b8612d-95a1-41c6-850d-016c14e25deb_stb_xl.jpg" />
+  </programme>
+  <programme start="20260827145000 +0000" stop="20260827154000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260827154000 +0000" stop="20260827163000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260827163000 +0000" stop="20260827171500 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260827171500 +0000" stop="20260827180000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260827180000 +0000" stop="20260827185000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Ubice mog oca</title>
+    <desc lang="sl">Marjanović žuri da pomogne Branki koju kriminalci pronalaze. Branka se hrabro bori sa njima. Počinje suđenje Nataliji Despotović, novinari opsedaju sudnicu. Aleksandar i Mirko počinju da povezuju stvari, Sava im pomaže..</desc>
+    <date>2018</date>
+    <category lang="sl">Kriminalistički</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+  </programme>
+  <programme start="20260827185000 +0000" stop="20260827194000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Kud puklo da puklo</title>
+    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+    <date>2015</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/07/11/26b8612d-95a1-41c6-850d-016c14e25deb_stb_xl.jpg" />
+  </programme>
+  <programme start="20260827194000 +0000" stop="20260827202500 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260827202500 +0000" stop="20260827211500 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260827211500 +0000" stop="20260827220000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260827220000 +0000" stop="20260827225000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Ubice mog oca</title>
+    <desc lang="sl">Marjanović žuri da pomogne Branki koju kriminalci pronalaze. Branka se hrabro bori sa njima. Počinje suđenje Nataliji Despotović, novinari opsedaju sudnicu. Aleksandar i Mirko počinju da povezuju stvari, Sava im pomaže..</desc>
+    <date>2018</date>
+    <category lang="sl">Kriminalistički</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+  </programme>
+  <programme start="20260827225000 +0000" stop="20260827233500 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Kud puklo da puklo</title>
+    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+    <date>2015</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/07/11/26b8612d-95a1-41c6-850d-016c14e25deb_stb_xl.jpg" />
+  </programme>
+  <programme start="20260827233500 +0000" stop="20260828002000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828002000 +0000" stop="20260828011500 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828011500 +0000" stop="20260828021000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828021000 +0000" stop="20260828030000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Kud puklo da puklo</title>
+    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+    <date>2015</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/07/11/26b8612d-95a1-41c6-850d-016c14e25deb_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828030000 +0000" stop="20260828040000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828040000 +0000" stop="20260828045000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Ubice mog oca</title>
+    <desc lang="sl">Marjanović žuri da pomogne Branki koju kriminalci pronalaze. Branka se hrabro bori sa njima. Počinje suđenje Nataliji Despotović, novinari opsedaju sudnicu. Aleksandar i Mirko počinju da povezuju stvari, Sava im pomaže..</desc>
+    <date>2018</date>
+    <category lang="sl">Kriminalistički</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828045000 +0000" stop="20260828054000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Kud puklo da puklo</title>
+    <desc lang="sl">Radnja serije smeštena je u selo Oštrovac, koje se nalazi na obodu nacionalnog parka. Damir je rendžer koji radi u nacionalnom parku. On se zaljubljuje u doktorku Katarinu koja je došla u selo na godinu dana. Njen deda, Đuro, ostavio je milino evra svojim unucima - Katarini, Tomislavu i Kreši, ako godinu dana provedu u njegovoj trošnoj kući u selu. Ako im to ne pođe za rukom, novac će pripasti selu.</desc>
+    <date>2015</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/07/11/26b8612d-95a1-41c6-850d-016c14e25deb_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828054000 +0000" stop="20260828063000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828063000 +0000" stop="20260828072000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828072000 +0000" stop="20260828081000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Ubice mog oca</title>
+    <desc lang="sl">Marjanović žuri da pomogne Branki koju kriminalci pronalaze. Branka se hrabro bori sa njima. Počinje suđenje Nataliji Despotović, novinari opsedaju sudnicu. Aleksandar i Mirko počinju da povezuju stvari, Sava im pomaže..</desc>
+    <date>2018</date>
+    <category lang="sl">Kriminalistički</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828081000 +0000" stop="20260828090000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828090000 +0000" stop="20260828095000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828095000 +0000" stop="20260828104000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828104000 +0000" stop="20260828113000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Dar Mar</title>
+    <desc lang="sl">Usled praktično nepostojeće stope kriminala, policijskoj stanici u malom mestu preti zatvaranje, te se odluče na neuobičajen potez.</desc>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/07/10/f6a322c9-d9cb-4e4c-9846-a0c4d9b9637b_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828113000 +0000" stop="20260828122000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Ubice mog oca</title>
+    <desc lang="sl">Marjanović žuri da pomogne Branki koju kriminalci pronalaze. Branka se hrabro bori sa njima. Počinje suđenje Nataliji Despotović, novinari opsedaju sudnicu. Aleksandar i Mirko počinju da povezuju stvari, Sava im pomaže..</desc>
+    <date>2018</date>
+    <category lang="sl">Kriminalistički</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/11/25/27e9a4a0-fb68-44b1-a2af-2843f1031615_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828122000 +0000" stop="20260828131000 +0000" channel="Nova.Series.rs">
+    <title lang="sl">Larin izbor</title>
+    <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
+    <date>2011</date>
+    <category lang="sl">Romantika</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/23/0d17e87b-4ddb-43da-8a64-413002d772ad_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828131000 +0000" stop="20260828140000 +0000" channel="Nova.Series.rs">
     <title lang="sl">Larin izbor</title>
     <desc lang="sl">Lara i Jakov se zaljubljuju i tajno ulaze u brak, iako je njegova majka izričito protiv ove veze. Kada Jakov preuzme očev posao i otputuje brodom, Lara će morati da se bori za svoju ljubav i odbrani od spletki ljudi koji joj ne žele dobro.</desc>
     <date>2011</date>
@@ -124898,234 +124901,6 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/25/18/animalplanethd_logo_16_9_light_300x168_ed56718c_6caa_4aa7_8275_19b4ebee5aa3.png" />
     <url>http://www.epg.sbb.rs</url>
   </channel>
-  <programme start="20260824001500 +0000" stop="20260824010000 +0000" channel="discovery-animal">
-    <title lang="sl">Dom po meri ljubimaca</title>
-    <desc lang="sl">Porodica traži od Antonija da dizajnira savršeni raj za svinju. Gospodinu Piklsu treba nova kuća, jama s blatom i dovoljno prostora za trčanje u njihovom vrtu.</desc>
-    <date>2019</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/08/20/ef80b020-be6f-4c17-b103-a7a3de1426d3_stb_xl.jpg" />
-    <rating system="SI">
-      <value>1+</value>
-    </rating>
-  </programme>
-  <programme start="20260824010000 +0000" stop="20260824014500 +0000" channel="discovery-animal">
-    <title lang="sl">Teksaški lovočuvari</title>
-    <desc lang="sl">U okrugu Kalhun, Ben i Čelsi Bejli nadziru čamce za lov na škampe, kada jedan krene u akciju. U međuvremenu, jedan drugi čuvar stiče par novih krznenih prijatelja.</desc>
-    <date>2019</date>
-    <category lang="sl">Priroda</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/06/18/bb3eba02-4b16-42e6-853c-f24bab27fd00_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824014500 +0000" stop="20260824023000 +0000" channel="discovery-animal">
-    <title lang="sl">Život u divljini Aljaske</title>
-    <desc lang="sl">Duboko u srcu Aljaske žive Braunovi, rođeni i odgajani u divljini. Porodica sa sedmoro dece živi van granica civilizacije i zavise jedni od drugih kako bi preživeli u divljini.</desc>
-    <date>2015</date>
-    <category lang="sl">Porodični zivot</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/b6098417-49fb-4958-b5af-c170529fbff6_stb_xl.jpg" />
-    <rating system="SI">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260824023000 +0000" stop="20260824031500 +0000" channel="discovery-animal">
-    <title lang="sl">Život u divljini Aljaske</title>
-    <desc lang="sl">Duboko u srcu Aljaske žive Braunovi, rođeni i odgajani u divljini. Porodica sa sedmoro dece živi van granica civilizacije i zavise jedni od drugih kako bi preživeli u divljini.</desc>
-    <date>2016</date>
-    <category lang="sl">Porodični zivot</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/b6098417-49fb-4958-b5af-c170529fbff6_stb_xl.jpg" />
-    <rating system="SI">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260824031500 +0000" stop="20260824040000 +0000" channel="discovery-animal">
-    <title lang="sl">Projekat "Grizli"</title>
-    <desc lang="sl">Džef je zadovoljan što Bob i Skrič uče kako da se sami hrane. On ih uči kako da naprave jazbinu za zimu. Osim toga, grizliji razvijaju osećaj za zaštitu svoje teritorije.</desc>
-    <date>2016</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/18/b1f71137-2301-473d-aeba-94d3768412d7_stb_xl.jpg" />
-    <rating system="SI">
-      <value>1+</value>
-    </rating>
-  </programme>
-  <programme start="20260824040000 +0000" stop="20260824045000 +0000" channel="discovery-animal">
-    <title lang="sl">Pa to su Irvinovi!</title>
-    <desc lang="sl">Porodica Irvin - Teri, Bindi i Robert - svojim radom u velikom australijskom zoološkom vrtu nastavlja tradiciju Stiva Irvina u cilju zaštite životinja.</desc>
-    <date>2019</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/18/34214c6c-c424-4b54-9763-86e2e5d0cd39_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824045000 +0000" stop="20260824054000 +0000" channel="discovery-animal">
-    <title lang="sl">Zoološki vrt</title>
-    <desc lang="sl">Zoološki vrt Central Park dočekuje svog prvog atlantskog morskog papagaja. U međuvremenu, ugrožena vrsta guštera spremna je za svoje prvo izleganje, a nosorog Peni prolazi testove.</desc>
-    <date>2020</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/05/18/d5f3557a-24c3-4acf-9319-eeb0fd8700af_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824054000 +0000" stop="20260824063000 +0000" channel="discovery-animal">
-    <title lang="sl">Spasavanje imanja</title>
-    <desc lang="sl">Renijevi se vraćaju u Australiju, ali uviđaju da im je dom u lošem stanju. Žure da renoviraju kuću dok ponovo ne krene jaka zima.</desc>
-    <date>2019</date>
-    <category lang="sl">Životni stil</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/05/16/3ec140e6-ae63-4749-8b02-6a66c43956f5_stb_xl.jpg" />
-    <rating system="SI">
-      <value>1+</value>
-    </rating>
-  </programme>
-  <programme start="20260824063000 +0000" stop="20260824072500 +0000" channel="discovery-animal">
-    <title lang="sl">Dr Džef: Veterinar sa Stenovitih planina</title>
-    <desc lang="sl">Kada je voljenom psu potrebna operacija kolena, dr Džef je možda njegova jedina nada. Dr Nikols i dr Petra se udružuju kako bi učvrstili slomljeni lakat jedne mačke.</desc>
-    <date>2016</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/58d1f6ba-19cb-4b32-8d98-acd3f058c334_xl.jpg" />
-  </programme>
-  <programme start="20260824072500 +0000" stop="20260824082000 +0000" channel="discovery-animal">
-    <title lang="sl">Akvarijumi</title>
-    <desc lang="sl">Košarkaška legenda Dvajt Hauard želi da mu momci iz firme ATM osmisle i naprave stanište za njegovih 14 zmija. I želi vilu za reptile.</desc>
-    <date>2015</date>
-    <category lang="sl">Profesija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2020/02/04/68a7af02-2578-4c0a-baaa-b49ad2ac4440_stb_xl.jpg" />
-    <rating system="SI">
-      <value>1+</value>
-    </rating>
-  </programme>
-  <programme start="20260824082000 +0000" stop="20260824091500 +0000" channel="discovery-animal">
-    <title lang="sl">Policija za životinje Feniks</title>
-    <desc lang="sl">Istražitelj Ej Džej daje sve od sebe da spasi štenad psa koji se okotio na ulici. Na drugom mestu, veterinar tehničar Kinsel se zalaže za život povređene ptice.</desc>
-    <date>2009</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/17/bcf592af-2e76-4c03-9072-dbe471c46a3f_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824091500 +0000" stop="20260824101000 +0000" channel="discovery-animal">
-    <title lang="sl">Policija za životinje Feniks</title>
-    <desc lang="sl">Rentgenski zraci pružaju bitne dokaze u istraživanju slučaja tri izgladnela psa. Istražitelj Ej Džej se suočava sa vlasnikom oko vrste hrane koju životinje jedu.</desc>
-    <date>2009</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/17/bcf592af-2e76-4c03-9072-dbe471c46a3f_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824101000 +0000" stop="20260824110500 +0000" channel="discovery-animal">
-    <title lang="sl">Teksaški lovočuvari</title>
-    <desc lang="sl">Širom Teksasa, rekordne oluje i poplave ometaju patrolne čamce. Tragačke i spasilačke ekipe spasile su veliki broj ljudi iz opasne brze vode.</desc>
-    <date>2016</date>
-    <category lang="sl">Priroda</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/10/21/6ef581b0-046a-4f3e-bfbb-d0ec05610e82_xl.jpg" />
-  </programme>
-  <programme start="20260824110500 +0000" stop="20260824120000 +0000" channel="discovery-animal">
-    <title lang="sl">Heroji organizacije Dodo</title>
-    <desc lang="sl">Porodica koja se posvetila spasavanju životinja u Australiji pustila je koalu Krikija u prirodu nakon što su ga godinu dana negovali dok nije ozdravio.</desc>
-    <date>2018</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/29/be378d20-e069-453b-a45a-9d8ef46b6405_stb_xl.jpg" />
-    <rating system="SI">
-      <value>1+</value>
-    </rating>
-  </programme>
-  <programme start="20260824120000 +0000" stop="20260824130000 +0000" channel="discovery-animal">
-    <title lang="sl">Dom po meri ljubimaca</title>
-    <desc lang="sl">Antonio upoznaje porodicu sa dva bradata zmaja koje je zatekao u akvarijumu u spavaćoj sobi. On u dvorištu gradi klub za zmajeve kao super mesto za druženje za celu porodicu.</desc>
-    <date>2019</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/08/20/ef80b020-be6f-4c17-b103-a7a3de1426d3_stb_xl.jpg" />
-    <rating system="SI">
-      <value>1+</value>
-    </rating>
-  </programme>
-  <programme start="20260824130000 +0000" stop="20260824140000 +0000" channel="discovery-animal">
-    <title lang="sl">Pitbul terijeri i bivši zatvorenici</title>
-    <desc lang="sl">Ekipa žuri da spasi psa na prometnom auto-putu. Osim toga, porodica putuje iz Masačusetsa kako bi pronašla četvoronožnog prijatelja koga će uključiti u svoje domaćinstvo.</desc>
-    <date>2019</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/05/30/2857dacd-6eb2-4478-a9d3-5534caa5cfd7_stb_xl.jpg" />
-    <rating system="SI">
-      <value>1+</value>
-    </rating>
-  </programme>
-  <programme start="20260824140000 +0000" stop="20260824150000 +0000" channel="discovery-animal">
-    <title lang="sl">Paklene mačke</title>
-    <desc lang="sl">Pegi je 'Prava domaćica okruga Orandž'. Navikla je na svađe, ali sada se suočava sa jednom u koju je uključena njena prava mačka.</desc>
-    <date>2015</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/09/27/59fb3287-84c8-4ea6-8f48-40821b2d5bab_stb_xl.jpg" />
-    <rating system="SI">
-      <value>1+</value>
-    </rating>
-  </programme>
-  <programme start="20260824150000 +0000" stop="20260824160000 +0000" channel="discovery-animal">
-    <title lang="sl">Pa to su Irvinovi!</title>
-    <desc lang="sl">Porodica Irvin - Teri, Bindi i Robert - svojim radom u velikom australijskom zoološkom vrtu nastavlja tradiciju Stiva Irvina u cilju zaštite životinja.</desc>
-    <date>2019</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/18/34214c6c-c424-4b54-9763-86e2e5d0cd39_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824160000 +0000" stop="20260824170000 +0000" channel="discovery-animal">
-    <title lang="sl">Dr Džef: Veterinar sa Stenovitih planina</title>
-    <desc lang="sl">U veterinarskoj ambulanti Planned Pethood Plus ne postoji pojam "uobičajen dan". Za brojne klijente i njihove ljubimce, neobični veterinar dr Džef Jang predstavlja poslednju nadu.</desc>
-    <date>2016</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/58d1f6ba-19cb-4b32-8d98-acd3f058c334_xl.jpg" />
-  </programme>
-  <programme start="20260824170000 +0000" stop="20260824180000 +0000" channel="discovery-animal">
-    <title lang="sl">Izvanredni bazeni - Smeli projekti</title>
-    <desc lang="sl">Porodica sa izraženom ekološkom svešću koja živi u rezervatu za ptice na Floridi traži da im stručnjak za dizajn Lukas napravi bazen koji će biti raj za ljude i oaza za ptice.</desc>
-    <date>2016</date>
-    <category lang="sl">Zabava</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/07/18/a0615d9e-392b-4895-9623-697ba9ad48b8_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824180000 +0000" stop="20260824190000 +0000" channel="discovery-animal">
-    <title lang="sl">Ekspedicija Bigfut</title>
-    <desc lang="sl">Tim veruje da su konačno locirali mesto gde se Bigfut krio tokom njihove ekspedicije. Za potrebe istraživanja stigao je visokotehnološki dron.</desc>
-    <date>2020</date>
-    <category lang="sl">Avantura</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/02/25/9249acf7-e97b-45a1-99ae-0a58f3a852ed_stb_xl.jpg" />
-    <rating system="SI">
-      <value>1+</value>
-    </rating>
-  </programme>
-  <programme start="20260824190000 +0000" stop="20260824200000 +0000" channel="discovery-animal">
-    <title lang="sl">Život u divljini Aljaske</title>
-    <desc lang="sl">Bilijev san o samoodrživosti je na ispitu dok Braunovi počinju svoj najveći projekat do sada, a Met i Bam pomažu proširenje Brauntauna svojim ličnim poduhvatima.</desc>
-    <date>2017</date>
-    <category lang="sl">Porodični zivot</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/18/043e7740-f005-4e94-bc3e-f10740d37c86_stb_xl.jpg" />
-    <rating system="SI">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260824200000 +0000" stop="20260824210000 +0000" channel="discovery-animal">
-    <title lang="sl">Teksaški lovočuvari</title>
-    <desc lang="sl">U Teksasu je sve teže, uključujući i posao teksaških lovočuvara, koji štite prirodne resurse ove savezne države i održavaju red među njenih 27 miliona stanovnika. Ova elitna patrola štiti više od četvrt miliona kvadratnih milja.</desc>
-    <date>2016</date>
-    <category lang="sl">Priroda</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/10/21/6ef581b0-046a-4f3e-bfbb-d0ec05610e82_xl.jpg" />
-  </programme>
-  <programme start="20260824210000 +0000" stop="20260824220000 +0000" channel="discovery-animal">
-    <title lang="sl">Smrtonosna ostrva</title>
-    <desc lang="sl">Dejv Salmoni, biolog i stručnjak za životinje grabljivce, odlazi na planinsko ostrvo u severoistočnom Pacifiku koje je dom velikom broju grizli medveda.</desc>
-    <date>2014</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/03/31/801646c3_763a_4c0a_9b01_95d2c025a174_xl.jpg" />
-  </programme>
-  <programme start="20260824220000 +0000" stop="20260824224500 +0000" channel="discovery-animal">
-    <title lang="sl">Istrebljeni ili ne</title>
-    <desc lang="sl">Forest pročešljava Everglejds na Floridi tražeći crnog pantera, koji nikada nije viđen u SAD. Otkrića u ovoj oblasti sugerišu da možda postoji nešto više od glasina. [9-A.</desc>
-    <date>2018</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/2d91f641-5242-4315-a4a7-81b966c7b3dd_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824224500 +0000" stop="20260824233000 +0000" channel="discovery-animal">
-    <title lang="sl">Policija za životinje Majami</title>
-    <desc lang="sl">Istražitelji za okrutnost prema životinjama u Majamiju pronalaze dva usvojena psa kako lutaju gradom i kojima treba pomoć.</desc>
-    <date>2010</date>
-    <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/28/e4433e80-b1a7-4fef-b2c1-04128e216671_xl.jpg" />
-  </programme>
-  <programme start="20260824233000 +0000" stop="20260825001500 +0000" channel="discovery-animal">
-    <title lang="sl">Akvarijumi</title>
-    <desc lang="sl">Direktor porodične vinarije želi predivan akvarijum s grebenom za svoju dnevnu sobu - i to treba uraditi pre sezone berbe. Mogu li momci da završe posao na vreme.</desc>
-    <date>2017</date>
-    <category lang="sl">Profesija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/057cd72f-c730-440f-8e41-578564dd59ac_xl.jpg" />
-    <rating system="SI">
-      <value>16+</value>
-    </rating>
-  </programme>
   <programme start="20260825001500 +0000" stop="20260825010000 +0000" channel="discovery-animal">
     <title lang="sl">Policija za životinje Feniks</title>
     <desc lang="sl">Istražitelj Berkli pronalazi dva psa koji umiru na vrućini. Plus, istražitelji moraju da se nose sa ženom čije sažaljenje nadmašuje njenu sposobnost za brigu o životinjama.</desc>
@@ -125320,7 +125095,7 @@
     <desc lang="sl">Upoznajte čoveka koji je toliko opsednut gušterima da je promenio ime u g-din. Lizardlover (obožavalac guštera) i postigao slavu fotografišući svoje ljubimce u ljudskim pozama.</desc>
     <date>2014</date>
     <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/01/09/19b6f0a3_c5dc_4b91_9df9_51301cbd46af_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/01/09/19b6f0a3_c5dc_4b91_9df9_51301cbd46af_stb_xl.jpg" />
   </programme>
   <programme start="20260825220000 +0000" stop="20260825224500 +0000" channel="discovery-animal">
     <title lang="sl">Istrebljeni ili ne</title>
@@ -125665,7 +125440,7 @@
     <desc lang="sl">Patuljasta koza je doneta u kliniku zbog izrasline. Dr Lavin je zauzet sa psom za zaštitu koji ne voli kamere, a Bluovi organizuju zabavu otkrivanja pola.</desc>
     <date>2019</date>
     <category lang="sl">Životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/10/01/763106ad-ff35-4587-bdd6-c5746cadf100_stb_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/10/01/bd238963-5abe-4d97-9acb-496b006eb2b5_xl.jpg" />
   </programme>
   <programme start="20260827120000 +0000" stop="20260827130000 +0000" channel="discovery-animal">
     <title lang="sl">Dom po meri ljubimaca</title>
@@ -125684,275 +125459,225 @@
     <category lang="sl">Životinje</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/05/30/2857dacd-6eb2-4478-a9d3-5534caa5cfd7_stb_xl.jpg" />
   </programme>
+  <programme start="20260827140000 +0000" stop="20260827150000 +0000" channel="discovery-animal">
+    <title lang="sl">Paklene mačke</title>
+    <desc lang="sl">Merjam je vidovnjak za kućne ljubimce, ali ne može da komunicira sa svojom zlobnom mačkom Lili. Pored toga, Kloi otkriva čitavu divlju koloniju iza kuće svojih roditelja.</desc>
+    <date>2015</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/09/27/59fb3287-84c8-4ea6-8f48-40821b2d5bab_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260827150000 +0000" stop="20260827160000 +0000" channel="discovery-animal">
+    <title lang="sl">Pa to su Irvinovi!</title>
+    <desc lang="sl">Porodica Irvin - Teri, Bindi i Robert - nastavlja zaveštanje Stiva Irvina kroz svoj rad u velikom australijskom zoološkom vrtu. PREMIERE.</desc>
+    <date>2018</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/05/16/fa97e3d5-86ab-4c72-9da3-4f1f4f20e1a4_stb_xl.jpg" />
+  </programme>
+  <programme start="20260827160000 +0000" stop="20260827170000 +0000" channel="discovery-animal">
+    <title lang="sl">Dr Džef: Veterinar sa Stenovitih planina</title>
+    <desc lang="sl">Najzauzetiji veterinar iz Denvera se vratio! Dok se dr Ejmi bavi istraživačkom hirurgijom zbog mačke sa neobičnim apetitom, dr Džef pomaže povređenom tigru.</desc>
+    <date>2017</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/58d1f6ba-19cb-4b32-8d98-acd3f058c334_xl.jpg" />
+  </programme>
+  <programme start="20260827170000 +0000" stop="20260827180000 +0000" channel="discovery-animal">
+    <title lang="sl">Izvanredni bazeni - Smeli projekti</title>
+    <desc lang="sl">Stručnjak za dizajn eksterijera Lukas Kongdon i njegov tim podižu koncept dvorišnih bazena do neslućenih visina. Izrade su im veće nego ikada i imaju veoma ekstravagantne odlike.</desc>
+    <date>2018</date>
+    <category lang="sl">Zabava</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2020/01/29/3fba4e11-2aff-40ca-8380-77f8f9c6d6d1_stb_xl.jpg" />
+  </programme>
+  <programme start="20260827180000 +0000" stop="20260827190000 +0000" channel="discovery-animal">
+    <title lang="sl">Urgentni centar za životinje</title>
+    <desc lang="sl">Kroz autentični prikaz intervencija, operacija i emotivnih trenutaka između ljubimaca i njihovih vlasnika, gledaoci će imati priliku da prate tim veterinara i njihov rad u malom veterinarskom bolničkom odeljenju najvećeg grada Škotske - Glazgova. Pogledajte kako stručnjaci leče životinje sa različitim povredama i bolestima - od pasa i mačaka do većih životinja - u izazovnim svakodnevnim situacijama.</desc>
+    <date>2019</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/03/03/45adf099_cb40_4923_ae29_3414706912c8_xl.jpg" />
+  </programme>
+  <programme start="20260827190000 +0000" stop="20260827200000 +0000" channel="discovery-animal">
+    <title lang="sl">Život u divljini Aljaske</title>
+    <desc lang="sl">Duboko u srcu Aljaske žive Braunovi, rođeni i odgajani u divljini. Porodica sa sedmoro dece živi van granica civilizacije i zavise jedni od drugih kako bi preživeli u divljini.</desc>
+    <date>2017</date>
+    <category lang="sl">Porodični zivot</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/18/043e7740-f005-4e94-bc3e-f10740d37c86_stb_xl.jpg" />
+    <rating system="SI">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260827200000 +0000" stop="20260827210000 +0000" channel="discovery-animal">
+    <title lang="sl">Teksaški lovočuvari</title>
+    <desc lang="sl">Teksaski lovočuvari moraju da premeste aligatora od 230 kg koji luta po predgrađu. Osim toga oni otkrivaju veliku količinu marihuane sakrivene u rezervatu za divlje životinje.</desc>
+    <date>2016</date>
+    <category lang="sl">Priroda</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/10/21/6ef581b0-046a-4f3e-bfbb-d0ec05610e82_xl.jpg" />
+  </programme>
+  <programme start="20260827210000 +0000" stop="20260827220000 +0000" channel="discovery-animal">
+    <title lang="sl">Preživeo sam</title>
+    <desc lang="sl">Pogledajte dirljive priče ljudi koji su prkosili smrti i koji su, uprkos preprekama i posledicama bili odlučni da prežive napade životinja.</desc>
+    <date>2011</date>
+    <category lang="sl">Preživljavanje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/06/1188647f_875a_4eb4_8b9f_5a41cd6a9ba5_xl.jpg" />
+  </programme>
+  <programme start="20260827220000 +0000" stop="20260827224500 +0000" channel="discovery-animal">
+    <title lang="sl">Projekat "Grizli"</title>
+    <desc lang="sl">Džefove nekonvencionalne lekcije lova ne pripremaju Boba i Skriča da love u divljini, ali otkrio je da oni možda uče samostalno.</desc>
+    <date>2016</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/18/b1f71137-2301-473d-aeba-94d3768412d7_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260827224500 +0000" stop="20260827233000 +0000" channel="discovery-animal">
+    <title lang="sl">Policija za životinje Majami</title>
+    <desc lang="sl">Dramatično spasavanje morske krave dovodi do otkrivanja tajne. Za to vreme, istražitelj Kasadeval goni lovokradice čiji su napadi ostavili nekoliko mrtvih goveda.</desc>
+    <date>2010</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/28/e4433e80-b1a7-4fef-b2c1-04128e216671_xl.jpg" />
+  </programme>
+  <programme start="20260827233000 +0000" stop="20260828001500 +0000" channel="discovery-animal">
+    <title lang="sl">Akvarijumi</title>
+    <desc lang="sl">Momci su u Indijani, gde prave jedan od najvećih akvarijuma za ajkule do sada - u koji smeštaju preko stotinu riba i dve vrste ajkula - a prenošenje ne protiče lako.</desc>
+    <date>2017</date>
+    <category lang="sl">Profesija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/057cd72f-c730-440f-8e41-578564dd59ac_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260828001500 +0000" stop="20260828010000 +0000" channel="discovery-animal">
+    <title lang="sl">Policija za životinje Feniks</title>
+    <desc lang="sl">Istražiteljka Marisa Mekhju pokušava da spasi život štenetu koje je neko pokušao da ubije, a potom se usredsređuje da otkrije ko je to uradio.</desc>
+    <date>2009</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/17/bcf592af-2e76-4c03-9072-dbe471c46a3f_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828010000 +0000" stop="20260828014500 +0000" channel="discovery-animal">
+    <title lang="sl">Policija za životinje Feniks</title>
+    <desc lang="sl">Istražitelj Merlin Barkli pokušava da spasi psa koji je odbačen i ostavljen od strane svojih vlasnika da ugine. Merlin očajnički žuri u bolnicu.</desc>
+    <date>2009</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/17/bcf592af-2e76-4c03-9072-dbe471c46a3f_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828014500 +0000" stop="20260828023000 +0000" channel="discovery-animal">
+    <title lang="sl">Urgentni centar za životinje</title>
+    <desc lang="sl">Kroz autentični prikaz intervencija, operacija i emotivnih trenutaka između ljubimaca i njihovih vlasnika, gledaoci će imati priliku da prate tim veterinara i njihov rad u malom veterinarskom bolničkom odeljenju najvećeg grada Škotske - Glazgova. Pogledajte kako stručnjaci leče životinje sa različitim povredama i bolestima - od pasa i mačaka do većih životinja - u izazovnim svakodnevnim situacijama.</desc>
+    <date>2019</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/03/03/45adf099_cb40_4923_ae29_3414706912c8_xl.jpg" />
+  </programme>
+  <programme start="20260828023000 +0000" stop="20260828031500 +0000" channel="discovery-animal">
+    <title lang="sl">Život u divljini Aljaske</title>
+    <desc lang="sl">Duboko u srcu Aljaske žive Braunovi, rođeni i odgajani u divljini. Porodica sa sedmoro dece živi van granica civilizacije i zavise jedni od drugih kako bi preživeli u divljini.</desc>
+    <date>2017</date>
+    <category lang="sl">Porodični zivot</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/18/043e7740-f005-4e94-bc3e-f10740d37c86_stb_xl.jpg" />
+    <rating system="SI">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260828031500 +0000" stop="20260828040000 +0000" channel="discovery-animal">
+    <title lang="sl">Paklene mačke</title>
+    <desc lang="sl">Džekson Galaksi pomaže vlasnicima đavolastih mačaka. Dve posvađane mačke predstavljaju pretnju za predstojeći medeni mesec jednog para, a bengalska mačka odbija da se igra.</desc>
+    <date>2012</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/08/29/2268ffa9-15de-44b1-90d8-37532b34c4e0_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828040000 +0000" stop="20260828045000 +0000" channel="discovery-animal">
+    <title lang="sl">Pa to su Irvinovi!</title>
+    <desc lang="sl">Porodica Irvin - Teri, Bindi i Robert - svojim radom u velikom australijskom zoološkom vrtu nastavlja tradiciju Stiva Irvina u cilju zaštite životinja.</desc>
+    <date>2019</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/18/34214c6c-c424-4b54-9763-86e2e5d0cd39_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828045000 +0000" stop="20260828054000 +0000" channel="discovery-animal">
+    <title lang="sl">Zoološki vrt</title>
+    <desc lang="sl">Medicinski tim mora da izvede komplikovan zahvat na mladunčetu bizona koje je povredilo nogu. Tri mladunčeta risa spremni su za istraživački zadatak.</desc>
+    <date>2021</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/06/13/103f9825-6532-4dfc-be2d-8d9c3b1c28a2_stb_xl.jpg" />
+    <rating system="SI">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260828054000 +0000" stop="20260828063000 +0000" channel="discovery-animal">
+    <title lang="sl">Neobični kućni ljubimci</title>
+    <desc lang="sl">Upoznajte čoveka koji je toliko opsednut gušterima da je promenio ime u g-din. Lizardlover (obožavalac guštera) i postigao slavu fotografišući svoje ljubimce u ljudskim pozama.</desc>
+    <date>2014</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/01/09/19b6f0a3_c5dc_4b91_9df9_51301cbd46af_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828063000 +0000" stop="20260828072500 +0000" channel="discovery-animal">
+    <title lang="sl">Dr Džef: Veterinar sa Stenovitih planina</title>
+    <desc lang="sl">Dr Džef operiše psa koji je doveden na kliniku nakon što mu je izraslina na vratu pukla. U međuvremenu, tim primenjuje rizičan zahvat na paru spasenih minijaturnih magaraca.</desc>
+    <date>2017</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/58d1f6ba-19cb-4b32-8d98-acd3f058c334_xl.jpg" />
+  </programme>
+  <programme start="20260828072500 +0000" stop="20260828082000 +0000" channel="discovery-animal">
+    <title lang="sl">Akvarijumi</title>
+    <desc lang="sl">Di-džej Ašbi je hitno potreban akvarijum za novu prodavnicu! On će biti domaćin svečanog otvaranja sa akvarijumom kao centralnim elementom. Mogu li momci da ga završe na vreme.</desc>
+    <date>2017</date>
+    <category lang="sl">Profesija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/057cd72f-c730-440f-8e41-578564dd59ac_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260828082000 +0000" stop="20260828091500 +0000" channel="discovery-animal">
+    <title lang="sl">Policija za životinje Feniks</title>
+    <desc lang="sl">Istražiteljka Marisa MekHju i menadžer za operacije na terenu, Stejsi DeBolt, se suočavaju sa vlasnikom šest napuštenih pasa koji imaju strahovitu šugu.</desc>
+    <date>2009</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/17/bcf592af-2e76-4c03-9072-dbe471c46a3f_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828091500 +0000" stop="20260828101000 +0000" channel="discovery-animal">
+    <title lang="sl">Policija za životinje Feniks</title>
+    <desc lang="sl">Menadžer za operacije na terenu, DeBolt i istražitelj Berkli istražuju izveštaje o ilegalnoj borbi pasa i pronalaze tri pitbula kojima je hitno potrebna njihova pomoć.</desc>
+    <date>2009</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/17/bcf592af-2e76-4c03-9072-dbe471c46a3f_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828101000 +0000" stop="20260828110500 +0000" channel="discovery-animal">
+    <title lang="sl">Teksaški lovočuvari</title>
+    <desc lang="sl">Čuvari se po noći raspoređuju u više okruga kako bi zaustavili lovce na putevima koji koriste snopove svetlosti, a uginuli jelen prostreljen strelom vodi čuvare do lovokradice.</desc>
+    <date>2016</date>
+    <category lang="sl">Priroda</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/10/21/6ef581b0-046a-4f3e-bfbb-d0ec05610e82_xl.jpg" />
+  </programme>
+  <programme start="20260828110500 +0000" stop="20260828120000 +0000" channel="discovery-animal">
+    <title lang="sl">Život veterinara</title>
+    <desc lang="sl">Dr Lavinj leči francuskog buldoga koji ima problem sa disanjem i potrebna mu je posebna operacija. Pored toga, dr Ros pomaže hrčku koji neprestano kašlje.</desc>
+    <date>2019</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/10/01/763106ad-ff35-4587-bdd6-c5746cadf100_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828120000 +0000" stop="20260828130000 +0000" channel="discovery-animal">
+    <title lang="sl">Majstori za kuće na drvetu: Internacionalno</title>
+    <desc lang="sl">Pit je našao savršeno mesto za kuću na drvetu za par koji traži mesto za meditaciju. Na šest metara visine među vijugavim granama javora ekipa gradi sklonište ispunjeno energijom.</desc>
+    <date>2015</date>
+    <category lang="sl">Komedija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/1bce127a-7a1d-496d-b3ed-03a50b2fafff_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260828130000 +0000" stop="20260828140000 +0000" channel="discovery-animal">
+    <title lang="sl">Pitbul terijeri i bivši zatvorenici</title>
+    <desc lang="sl">Viljalobos priređuje zabavu za Noć veštica kako bi prikupio novac za spašavanje. Jedan stari prijatelj se vraća, a Lizi se bori da spasi napuštenog psa usred noći.</desc>
+    <date>2019</date>
+    <category lang="sl">Životinje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/05/30/2857dacd-6eb2-4478-a9d3-5534caa5cfd7_stb_xl.jpg" />
+  </programme>
   <channel id="History 2 Channel">
     <display-name lang="sl">History 2 HD</display-name>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/06/01/11/20/11/light_480x270.png" />
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/06/01/11/20/11/light_480x270.png" />
     <url>http://www.epg.sbb.rs</url>
   </channel>
-  <programme start="20260824001500 +0000" stop="20260824010000 +0000" channel="History 2 Channel">
-    <title lang="sl">Drevni vanzemaljci</title>
-    <desc lang="sl">Hiljadama godina ljudska civilizacija rukovodila se rečima i delima drevnih proroka, ali sa kim su ti proroci komunicirali.</desc>
-    <date>2013</date>
-    <category lang="sl">Istorija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/08/02/b16a8565-14c0-49dd-90c0-da7ed69168f9_stb_xl.jpg" />
-    <rating system="SI">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260824010000 +0000" stop="20260824014500 +0000" channel="History 2 Channel">
-    <title lang="sl">Neidentifikovani: Tajne američke istrage NLO-a</title>
-    <desc lang="sl">Istraga je otkrila šokantne video dokaze, obrasce, tajne koordinate i svedočenja očevidaca u vezi sa NLO. Najveće pitanje sada je šta su oni i jesu li opasni.</desc>
-    <date>2019</date>
-    <category lang="sl">Vanzemaljci</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/09/27/e181f638-958c-4611-ad0d-c1f9f5ccde48_stb_xl.jpg" />
-    <rating system="SI">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme start="20260824014500 +0000" stop="20260824023000 +0000" channel="History 2 Channel">
-    <title lang="sl">Lovci na NLO</title>
-    <desc lang="sl">Stručnjaci istražuju navodni pad svemirske letilice u Teksasu 1897. godine. Navodno su njeni ostaci bačeni u bunar dok je telo vanzemaljca pokopano na obližnjem groblju.</desc>
-    <date>2008</date>
-    <category lang="sl">Paranormalni</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/55fe2d1e-f89a-469a-9ac4-9eb62db74ce5_xl.jpg" />
-  </programme>
-  <programme start="20260824023000 +0000" stop="20260824031500 +0000" channel="History 2 Channel">
-    <title lang="sl">Arhiva NLO</title>
-    <desc lang="sl">Po prvi put otkrivamo audio snimke pilotske kabine i kontrolnog tornja sukoba pilota i astronauta i prizore neidentifikovanih letećih objekata visoko na našem nebu.</desc>
-    <date>2006</date>
-    <category lang="sl">Naučna fantastika</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/07/10/73d4d126-1169-42de-8103-f7e58cbc865a_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824031500 +0000" stop="20260824040000 +0000" channel="History 2 Channel">
-    <title lang="sl">Neidentifikovani: Tajne američke istrage NLO-a</title>
-    <desc lang="sl">Bivši američki insajderi koje je okupila rok zvezda Tom Delondž udružuju se da otkriju šta vlada zna o vanzemaljcima.</desc>
-    <date>2019</date>
-    <category lang="sl">Vanzemaljci</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/09/27/e181f638-958c-4611-ad0d-c1f9f5ccde48_stb_xl.jpg" />
-    <rating system="SI">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme start="20260824040000 +0000" stop="20260824044500 +0000" channel="History 2 Channel">
-    <title lang="sl">Drevna otkrića</title>
-    <desc lang="sl">Istraživači u Meksiku koriste šifru iz drevnog hrama Maja da istraže okultni podzemni svet. U Britaniji istraživači otkrivaju tajnu tehnologiju kojom je načinjena statua Isusa u prirodnoj veličini.</desc>
-    <date>2009</date>
-    <category lang="sl">Nauka</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/03/3cd3c844_b939_43da_917d_d09688d0ad52_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824044500 +0000" stop="20260824053000 +0000" channel="History 2 Channel">
-    <title lang="sl">Lovci na izgubljene relikvije</title>
-    <desc lang="sl">Hamilton je sakupio izuzetnu, donekle uznemirujuću kolekciju nacističkih relikvija. Među njima je kolekcija nacističkih broševa koji su prodavani radi prikupljanja novca za nemačku sirotinju i kutija za municiju prepuna srebrnih poluga.</desc>
-    <date>2021</date>
-    <category lang="sl">Arheologija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/07/26/695fb857-9189-4505-922d-fa3d3322c48d_stb_xl.jpg" />
-    <rating system="SI">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme start="20260824053000 +0000" stop="20260824061500 +0000" channel="History 2 Channel">
-    <title lang="sl">Nestali na Aljasci</title>
-    <desc lang="sl">Viđenja majušnih bića poklapaju se sa izveštajima o nestalim osobama u Aljaskom trouglu. Da li možda Aljaskom vršljaju patuljci koji jedu ljude.</desc>
-    <date>2015</date>
-    <category lang="sl">Istorija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/20/da9094c9-c11b-4910-b928-6b2df296a1bd_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824061500 +0000" stop="20260824070000 +0000" channel="History 2 Channel">
-    <title lang="sl">Drevni vanzemaljci</title>
-    <desc lang="sl">Hiljadama godina ljudska civilizacija rukovodila se rečima i delima drevnih proroka, ali sa kim su ti proroci komunicirali.</desc>
-    <date>2013</date>
-    <category lang="sl">Istorija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/08/02/b16a8565-14c0-49dd-90c0-da7ed69168f9_stb_xl.jpg" />
-    <rating system="SI">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260824070000 +0000" stop="20260824074500 +0000" channel="History 2 Channel">
-    <title lang="sl">Neidentifikovani: Tajne američke istrage NLO-a</title>
-    <desc lang="sl">Istraga je otkrila šokantne video dokaze, obrasce, tajne koordinate i svedočenja očevidaca u vezi sa NLO. Najveće pitanje sada je šta su oni i jesu li opasni.</desc>
-    <date>2019</date>
-    <category lang="sl">Vanzemaljci</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/09/27/e181f638-958c-4611-ad0d-c1f9f5ccde48_stb_xl.jpg" />
-    <rating system="SI">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme start="20260824074500 +0000" stop="20260824083000 +0000" channel="History 2 Channel">
-    <title lang="sl">Lovci na NLO</title>
-    <desc lang="sl">Stručnjaci istražuju navodni pad svemirske letilice u Teksasu 1897. godine. Navodno su njeni ostaci bačeni u bunar dok je telo vanzemaljca pokopano na obližnjem groblju.</desc>
-    <date>2008</date>
-    <category lang="sl">Paranormalni</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/55fe2d1e-f89a-469a-9ac4-9eb62db74ce5_xl.jpg" />
-  </programme>
-  <programme start="20260824083000 +0000" stop="20260824091500 +0000" channel="History 2 Channel">
-    <title lang="sl">Arhiva NLO</title>
-    <desc lang="sl">Po prvi put otkrivamo audio snimke pilotske kabine i kontrolnog tornja sukoba pilota i astronauta i prizore neidentifikovanih letećih objekata visoko na našem nebu.</desc>
-    <date>2006</date>
-    <category lang="sl">Naučna fantastika</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/07/10/73d4d126-1169-42de-8103-f7e58cbc865a_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824091500 +0000" stop="20260824100000 +0000" channel="History 2 Channel">
-    <title lang="sl">Neidentifikovani: Tajne američke istrage NLO-a</title>
-    <desc lang="sl">Bivši američki insajderi koje je okupila rok zvezda Tom Delondž udružuju se da otkriju šta vlada zna o vanzemaljcima.</desc>
-    <date>2019</date>
-    <category lang="sl">Vanzemaljci</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/09/27/e181f638-958c-4611-ad0d-c1f9f5ccde48_stb_xl.jpg" />
-    <rating system="SI">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme start="20260824100000 +0000" stop="20260824104500 +0000" channel="History 2 Channel">
-    <title lang="sl">Drevna otkrića</title>
-    <desc lang="sl">Istraživači u Meksiku koriste šifru iz drevnog hrama Maja da istraže okultni podzemni svet. U Britaniji istraživači otkrivaju tajnu tehnologiju kojom je načinjena statua Isusa u prirodnoj veličini.</desc>
-    <date>2009</date>
-    <category lang="sl">Nauka</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/03/3cd3c844_b939_43da_917d_d09688d0ad52_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824104500 +0000" stop="20260824113000 +0000" channel="History 2 Channel">
-    <title lang="sl">Lovci na izgubljene relikvije</title>
-    <desc lang="sl">Hamilton je sakupio izuzetnu, donekle uznemirujuću kolekciju nacističkih relikvija. Među njima je kolekcija nacističkih broševa koji su prodavani radi prikupljanja novca za nemačku sirotinju i kutija za municiju prepuna srebrnih poluga.</desc>
-    <date>2021</date>
-    <category lang="sl">Arheologija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/07/26/695fb857-9189-4505-922d-fa3d3322c48d_stb_xl.jpg" />
-    <rating system="SI">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme start="20260824113000 +0000" stop="20260824121500 +0000" channel="History 2 Channel">
-    <title lang="sl">Nestali na Aljasci</title>
-    <desc lang="sl">Viđenja majušnih bića poklapaju se sa izveštajima o nestalim osobama u Aljaskom trouglu. Da li možda Aljaskom vršljaju patuljci koji jedu ljude.</desc>
-    <date>2015</date>
-    <category lang="sl">Istorija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/20/da9094c9-c11b-4910-b928-6b2df296a1bd_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824121500 +0000" stop="20260824130000 +0000" channel="History 2 Channel">
-    <title lang="sl">Drevni vanzemaljci</title>
-    <desc lang="sl">Hiljadama godina ljudska civilizacija rukovodila se rečima i delima drevnih proroka, ali sa kim su ti proroci komunicirali.</desc>
-    <date>2013</date>
-    <category lang="sl">Istorija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/08/02/b16a8565-14c0-49dd-90c0-da7ed69168f9_stb_xl.jpg" />
-    <rating system="SI">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260824130000 +0000" stop="20260824134500 +0000" channel="History 2 Channel">
-    <title lang="sl">Neidentifikovani: Tajne američke istrage NLO-a</title>
-    <desc lang="sl">Istraga je otkrila šokantne video dokaze, obrasce, tajne koordinate i svedočenja očevidaca u vezi sa NLO. Najveće pitanje sada je šta su oni i jesu li opasni.</desc>
-    <date>2019</date>
-    <category lang="sl">Vanzemaljci</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/09/27/e181f638-958c-4611-ad0d-c1f9f5ccde48_stb_xl.jpg" />
-    <rating system="SI">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme start="20260824134500 +0000" stop="20260824143000 +0000" channel="History 2 Channel">
-    <title lang="sl">Lovci na NLO</title>
-    <desc lang="sl">Stručnjaci istražuju navodni pad svemirske letilice u Teksasu 1897. godine. Navodno su njeni ostaci bačeni u bunar dok je telo vanzemaljca pokopano na obližnjem groblju.</desc>
-    <date>2008</date>
-    <category lang="sl">Paranormalni</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/55fe2d1e-f89a-469a-9ac4-9eb62db74ce5_xl.jpg" />
-  </programme>
-  <programme start="20260824143000 +0000" stop="20260824151500 +0000" channel="History 2 Channel">
-    <title lang="sl">Arhiva NLO</title>
-    <desc lang="sl">Po prvi put otkrivamo audio snimke pilotske kabine i kontrolnog tornja sukoba pilota i astronauta i prizore neidentifikovanih letećih objekata visoko na našem nebu.</desc>
-    <date>2006</date>
-    <category lang="sl">Naučna fantastika</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/07/10/73d4d126-1169-42de-8103-f7e58cbc865a_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824151500 +0000" stop="20260824160000 +0000" channel="History 2 Channel">
-    <title lang="sl">Neidentifikovani: Tajne američke istrage NLO-a</title>
-    <desc lang="sl">Bivši operater radara američke mornarice izlazi iz senke kako bi otkrio informacije o zastrašujućem danu kada se dogodila najezda vanzemaljaca. Osoblje američke mornarice otkriva nove detalje, uključujući objašnjenje zašto su NLO viđeni iznad okeana.</desc>
-    <date>2019</date>
-    <category lang="sl">Vanzemaljci</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/09/27/e181f638-958c-4611-ad0d-c1f9f5ccde48_stb_xl.jpg" />
-    <rating system="SI">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme start="20260824160000 +0000" stop="20260824164500 +0000" channel="History 2 Channel">
-    <title lang="sl">Drevna otkrića</title>
-    <desc lang="sl">Kako je oklop napravljen od običnog papira mogao da zaustavi kišu strela.</desc>
-    <date>2009</date>
-    <category lang="sl">Nauka</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/03/3cd3c844_b939_43da_917d_d09688d0ad52_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824164500 +0000" stop="20260824173000 +0000" channel="History 2 Channel">
-    <title lang="sl">Svemir</title>
-    <desc lang="sl">Da li su zemlja i život na njoj pravilo ili izuzetak u svemiru.</desc>
-    <date>2007</date>
-    <category lang="sl">Astronomija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/f362ff6b-7a90-4444-b2b2-186c6ffe53c1_xl.jpg" />
-  </programme>
-  <programme start="20260824173000 +0000" stop="20260824181500 +0000" channel="History 2 Channel">
-    <title lang="sl">Nestali na Aljasci</title>
-    <desc lang="sl">Tim istražuje izveštaje o hibridu vuka i medveda koji u Aljaskom trouglu vreba žrtve.</desc>
-    <date>2015</date>
-    <category lang="sl">Istorija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/20/da9094c9-c11b-4910-b928-6b2df296a1bd_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824181500 +0000" stop="20260824190000 +0000" channel="History 2 Channel">
-    <title lang="sl">Drevni vanzemaljci</title>
-    <desc lang="sl">Nasku čine stotine ogromnih linija dugih kilometre i kilometre, koje zauzimaju veliku površinu u peruanskoj pustinji. Da li su ova obeležja povezana sa vanzemaljcima.</desc>
-    <date>2013</date>
-    <category lang="sl">Istorija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/08/02/b16a8565-14c0-49dd-90c0-da7ed69168f9_stb_xl.jpg" />
-    <rating system="SI">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260824190000 +0000" stop="20260824194500 +0000" channel="History 2 Channel">
-    <title lang="sl">Izgubljeni svetovi</title>
-    <desc lang="sl">Pridružite se neustrašivim gusarima u njihovom pljačkaškim pohodima.</desc>
-    <date>2007</date>
-    <category lang="sl">Istorija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2020/01/28/9a724d53-37b2-47b8-9794-91fed11e10c6_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824194500 +0000" stop="20260824203000 +0000" channel="History 2 Channel">
-    <title lang="sl">Razotkrivanje tajni Biblije</title>
-    <desc lang="sl">Smatra se da su Biblijske knjige, jevanđelja i poslanice plod božanskog nadahnuća. Ali da li nedostaju pojedina poglavlja Biblije? Da li su priče cenzurisane i poglavlja izbačena? Ako je tako, ko odlučuje šta u Bibliju sme, i ne sme da uđe.</desc>
-    <date>2013</date>
-    <category lang="sl">Biografski</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/11/16/09504d1f-bd99-4316-b432-4dd63822972b_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824203000 +0000" stop="20260824211500 +0000" channel="History 2 Channel">
-    <title lang="sl">Kopanje za istinom</title>
-    <desc lang="sl">Priča o vulkanu Vezuvu, čija je erupcija uništila Pompeju 79. godine pre N.E.</desc>
-    <date>2005</date>
-    <category lang="sl">Arheologija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2020/06/03/239c0030-d148-487f-a059-66ac0615c506_stb_xl.jpg" />
-  </programme>
-  <programme start="20260824211500 +0000" stop="20260824220000 +0000" channel="History 2 Channel">
-    <title lang="sl">Neidentifikovani: Tajne američke istrage NLO-a</title>
-    <desc lang="sl">Bivši operater radara američke mornarice izlazi iz senke kako bi otkrio informacije o zastrašujućem danu kada se dogodila najezda vanzemaljaca. Osoblje američke mornarice otkriva nove detalje, uključujući objašnjenje zašto su NLO viđeni iznad okeana.</desc>
-    <date>2019</date>
-    <category lang="sl">Vanzemaljci</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/09/27/e181f638-958c-4611-ad0d-c1f9f5ccde48_stb_xl.jpg" />
-    <rating system="SI">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme start="20260824220000 +0000" stop="20260824224500 +0000" channel="History 2 Channel">
-    <title lang="sl">Drevna otkrića</title>
-    <desc lang="sl">Kako je oklop napravljen od običnog papira mogao da zaustavi kišu strela.</desc>
-    <date>2009</date>
-    <category lang="sl">Nauka</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/03/3cd3c844_b939_43da_917d_d09688d0ad52_xl.jpg" />
-  </programme>
-  <programme start="20260824224500 +0000" stop="20260824233000 +0000" channel="History 2 Channel">
-    <title lang="sl">Svemir</title>
-    <desc lang="sl">Da li su zemlja i život na njoj pravilo ili izuzetak u svemiru.</desc>
-    <date>2007</date>
-    <category lang="sl">Astronomija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/f362ff6b-7a90-4444-b2b2-186c6ffe53c1_xl.jpg" />
-  </programme>
-  <programme start="20260824233000 +0000" stop="20260825001500 +0000" channel="History 2 Channel">
-    <title lang="sl">Nestali na Aljasci</title>
-    <desc lang="sl">Tim istražuje izveštaje o hibridu vuka i medveda koji u Aljaskom trouglu vreba žrtve.</desc>
-    <date>2015</date>
-    <category lang="sl">Istorija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/20/da9094c9-c11b-4910-b928-6b2df296a1bd_stb_xl.jpg" />
-  </programme>
   <programme start="20260825001500 +0000" stop="20260825010000 +0000" channel="History 2 Channel">
     <title lang="sl">Drevni vanzemaljci</title>
     <desc lang="sl">Nasku čine stotine ogromnih linija dugih kilometre i kilometre, koje zauzimaju veliku površinu u peruanskoj pustinji. Da li su ova obeležja povezana sa vanzemaljcima.</desc>
@@ -126632,6 +126357,287 @@
     <date>2007</date>
     <category lang="sl">Divlje životinje</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2020/10/20/c35a1a40-3254-4080-8f7e-cc1e6e9ab260_stb_xl.jpg" />
+  </programme>
+  <programme start="20260827143000 +0000" stop="20260827151500 +0000" channel="History 2 Channel">
+    <title lang="sl">Bitke pre Hrista</title>
+    <desc lang="sl">Veliki general vodi svoje ogromno carstvo u Indiju. Suočen sa izazovnim pohodom u teškim uslovima, Aleksandrov plan zahteva taktičku genijalnost.</desc>
+    <date>2009</date>
+    <category lang="sl">Akcija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2020/02/21/5f528531-e09c-4495-bd1b-084e979a164e_stb_xl.jpeg" />
+  </programme>
+  <programme start="20260827151500 +0000" stop="20260827160000 +0000" channel="History 2 Channel">
+    <title lang="sl">Neidentifikovani: Tajne američke istrage NLO-a</title>
+    <desc lang="sl">Susret u srcu Amerike ukazuje na uznemirujući preokret u NLO fenomenu. Tim prati trag eksplozivnih dokaza koji povezuju NLO sa najrazornijim oružjem u istoriji čovečanstva.</desc>
+    <date>2019</date>
+    <category lang="sl">Vanzemaljci</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/09/27/e181f638-958c-4611-ad0d-c1f9f5ccde48_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260827160000 +0000" stop="20260827164500 +0000" channel="History 2 Channel">
+    <title lang="sl">Drevna otkrića</title>
+    <desc lang="sl">Priča o neverovatnim načinima na koje je čovek kroz istoriju ritualizovao smrt.</desc>
+    <date>2009</date>
+    <category lang="sl">Nauka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/03/3cd3c844_b939_43da_917d_d09688d0ad52_xl.jpg" />
+  </programme>
+  <programme start="20260827164500 +0000" stop="20260827173000 +0000" channel="History 2 Channel">
+    <title lang="sl">Svemir</title>
+    <desc lang="sl">Priča o Mlečnom putu, jednoj od miliona galaksija u svemiru.</desc>
+    <date>2007</date>
+    <category lang="sl">Astronomija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/f362ff6b-7a90-4444-b2b2-186c6ffe53c1_xl.jpg" />
+  </programme>
+  <programme start="20260827173000 +0000" stop="20260827181500 +0000" channel="History 2 Channel">
+    <title lang="sl">Nestali na Aljasci</title>
+    <desc lang="sl">Drevna predanja govore o kanadskom ratničkom plemenu koje je vršilo teror u dolini Nahani i neprijatelju odsecalo glave. Pleme je davno nestalo, ali izveštaji o nestalima vremenski se poklapaju sa tvrdnjama očevidaca da su videli ove drevne ratnike.</desc>
+    <date>2015</date>
+    <category lang="sl">Istorija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/06/13/6fbc4809_6c6b_4247_b213_9c22a0dd8db0_stb_xl.jpg" />
+  </programme>
+  <programme start="20260827181500 +0000" stop="20260827190000 +0000" channel="History 2 Channel">
+    <title lang="sl">Drevni vanzemaljci</title>
+    <desc lang="sl">Vikinzi su se klanjali tajanstvenim i zastrašujućim bogovima. Stručnjaci istražuju da li su možda njihovi bogovi bili posetioci sa druge planete.</desc>
+    <date>2013</date>
+    <category lang="sl">Istorija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/08/02/b16a8565-14c0-49dd-90c0-da7ed69168f9_stb_xl.jpg" />
+    <rating system="SI">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260827190000 +0000" stop="20260827194500 +0000" channel="History 2 Channel">
+    <title lang="sl">Nemogući drevni poduhvati</title>
+    <desc lang="sl">Prikazaćemo vam genijalna dostignuća Arhimeda koji je učinio da voda teče uzbrdo, Filona koji je stvorio prvog robota, i Ktesibija koji je eksperimentisao sa pneumatikom. Heron iz Aleksandrije izumeo je parnu mašinu, automatska vrata i automate.</desc>
+    <date>2014</date>
+    <category lang="sl">Nauka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/07/3e421a43-04e5-4421-a6f0-b0ee795a0aae_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260827194500 +0000" stop="20260827203000 +0000" channel="History 2 Channel">
+    <title lang="sl">Top-lista antičkih izuma</title>
+    <desc lang="sl">Drevne civilizacije ostavile su dokaze zapanjujuće tehnologije ravnoj našoj: antički kompjuter, makete koje prikazuju let i kamene blokove teške stotine tona prenošene sa lakoćom.</desc>
+    <date>2016</date>
+    <category lang="sl">Istorija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/17/f1741e4f-b48d-46e4-ad0f-9198a8d8d1d6_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260827203000 +0000" stop="20260827211500 +0000" channel="History 2 Channel">
+    <title lang="sl">Ros Kemp: Lovac na blaga potopljenih brodova</title>
+    <desc lang="sl">Rosov prvi pokušaj na najveće olupine u Skapa Flouu: potopljena nemačka flota iz Drugog svetskog rata. Ros pokušava da sazna zašto je ponosna fota Nemačke završila na dnu. Trag vodi do ekperimentalne britanske podmornice - nosača aviona.</desc>
+    <date>2022</date>
+    <category lang="sl">Putovanje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/05/05/9da4187c-2314-40db-a1bc-0f15637e91fa_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260827211500 +0000" stop="20260827220000 +0000" channel="History 2 Channel">
+    <title lang="sl">Neidentifikovani: Tajne američke istrage NLO-a</title>
+    <desc lang="sl">Susret u srcu Amerike ukazuje na uznemirujući preokret u NLO fenomenu. Tim prati trag eksplozivnih dokaza koji povezuju NLO sa najrazornijim oružjem u istoriji čovečanstva.</desc>
+    <date>2019</date>
+    <category lang="sl">Vanzemaljci</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/09/27/e181f638-958c-4611-ad0d-c1f9f5ccde48_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260827220000 +0000" stop="20260827224500 +0000" channel="History 2 Channel">
+    <title lang="sl">Drevna otkrića</title>
+    <desc lang="sl">Priča o neverovatnim načinima na koje je čovek kroz istoriju ritualizovao smrt.</desc>
+    <date>2009</date>
+    <category lang="sl">Nauka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/03/3cd3c844_b939_43da_917d_d09688d0ad52_xl.jpg" />
+  </programme>
+  <programme start="20260827224500 +0000" stop="20260827233000 +0000" channel="History 2 Channel">
+    <title lang="sl">Svemir</title>
+    <desc lang="sl">Priča o Mlečnom putu, jednoj od miliona galaksija u svemiru.</desc>
+    <date>2007</date>
+    <category lang="sl">Astronomija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/f362ff6b-7a90-4444-b2b2-186c6ffe53c1_xl.jpg" />
+  </programme>
+  <programme start="20260827233000 +0000" stop="20260828001500 +0000" channel="History 2 Channel">
+    <title lang="sl">Nestali na Aljasci</title>
+    <desc lang="sl">Drevna predanja govore o kanadskom ratničkom plemenu koje je vršilo teror u dolini Nahani i neprijatelju odsecalo glave. Pleme je davno nestalo, ali izveštaji o nestalima vremenski se poklapaju sa tvrdnjama očevidaca da su videli ove drevne ratnike.</desc>
+    <date>2015</date>
+    <category lang="sl">Istorija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/06/13/6fbc4809_6c6b_4247_b213_9c22a0dd8db0_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828001500 +0000" stop="20260828010000 +0000" channel="History 2 Channel">
+    <title lang="sl">Drevni vanzemaljci</title>
+    <desc lang="sl">Vikinzi su se klanjali tajanstvenim i zastrašujućim bogovima. Stručnjaci istražuju da li su možda njihovi bogovi bili posetioci sa druge planete.</desc>
+    <date>2013</date>
+    <category lang="sl">Istorija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/08/02/b16a8565-14c0-49dd-90c0-da7ed69168f9_stb_xl.jpg" />
+    <rating system="SI">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260828010000 +0000" stop="20260828014500 +0000" channel="History 2 Channel">
+    <title lang="sl">Nemogući drevni poduhvati</title>
+    <desc lang="sl">Prikazaćemo vam genijalna dostignuća Arhimeda koji je učinio da voda teče uzbrdo, Filona koji je stvorio prvog robota, i Ktesibija koji je eksperimentisao sa pneumatikom. Heron iz Aleksandrije izumeo je parnu mašinu, automatska vrata i automate.</desc>
+    <date>2014</date>
+    <category lang="sl">Nauka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/07/3e421a43-04e5-4421-a6f0-b0ee795a0aae_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260828014500 +0000" stop="20260828023000 +0000" channel="History 2 Channel">
+    <title lang="sl">Top-lista antičkih izuma</title>
+    <desc lang="sl">Drevne civilizacije ostavile su dokaze zapanjujuće tehnologije ravnoj našoj: antički kompjuter, makete koje prikazuju let i kamene blokove teške stotine tona prenošene sa lakoćom.</desc>
+    <date>2016</date>
+    <category lang="sl">Istorija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/17/f1741e4f-b48d-46e4-ad0f-9198a8d8d1d6_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260828023000 +0000" stop="20260828031500 +0000" channel="History 2 Channel">
+    <title lang="sl">Ros Kemp: Lovac na blaga potopljenih brodova</title>
+    <desc lang="sl">Rosov prvi pokušaj na najveće olupine u Skapa Flouu: potopljena nemačka flota iz Drugog svetskog rata. Ros pokušava da sazna zašto je ponosna fota Nemačke završila na dnu. Trag vodi do ekperimentalne britanske podmornice - nosača aviona.</desc>
+    <date>2022</date>
+    <category lang="sl">Putovanje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/05/05/9da4187c-2314-40db-a1bc-0f15637e91fa_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260828031500 +0000" stop="20260828040000 +0000" channel="History 2 Channel">
+    <title lang="sl">Neidentifikovani: Tajne američke istrage NLO-a</title>
+    <desc lang="sl">Susret u srcu Amerike ukazuje na uznemirujući preokret u NLO fenomenu. Tim prati trag eksplozivnih dokaza koji povezuju NLO sa najrazornijim oružjem u istoriji čovečanstva.</desc>
+    <date>2019</date>
+    <category lang="sl">Vanzemaljci</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/09/27/e181f638-958c-4611-ad0d-c1f9f5ccde48_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260828040000 +0000" stop="20260828044500 +0000" channel="History 2 Channel">
+    <title lang="sl">Drevna otkrića</title>
+    <desc lang="sl">Priča o neverovatnim načinima na koje je čovek kroz istoriju ritualizovao smrt.</desc>
+    <date>2009</date>
+    <category lang="sl">Nauka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/03/3cd3c844_b939_43da_917d_d09688d0ad52_xl.jpg" />
+  </programme>
+  <programme start="20260828044500 +0000" stop="20260828053000 +0000" channel="History 2 Channel">
+    <title lang="sl">Svemir</title>
+    <desc lang="sl">Priča o Mlečnom putu, jednoj od miliona galaksija u svemiru.</desc>
+    <date>2007</date>
+    <category lang="sl">Astronomija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/f362ff6b-7a90-4444-b2b2-186c6ffe53c1_xl.jpg" />
+  </programme>
+  <programme start="20260828053000 +0000" stop="20260828061500 +0000" channel="History 2 Channel">
+    <title lang="sl">Nestali na Aljasci</title>
+    <desc lang="sl">Drevna predanja govore o kanadskom ratničkom plemenu koje je vršilo teror u dolini Nahani i neprijatelju odsecalo glave. Pleme je davno nestalo, ali izveštaji o nestalima vremenski se poklapaju sa tvrdnjama očevidaca da su videli ove drevne ratnike.</desc>
+    <date>2015</date>
+    <category lang="sl">Istorija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/06/13/6fbc4809_6c6b_4247_b213_9c22a0dd8db0_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828061500 +0000" stop="20260828070000 +0000" channel="History 2 Channel">
+    <title lang="sl">Drevni vanzemaljci</title>
+    <desc lang="sl">Vikinzi su se klanjali tajanstvenim i zastrašujućim bogovima. Stručnjaci istražuju da li su možda njihovi bogovi bili posetioci sa druge planete.</desc>
+    <date>2013</date>
+    <category lang="sl">Istorija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/08/02/b16a8565-14c0-49dd-90c0-da7ed69168f9_stb_xl.jpg" />
+    <rating system="SI">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260828070000 +0000" stop="20260828074500 +0000" channel="History 2 Channel">
+    <title lang="sl">Nemogući drevni poduhvati</title>
+    <desc lang="sl">Prikazaćemo vam genijalna dostignuća Arhimeda koji je učinio da voda teče uzbrdo, Filona koji je stvorio prvog robota, i Ktesibija koji je eksperimentisao sa pneumatikom. Heron iz Aleksandrije izumeo je parnu mašinu, automatska vrata i automate.</desc>
+    <date>2014</date>
+    <category lang="sl">Nauka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/07/3e421a43-04e5-4421-a6f0-b0ee795a0aae_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260828074500 +0000" stop="20260828083000 +0000" channel="History 2 Channel">
+    <title lang="sl">Top-lista antičkih izuma</title>
+    <desc lang="sl">Drevne civilizacije ostavile su dokaze zapanjujuće tehnologije ravnoj našoj: antički kompjuter, makete koje prikazuju let i kamene blokove teške stotine tona prenošene sa lakoćom.</desc>
+    <date>2016</date>
+    <category lang="sl">Istorija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/17/f1741e4f-b48d-46e4-ad0f-9198a8d8d1d6_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260828083000 +0000" stop="20260828091500 +0000" channel="History 2 Channel">
+    <title lang="sl">Ros Kemp: Lovac na blaga potopljenih brodova</title>
+    <desc lang="sl">Rosov prvi pokušaj na najveće olupine u Skapa Flouu: potopljena nemačka flota iz Drugog svetskog rata. Ros pokušava da sazna zašto je ponosna fota Nemačke završila na dnu. Trag vodi do ekperimentalne britanske podmornice - nosača aviona.</desc>
+    <date>2022</date>
+    <category lang="sl">Putovanje</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/05/05/9da4187c-2314-40db-a1bc-0f15637e91fa_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260828091500 +0000" stop="20260828100000 +0000" channel="History 2 Channel">
+    <title lang="sl">Neidentifikovani: Tajne američke istrage NLO-a</title>
+    <desc lang="sl">Susret u srcu Amerike ukazuje na uznemirujući preokret u NLO fenomenu. Tim prati trag eksplozivnih dokaza koji povezuju NLO sa najrazornijim oružjem u istoriji čovečanstva.</desc>
+    <date>2019</date>
+    <category lang="sl">Vanzemaljci</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/09/27/e181f638-958c-4611-ad0d-c1f9f5ccde48_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260828100000 +0000" stop="20260828104500 +0000" channel="History 2 Channel">
+    <title lang="sl">Drevna otkrića</title>
+    <desc lang="sl">Priča o neverovatnim načinima na koje je čovek kroz istoriju ritualizovao smrt.</desc>
+    <date>2009</date>
+    <category lang="sl">Nauka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/03/3cd3c844_b939_43da_917d_d09688d0ad52_xl.jpg" />
+  </programme>
+  <programme start="20260828104500 +0000" stop="20260828113000 +0000" channel="History 2 Channel">
+    <title lang="sl">Svemir</title>
+    <desc lang="sl">Priča o Mlečnom putu, jednoj od miliona galaksija u svemiru.</desc>
+    <date>2007</date>
+    <category lang="sl">Astronomija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/f362ff6b-7a90-4444-b2b2-186c6ffe53c1_xl.jpg" />
+  </programme>
+  <programme start="20260828113000 +0000" stop="20260828121500 +0000" channel="History 2 Channel">
+    <title lang="sl">Nestali na Aljasci</title>
+    <desc lang="sl">Drevna predanja govore o kanadskom ratničkom plemenu koje je vršilo teror u dolini Nahani i neprijatelju odsecalo glave. Pleme je davno nestalo, ali izveštaji o nestalima vremenski se poklapaju sa tvrdnjama očevidaca da su videli ove drevne ratnike.</desc>
+    <date>2015</date>
+    <category lang="sl">Istorija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/06/13/6fbc4809_6c6b_4247_b213_9c22a0dd8db0_stb_xl.jpg" />
+  </programme>
+  <programme start="20260828121500 +0000" stop="20260828130000 +0000" channel="History 2 Channel">
+    <title lang="sl">Drevni vanzemaljci</title>
+    <desc lang="sl">Vikinzi su se klanjali tajanstvenim i zastrašujućim bogovima. Stručnjaci istražuju da li su možda njihovi bogovi bili posetioci sa druge planete.</desc>
+    <date>2013</date>
+    <category lang="sl">Istorija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/08/02/b16a8565-14c0-49dd-90c0-da7ed69168f9_stb_xl.jpg" />
+    <rating system="SI">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260828130000 +0000" stop="20260828134500 +0000" channel="History 2 Channel">
+    <title lang="sl">Nemogući drevni poduhvati</title>
+    <desc lang="sl">Prikazaćemo vam genijalna dostignuća Arhimeda koji je učinio da voda teče uzbrdo, Filona koji je stvorio prvog robota, i Ktesibija koji je eksperimentisao sa pneumatikom. Heron iz Aleksandrije izumeo je parnu mašinu, automatska vrata i automate.</desc>
+    <date>2014</date>
+    <category lang="sl">Nauka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/07/3e421a43-04e5-4421-a6f0-b0ee795a0aae_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260828134500 +0000" stop="20260828143000 +0000" channel="History 2 Channel">
+    <title lang="sl">Top-lista antičkih izuma</title>
+    <desc lang="sl">Drevne civilizacije ostavile su dokaze zapanjujuće tehnologije ravnoj našoj: antički kompjuter, makete koje prikazuju let i kamene blokove teške stotine tona prenošene sa lakoćom.</desc>
+    <date>2016</date>
+    <category lang="sl">Istorija</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/17/f1741e4f-b48d-46e4-ad0f-9198a8d8d1d6_stb_xl.jpg" />
+    <rating system="SI">
+      <value>6+</value>
+    </rating>
   </programme>
   <channel id="viasat-history">
     <display-name lang="hr">Viasat History</display-name>
