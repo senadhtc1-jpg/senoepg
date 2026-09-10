@@ -89991,6 +89991,8 @@
     <display-name lang="sl">History 2 HD</display-name>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/06/01/11/20/11/light_480x270.png" />
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/06/01/11/20/11/light_480x270.png" />
+    <icon src="https://mediasb2c.mts.rs/medias/3D-H2-PRIMARY-light-BG-TM-RGB-200x200.png?context=bWFzdGVyfGNoYW5uZWxzfDE3NjMyfGltYWdlL3BuZ3xhR1ZpTDJoalppOHhORFF5TmpVek9UZ3hPVEF6T0M4elJGOUlNbDlRVWtsTlFWSlpYMnhwWjJoMFgwSkhYMVJOWDFKSFFsOHlNREI0TWpBd0xuQnVad3w1NjlhNjRhZTlkYWNiYTZiMTA2NGUzMTBmNjFjMzY3MTYwYzNlMWQ4Y2I5MDdhOTZjZGFhZTYxMmI4ZTlkZGI2" />
+    <icon src="https://mediasb2c.mts.rs/medias/3D-H2-PRIMARY-light-BG-TM-RGB-200x200.png?context=bWFzdGVyfGNoYW5uZWxzfDE3NjMyfGltYWdlL3BuZ3xhR1ZpTDJoalppOHhORFF5TmpVek9UZ3hPVEF6T0M4elJGOUlNbDlRVWtsTlFWSlpYMnhwWjJoMFgwSkhYMVJOWDFKSFFsOHlNREI0TWpBd0xuQnVad3w1NjlhNjRhZTlkYWNiYTZiMTA2NGUzMTBmNjFjMzY3MTYwYzNlMWQ4Y2I5MDdhOTZjZGFhZTYxMmI4ZTlkZGI2" />
     <url>http://www.epg.sbb.rs</url>
   </channel>
   <channel id="Nova.Series.rs">
@@ -90018,7 +90020,7 @@
     <desc lang="sl">Ekipa će odgovarati na neka od nazanimljivijih pitanja u vezi sa ajkulama.</desc>
     <date>2019</date>
     <category lang="sl">Divlje životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/07/03/1ad23d1e_2e25_4402_9690_b6cfc1e559d0_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/07/03/1ad23d1e_2e25_4402_9690_b6cfc1e559d0_stb_xl.jpg" />
   </programme>
   <programme start="20260910023000 +0000" stop="20260910031500 +0000" channel="Animal.Planet.HD.(RS).rs">
     <title lang="sl">Život u divljini Aljaske</title>
@@ -91542,7 +91544,7 @@
     <desc lang="sl">Dok je Rim bio zaokupljen proširivanjem svojih granica, trakijski ratnik, Spartak, trebalo je da vodi pobunu robova od 70.000 ljudi u Italiji, koja je mogla uništiti Republiku.</desc>
     <date>2008</date>
     <category lang="sl">Istorija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/05/23/ba161e7e_303b_45e9_8e7f_7ec224a5b4fb_stb_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/05/23/ba161e7e_303b_45e9_8e7f_7ec224a5b4fb_xl.jpg" />
   </programme>
   <programme start="20260912181500 +0000" stop="20260912190000 +0000" channel="History.2.HD.rs">
     <title lang="sl">Drevni vanzemaljci</title>
@@ -91559,7 +91561,7 @@
     <desc lang="sl">Najotrovnija morska stvorenja su u pokretu i šire se okeanima ostavljajući trag u vidu otrovanih žrtava. Ova čudovišta, za koja se zna da ubijaju u roku od tri minuta, deo su ekosistema više od 500 miliona godina.</desc>
     <date>2009</date>
     <category lang="sl">Istorija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/03/12/7becd711-8e34-4ce3-bbbf-829257f89988_stb_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/03/12/7b369a85-a92d-44ef-92b9-e5e03477db42_xl.jpg" />
   </programme>
   <programme start="20260912194500 +0000" stop="20260912203000 +0000" channel="History.2.HD.rs">
     <title lang="sl">Lovci na reci</title>
@@ -124279,7 +124281,7 @@
     <desc lang="sl">Ekipa će odgovarati na neka od nazanimljivijih pitanja u vezi sa ajkulama.</desc>
     <date>2019</date>
     <category lang="sl">Divlje životinje</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/07/03/1ad23d1e_2e25_4402_9690_b6cfc1e559d0_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/07/03/1ad23d1e_2e25_4402_9690_b6cfc1e559d0_stb_xl.jpg" />
   </programme>
   <programme start="20260910023000 +0000" stop="20260910031500 +0000" channel="discovery-animal">
     <title lang="sl">Život u divljini Aljaske</title>
@@ -125064,6 +125066,8 @@
     <display-name lang="sl">History 2 HD</display-name>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/06/01/11/20/11/light_480x270.png" />
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/06/01/11/20/11/light_480x270.png" />
+    <icon src="https://mediasb2c.mts.rs/medias/3D-H2-PRIMARY-light-BG-TM-RGB-200x200.png?context=bWFzdGVyfGNoYW5uZWxzfDE3NjMyfGltYWdlL3BuZ3xhR1ZpTDJoalppOHhORFF5TmpVek9UZ3hPVEF6T0M4elJGOUlNbDlRVWtsTlFWSlpYMnhwWjJoMFgwSkhYMVJOWDFKSFFsOHlNREI0TWpBd0xuQnVad3w1NjlhNjRhZTlkYWNiYTZiMTA2NGUzMTBmNjFjMzY3MTYwYzNlMWQ4Y2I5MDdhOTZjZGFhZTYxMmI4ZTlkZGI2" />
+    <icon src="https://mediasb2c.mts.rs/medias/3D-H2-PRIMARY-light-BG-TM-RGB-200x200.png?context=bWFzdGVyfGNoYW5uZWxzfDE3NjMyfGltYWdlL3BuZ3xhR1ZpTDJoalppOHhORFF5TmpVek9UZ3hPVEF6T0M4elJGOUlNbDlRVWtsTlFWSlpYMnhwWjJoMFgwSkhYMVJOWDFKSFFsOHlNREI0TWpBd0xuQnVad3w1NjlhNjRhZTlkYWNiYTZiMTA2NGUzMTBmNjFjMzY3MTYwYzNlMWQ4Y2I5MDdhOTZjZGFhZTYxMmI4ZTlkZGI2" />
     <url>http://www.epg.sbb.rs</url>
   </channel>
   <programme start="20260910001500 +0000" stop="20260910010000 +0000" channel="History 2 Channel">
@@ -125809,7 +125813,7 @@
     <desc lang="sl">Dok je Rim bio zaokupljen proširivanjem svojih granica, trakijski ratnik, Spartak, trebalo je da vodi pobunu robova od 70.000 ljudi u Italiji, koja je mogla uništiti Republiku.</desc>
     <date>2008</date>
     <category lang="sl">Istorija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/05/23/ba161e7e_303b_45e9_8e7f_7ec224a5b4fb_stb_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/05/23/ba161e7e_303b_45e9_8e7f_7ec224a5b4fb_xl.jpg" />
   </programme>
   <programme start="20260912181500 +0000" stop="20260912190000 +0000" channel="History 2 Channel">
     <title lang="sl">Drevni vanzemaljci</title>
@@ -125826,7 +125830,7 @@
     <desc lang="sl">Najotrovnija morska stvorenja su u pokretu i šire se okeanima ostavljajući trag u vidu otrovanih žrtava. Ova čudovišta, za koja se zna da ubijaju u roku od tri minuta, deo su ekosistema više od 500 miliona godina.</desc>
     <date>2009</date>
     <category lang="sl">Istorija</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/03/12/7becd711-8e34-4ce3-bbbf-829257f89988_stb_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/03/12/7b369a85-a92d-44ef-92b9-e5e03477db42_xl.jpg" />
   </programme>
   <programme start="20260912194500 +0000" stop="20260912203000 +0000" channel="History 2 Channel">
     <title lang="sl">Lovci na reci</title>
