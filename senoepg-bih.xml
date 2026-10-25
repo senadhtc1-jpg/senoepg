@@ -282,26 +282,26 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/03/26/6efb10a4-f8b5-49eb-bd86-ddd6b5948089_stb_xl.jpg" />
     <country lang="hr">Srbija</country>
   </programme>
-  <programme start="20261024073400 +0000" stop="20261024133000 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20261024073400 +0000" stop="20261024083025 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Ponos Ratkajevih</title>
     <desc lang="hr">Radnja serije se odvija u najturbulentnijem razdoblju hrvatske i jugoslavenske istorije, u periodu od 1938. do 1948. godine, a prati život jedne plemićke hrvatske porodice od njenog predratnog. Radnja serije se odvija u najturbulentnijem razdoblju hrvatske i jugoslavenske istorije, u periodu od 1938. do 1948. godine, a prati život jedne plemićke hrvatske porodice od njenog predratnog uspona, pa sve do posle Drugog svetskog rata, usled koga je došlo do promene državnog uređenja, propadanja plemstva i korenite promene svih do tada ustaljenih društvenih vrednosti.</desc>
     <date>2007</date>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/01/b94e1055-a7db-4671-8988-d0ae2abad1d5_stb_xl.jpg" />
     <country lang="hr">Hrvatska</country>
   </programme>
-  <programme start="20261024133000 +0000" stop="20261024134000 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20261024083025 +0000" stop="20261024083522 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Vijesti dana</title>
     <desc lang="hr">Svakodnevni informativni program koji nam prezentuju AI avatari, donosi najnovije i najvažnije vesti iz Sarajeva, Bosne i Hercegovine i sveta. Svakodnevni informativni program koji nam prezentuju AI avatari, donosi najnovije i najvažnije vesti iz Sarajeva, Bosne i Hercegovine i sveta.</desc>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/07/20/7012cb04_f37d_45ba_a9d8_20c8525e6f0b_xl.jpg" />
   </programme>
-  <programme start="20261024134000 +0000" stop="20261024135700 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20261024083522 +0000" stop="20261024085225 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Vremenska prognoza</title>
     <desc lang="hr">Informacije o vremenu i prognoza za naredne dane u Bosni i Hercegovini... Informacije o vremenu i prognoza za naredne dane u Bosni i Hercegovini...</desc>
     <date>2026</date>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/09/23/591e5460_99df_4856_b8c7_9a62b90eba17_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
-  <programme start="20261024135700 +0000" stop="20261024152900 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20261024085225 +0000" stop="20261024103020 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Miris dunja</title>
     <desc lang="hr">Reč je o ratnoj melodrami koja se bavi odnosom muslimana i Jevreja tokom okupacije Sarajeva u Drugom svetskom ratu. Reč je o ratnoj melodrami koja se bavi odnosom muslimana i Jevreja tokom okupacije Sarajeva u Drugom svetskom ratu. Zahvaljujući svom prijateljstvu sa nacistima, sarajevski biznismen se brzo bogati tokom Drugog svetskog rata. Međutim, njegova opčinjenost jednom Jevrejkom dovešće do tragedije.</desc>
     <date>1982</date>
@@ -310,48 +310,39 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20261024152900 +0000" stop="20261024153900 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20261024103020 +0000" stop="20261024103649 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Vijesti dana</title>
     <desc lang="hr">Svakodnevni informativni program koji nam prezentuju AI avatari, donosi najnovije i najvažnije vesti iz Sarajeva, Bosne i Hercegovine i sveta. Svakodnevni informativni program koji nam prezentuju AI avatari, donosi najnovije i najvažnije vesti iz Sarajeva, Bosne i Hercegovine i sveta.</desc>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/07/20/7012cb04_f37d_45ba_a9d8_20c8525e6f0b_xl.jpg" />
   </programme>
-  <programme start="20261024153900 +0000" stop="20261024154400 +0000" channel="Alfa.(Sarajevo).ba">
-    <title lang="hr">Miris dunja</title>
-    <desc lang="hr">Reč je o ratnoj melodrami koja se bavi odnosom muslimana i Jevreja tokom okupacije Sarajeva u Drugom svetskom ratu. Reč je o ratnoj melodrami koja se bavi odnosom muslimana i Jevreja tokom okupacije Sarajeva u Drugom svetskom ratu. Zahvaljujući svom prijateljstvu sa nacistima, sarajevski biznismen se brzo bogati tokom Drugog svetskog rata. Međutim, njegova opčinjenost jednom Jevrejkom dovešće do tragedije.</desc>
-    <date>1982</date>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/09/29/ed659336-6c59-4e3f-aac9-9337171e1f59_stb_xl.jpg" />
-    <rating system="BA">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20261024154400 +0000" stop="20261024160500 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20261024103649 +0000" stop="20261024105746 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Art scena</title>
     <desc lang="hr">Art Scena prati puls estradnog i kulturnog života. Emisija donosi najnovije vijesti, intervjue i zanimljivosti iz života poznatih ličnosti. Art Scena prati puls estradnog i kulturnog života. Emisija donosi najnovije vijesti, intervjue i zanimljivosti iz života poznatih ličnosti.</desc>
     <date>2026</date>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/09/23/77895712_903a_4707_a0ae_c112040adbad_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
-  <programme start="20261024160500 +0000" stop="20261024165200 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20261024105746 +0000" stop="20261024114444 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Radio Mileva</title>
     <desc lang="hr">Glavna junakinja Mileva je glava kuće, sve zna, sve ume i u sve se razume. Penzionerka koja je radni vek provela kao sekretarica predsednika Opštine. Glavna junakinja Mileva je glava kuće, sve zna, sve ume i u sve se razume. Penzionerka koja je radni vek provela kao sekretarica predsednika Opštine. Samouverena, energična, snalažljiva i oštroumna žena koja ima sve informacije i širi ih tradicionalnim načinima. Njena svakodnevica protiče u stanu sa ćerkom Natalijom i unukom Sonjom, koja je Milevina naslednica u modernoj verziji jer svoja saznanja, savete i tračeve deli na društvenim mrežama. Mileva nije autoritet samo u okvirima svoje porodice već i u čitavoj zgradi koja je pravi kosmos u malom sa čitavom lepezom živopisnih karaktera iz čijih suprotnosti proističu duhoviti zapleti i iznenadni obrti. Za mnoge od njih postojanje bez Mileve je nezamislivo, a neki znaju da bi bez Mileve jednostavno sve bilo dosadno. U sklopu zgrade, koja je pravi amalgam različitih karaktera, nalazi se i kafić Tavolino u vlasništvu starog beogradskog frajera Dače i frizerski salon koji drži borbena i neposredna Jeca iz Kaluđerice. Radio Mileva je živa, laka, jednostavna i dinamična komedija koja se bavi temama kao što su nesklad među generacijama, sukob različitih naravi i preplitanjem situacione i verbalne komike, pisana, pre svega, da se onaj ko je gleda oseti dobro.</desc>
     <date>2021</date>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/02/4bea32eb-baea-4a24-ad8d-ee2ff89b4cd7_stb_xl.jpg" />
     <country lang="hr">Srbija</country>
   </programme>
-  <programme start="20261024165200 +0000" stop="20261024173200 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20261024114444 +0000" stop="20261024123453 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Zakopane tajne</title>
     <desc lang="hr">Serija "Zakopane tajne" je kombinacija TV novele i porodične serije, sa širokom lepezom živopisnih likova, koja u sebi spaja različite žanrove: od vrtloga ljubavi i strasti, izrazitih dramskih. Serija "Zakopane tajne" je kombinacija TV novele i porodične serije, sa širokom lepezom živopisnih likova, koja u sebi spaja različite žanrove: od vrtloga ljubavi i strasti, izrazitih dramskih momenata, do krimi-zapleta, misterija i humora. Pored uzbudljive priče sa mnogo šokantnih obrta i iznenađenja, u ovoj seriji pratimo psihologiju likova, čiji se životi dramatično menjaju. Ljubav, porodica, sudar sveta bogatih i sveta siromašnih, prijateljstva, izdaje, mućke, podmetanja, spletke, zavist, pohlepa, izneverena očekivanja, ogorčena borba za novac, moć i uticaj, težnje za pravim vrednostima, ali i elementi trilera, stare porodične tajne koje izlaze na videlo, misterije, uz obilje drame, ali i humora, sa izrazito koloritnim likovima - samo su delić onoga što serija.</desc>
     <date>2022</date>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/03/26/6efb10a4-f8b5-49eb-bd86-ddd6b5948089_stb_xl.jpg" />
     <country lang="hr">Srbija</country>
   </programme>
-  <programme start="20261024173200 +0000" stop="20261024180000 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20261024123453 +0000" stop="20261024130015 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">ALFA Music box</title>
     <desc lang="hr">ALFA Music Box donosi najnovije muzičke spotove i hitove, prateći savremene trendove domaće i regionalne scene. ALFA Music Box donosi najnovije muzičke spotove i hitove, prateći savremene trendove domaće i regionalne scene.</desc>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/08/07/b458f05f_3706_48af_a6be_05e73090a8ee_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
-  <programme start="20261024180000 +0000" stop="20261024210000 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20261024130015 +0000" stop="20261024210000 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Pitao BIH za druga</title>
     <desc lang="hr">Prva zajednička emisija u koprodukciji TV ALFA iz Sarajeva i RED TV! Emisija se bavi najnovijim dešavanjima u "Eliti". Prva zajednička emisija u koprodukciji TV ALFA iz Sarajeva i RED TV! Emisija se bavi najnovijim dešavanjima u "Eliti".</desc>
     <date>2026</date>
@@ -6545,7 +6536,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20261024075642 +0000" stop="20261024133900 +0000" channel="Hayat.HD.ba">
+  <programme start="20261024075642 +0000" stop="20261024084832 +0000" channel="Hayat.HD.ba">
     <title lang="hr">Od kuće do kuće</title>
     <desc lang="hr">Nakon sedam izuzetno uspješnih godina, velike gledanosti i povjerenja publike, došlo je vrijeme za novi korak. Nakon sedam izuzetno uspješnih godina, velike gledanosti i povjerenja publike, došlo je vrijeme za novi korak. Emisija koju su gledaoci godinama poznavali pod nazivom "Zimska kuhinja" i "Ljetna kuhinja" dobija novo ime, novi vizuelni identitet i novo televizijsko ruho - "Od kuće do kuće". Od "Kuće do kuće" je televizijski putopisno-životni format koji Bosnu i Hercegovinu otkriva kroz ljude, njihove domove, rad, tradiciju, hranu i svakodnevni život. Voditelji Almasa i Miran putuju od mjesta do mjesta, od sela do grada, od avlije do avlije tražeći priče koje najbolje govore o zemlji u kojoj živimo. Ne vode ih turističke mape, nego ljudi. Domaćini koji ih dočekaju otvaraju vrata svojih kuća, imanja, radionica, voćnjaka, plastenika i porodičnih poslova i tako postaju glavni junaci svake emisije. Svaka epizoda donosi novo mjesto i nove ljude, ali ostaje vjerna istoj ideji - upoznati Bosnu i Hercegovinu kroz one koji je žive. U središtu formata je bh. čovjek - vrijedan, uporan, gostoljubiv, vezan za svoje mjesto, koji živi od svog rada, čuva ono što je naslijedio, stvara nešto novo, ostaje ili se vraća i svojim životom najbolje pokazuje koliko različitih i vrijednih priča postoji u Bosni i Hercegovini. Od "Kuće do kuće" je emisija o zemlji koju poznajemo, ali je još nismo dovoljno upoznali, jer iza svakih vrata postoji priča, a do nje se dolazi - "Od kuće do kuće".</desc>
     <date>2026</date>
@@ -6555,7 +6546,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20261024133900 +0000" stop="20261024134200 +0000" channel="Hayat.HD.ba">
+  <programme start="20261024084832 +0000" stop="20261024085130 +0000" channel="Hayat.HD.ba">
     <title lang="hr">Pravo vrijeme</title>
     <desc lang="hr">Zabavno-muzički program donosi hitove, gostovanja i aktuelne muzičke sadržaje za široku publiku. Pravo vrijeme - emisija koja donosi iskrene razgovore, dobre vibracije i ljude koji stvaraju muziku, glumce, producente, sportiste i mnoge druge iz kulture i show biznisa. Svake sedmice u studiju su lica koja ostavljaju trag - govore otvoreno o svom putu, inspiraciji i svakodnevici iza reflektora. Tu su i ekskluzivni nastupi, premijere, spontani momenti i priče koje se rijetko čuju.</desc>
     <date>2026</date>
@@ -6565,7 +6556,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20261024134200 +0000" stop="20261024143500 +0000" channel="Hayat.HD.ba">
+  <programme start="20261024085130 +0000" stop="20261024094438 +0000" channel="Hayat.HD.ba">
     <title lang="hr">Od kuće do kuće</title>
     <desc lang="hr">Nakon sedam izuzetno uspješnih godina, velike gledanosti i povjerenja publike, došlo je vrijeme za novi korak. Nakon sedam izuzetno uspješnih godina, velike gledanosti i povjerenja publike, došlo je vrijeme za novi korak. Emisija koju su gledaoci godinama poznavali pod nazivom "Zimska kuhinja" i "Ljetna kuhinja" dobija novo ime, novi vizuelni identitet i novo televizijsko ruho - "Od kuće do kuće". Od "Kuće do kuće" je televizijski putopisno-životni format koji Bosnu i Hercegovinu otkriva kroz ljude, njihove domove, rad, tradiciju, hranu i svakodnevni život. Voditelji Almasa i Miran putuju od mjesta do mjesta, od sela do grada, od avlije do avlije tražeći priče koje najbolje govore o zemlji u kojoj živimo. Ne vode ih turističke mape, nego ljudi. Domaćini koji ih dočekaju otvaraju vrata svojih kuća, imanja, radionica, voćnjaka, plastenika i porodičnih poslova i tako postaju glavni junaci svake emisije. Svaka epizoda donosi novo mjesto i nove ljude, ali ostaje vjerna istoj ideji - upoznati Bosnu i Hercegovinu kroz one koji je žive. U središtu formata je bh. čovjek - vrijedan, uporan, gostoljubiv, vezan za svoje mjesto, koji živi od svog rada, čuva ono što je naslijedio, stvara nešto novo, ostaje ili se vraća i svojim životom najbolje pokazuje koliko različitih i vrijednih priča postoji u Bosni i Hercegovini. Od "Kuće do kuće" je emisija o zemlji koju poznajemo, ali je još nismo dovoljno upoznali, jer iza svakih vrata postoji priča, a do nje se dolazi - "Od kuće do kuće".</desc>
     <date>2026</date>
@@ -6575,7 +6566,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20261024143500 +0000" stop="20261024150500 +0000" channel="Hayat.HD.ba">
+  <programme start="20261024094438 +0000" stop="20261024100628 +0000" channel="Hayat.HD.ba">
     <title lang="hr">Hronika općine Novi Grad</title>
     <desc lang="hr">Hronika Općine Novi Grad je polusatni sedmični magazin koji prezentira projekte, aktivnosti i infrastrukturne radove u općini Novi Grad, ali i zanimljive priče stanovnika najmnogoljudnije sarajevske. Hronika Općine Novi Grad je polusatni sedmični magazin koji prezentira projekte, aktivnosti i infrastrukturne radove u općini Novi Grad, ali i zanimljive priče stanovnika najmnogoljudnije sarajevske općine.</desc>
     <date>2024</date>
@@ -6585,7 +6576,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20261024150500 +0000" stop="20261024160500 +0000" channel="Hayat.HD.ba">
+  <programme start="20261024100628 +0000" stop="20261024110608 +0000" channel="Hayat.HD.ba">
     <title lang="hr">Anatomija života</title>
     <desc lang="hr">Nova emisija u programu Hayat TV-a je Anatomija života. Nova emisija u programu Hayat TV-a je Anatomija života. Cilj ove emisije jeste da u saradnji sa stručnim osobljem, ljekarima i profesorima gledateljima ponudimo odgovore na mnogobrojna pitanja o zdravlju. Okruženi i "zatrpani" različitim zdravstvenim savjetnicima koji se kroz različite platforme nameću bez sigurnih izvora, odlučili smo postaviti emisiju u kojoj će profesionalne i etablirane ličnosti odgovoriti na pitanja o prevenciji zdravlja. Mnogi su simptomi koji upućuju na određene tegobe te mogu biti kobni za život pojedinca. Pomoći ćemo i učiniti sve da pravovremeno svakom gledatelju pružimo zdravstveni savjet. Zdravlje, kao jedna od najvažnijih tema, vodi nas do mnogobrojnih svakodnevnih pitanja koja ćemo pravovremeno komunicirati, a u korist gledatelja i njihovih pitanja. Bit će ovo TV ordinacija u kojoj svi imaju priliku sudjelovati. Naši gosti su ljekari, stručnjaci s dugogodišnjim iskustvom. Briga o zdravlju je i najvažnija tema koja umnogome kreira zadovoljno društvo. Medijski komunicirati i proširiti profesionalne teze kao odgovor na mnogobrojna pitanja o zdravlju naš je zadatak.</desc>
     <date>2024</date>
@@ -6595,7 +6586,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20261024160500 +0000" stop="20261024165100 +0000" channel="Hayat.HD.ba">
+  <programme start="20261024110608 +0000" stop="20261024115145 +0000" channel="Hayat.HD.ba">
     <title lang="hr">Mjesto povratka - Moj dom</title>
     <desc lang="hr">"Mjesto povratka" se u ovoj sezoni fokusira na ljude koji su se unatoč teškim okolnostima odlučili na potez povratka, koji je okarakterisan kao "svjetski fenomen". "Mjesto povratka" se u ovoj sezoni fokusira na ljude koji su se unatoč teškim okolnostima odlučili na potez povratka, koji je okarakterisan kao "svjetski fenomen". "Moj dom" biće vodilja emisije kroz direktniji pristup povratnicima i detaljima njihovog povratka.</desc>
     <date>2026</date>
@@ -6605,7 +6596,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20261024165100 +0000" stop="20261024171300 +0000" channel="Hayat.HD.ba">
+  <programme start="20261024115145 +0000" stop="20261024121950 +0000" channel="Hayat.HD.ba">
     <title lang="hr">Vijesti u 7</title>
     <desc lang="hr">U Vijestima u 7, Hayat TV-a našoj centralnoj informativnoj emisiji, informišemo javnost o najznačajnijim događajima iz zemlje, regije i svijeta. U Vijestima u 7, Hayat TV-a našoj centralnoj informativnoj emisiji, informišemo javnost o najznačajnijim događajima iz zemlje, regije i svijeta. Svakodnevno pravimo naše priče po kojima smo postali prepoznatljiv brend i prvi izbor gledalaca dugi niz godina. Naš izbor je istina, neka vaš budu Vijesti u 7.</desc>
     <date>2026</date>
@@ -6615,7 +6606,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20261024171300 +0000" stop="20261024180000 +0000" channel="Hayat.HD.ba">
+  <programme start="20261024121950 +0000" stop="20261024130057 +0000" channel="Hayat.HD.ba">
     <title lang="hr">7plus</title>
     <desc lang="hr">Emisija "7plus" je dijaloška emisija Hayata TV. U polusatnom formatu, sa relevantnim gostima iz zemlje, regije i svijeta, analizirimo najaktuelnije teme i događaje. Emisija "7plus" je dijaloška emisija Hayata TV. U polusatnom formatu, sa relevantnim gostima iz zemlje, regije i svijeta, analizirimo najaktuelnije teme i događaje. "7plus" vam svaki dan donosi više od informacija - daje vam širi kontekst vijesti, ukazuje na uzroke problema i traga za rješenjima. Zašto imati dio informacija kada možete imati informacije plus? Svaki dan od 19:15, uživo, gledajte "7plus".</desc>
     <date>2026</date>
@@ -6625,7 +6616,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20261024180000 +0000" stop="20261024185800 +0000" channel="Hayat.HD.ba">
+  <programme start="20261024130057 +0000" stop="20261024185800 +0000" channel="Hayat.HD.ba">
     <title lang="hr">Hayat Production Show</title>
     <desc lang="hr">Muzička emisija Hayat production show već dugi niz godina zaredom se proizvodi i emitira u programu Hayat TV, a prvu epizodu gledatelji su imali priliku vidjeti u maju 2005. Gosti u emisiji su. Muzička emisija Hayat production show već dugi niz godina zaredom se proizvodi i emitira u programu Hayat TV, a prvu epizodu gledatelji su imali priliku vidjeti u maju 2005. Gosti u emisiji su poznati muzičari i javne osobe, a razgovara se o događajima iz muzičkog svijeta. Teme emisije su posvećene muzičkim sastavima, vokalima, autorima, festivalima i drugim muzičkim saradnjama.</desc>
     <date>2026</date>
@@ -13929,40 +13920,40 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/12/13/db1996d1-e54b-4776-9ef5-4a2563ce6e37_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
-  <programme start="20261025075129 +0000" stop="20261025130000 +0000" channel="OBN.(BIH).ba">
+  <programme start="20261025075129 +0000" stop="20261025080836 +0000" channel="OBN.(BIH).ba">
     <title lang="hr">Global Natures Pharma - TV prodaja</title>
     <desc lang="hr">U našoj TV trgovini otkrijte bogatu ponudu proizvoda Global Natures Pharme. U našoj TV trgovini otkrijte bogatu ponudu proizvoda Global Natures Pharme.</desc>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/07/29/c3c9ee69-f053-4977-ba38-f494d26a86fc_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
-  <programme start="20261025130000 +0000" stop="20261025164500 +0000" channel="OBN.(BIH).ba">
+  <programme start="20261025080836 +0000" stop="20261025114358 +0000" channel="OBN.(BIH).ba">
     <title lang="hr">Stol za 4</title>
     <desc lang="hr">Ko je najbolji domaćin ili domaćica? Saznajte u emisiji Stol za 4 koja spaja četiri potpuna stranca. Oni nam otvaraju vrata svoga doma od ponedjeljka od četvrka u 17:50 na OBN Televiziji. Priprema... Ko je najbolji domaćin ili domaćica? Saznajte u emisiji Stol za 4 koja spaja četiri potpuna stranca. Oni nam otvaraju vrata svoga doma od ponedjeljka od četvrka u 17:50 na OBN Televiziji. Priprema večere i osvajanje simpatija gostiju njihove su glavne brige, jer u ovoj emisiji nije dovoljno samo napraviti ukusno jelo. Boduje se atmosfera, kreativnost detalji i šarm. Stol za 4 publici nudi široku paletu okusa i iskustava, pripremite se za mnoštvo savjeta, ideja i inspiracije kako večeru pretvoriti u nezaboravni događaj.</desc>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/11/01/c6365ecb-bf1d-4e6c-be80-31bc5d125470_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
-  <programme start="20261025164500 +0000" stop="20261025165000 +0000" channel="OBN.(BIH).ba">
+  <programme start="20261025114358 +0000" stop="20261025115041 +0000" channel="OBN.(BIH).ba">
     <title lang="hr">Vremenska prognoza</title>
     <desc lang="hr">U detaljnoj vremenskoj prognozi otkrijte kakvo vrijeme vas očekuje za narednih nekoliko dana. U detaljnoj vremenskoj prognozi otkrijte kakvo vrijeme vas očekuje za narednih nekoliko dana.</desc>
     <date>2026</date>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/01/07/19fada2b_49b6_47e6_973d_bcfc24897828_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
-  <programme start="20261025165000 +0000" stop="20261025171500 +0000" channel="OBN.(BIH).ba">
+  <programme start="20261025115041 +0000" stop="20261025120841 +0000" channel="OBN.(BIH).ba">
     <title lang="hr">OBN Info</title>
     <desc lang="hr">"OBN INFO" je središnja informativna emisija OBN TV koja je za relativno kratko vrijeme emitiranja postigla visoku gledanost. U OBN INFO-u izvještavamo o najaktualnijim vijestima iz zemlje i svijeta.... "OBN INFO" je središnja informativna emisija OBN TV koja je za relativno kratko vrijeme emitiranja postigla visoku gledanost. U OBN INFO-u izvještavamo o najaktualnijim vijestima iz zemlje i svijeta. Popodnevni i večernji termin rezerviran je za pregled političkih, gospodarskih, kulturnih i društvenih događanja! Cijeneći želje svojih gledatelja, OBN TV odlučila se napraviti ovaj format, umjesto uobičajene i pomalo prevaziđene forme polusatnih informativnih emisija. Pružamo vam mogućnost da u kratkom vremenu s mnoštvom dobro sročenih i pomno odabranih informacija obiđete Bosnu i Hercegovinu i svijet. Držimo vas informiranim, ali vas pri tom ne zamaramo iscrpnim, često nepotrebnim informacijama.</desc>
     <date>2026</date>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/01/07/6f05c963_0044_4d64_b240_d2f13b0555a1_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
-  <programme start="20261025171500 +0000" stop="20261025180000 +0000" channel="OBN.(BIH).ba">
+  <programme start="20261025120841 +0000" stop="20261025130036 +0000" channel="OBN.(BIH).ba">
     <title lang="hr">Crveni pupoljci</title>
     <desc lang="hr">Priča prati Merjem, ženu koja je s 14 godina primorana na brak unutar stroge islamske sekte. Iako je njena sudbina već određena, Merjem odbija da isto dopusti svojoj kćerki Zejnep. Kada sazna da je... Priča prati Merjem, ženu koja je s 14 godina primorana na brak unutar stroge islamske sekte. Iako je njena sudbina već određena, Merjem odbija da isto dopusti svojoj kćerki Zejnep. Kada sazna da je Zejnep predodređena da postane nevjesta unuka moćnog šejha, donosi najtežu odluku u životu – pobjeći prije nego što bude prekasno. Uz pomoć zaove, koja je nekada i sama bila dio sekte, Merjem traži način da sakupi novac i pruži svojoj kćerki šansu za drugačiju budućnost. Sudbina je vodi do Leventa, sekularnog psihijatra koji joj nudi posao njegovateljice. Njih dvoje dolaze iz potpuno različitih svjetova – on simbolizira modernost i progresivne vrijednosti, dok je Merjem cijeli život provela u strogo kontrolisanom okruženju. Iako se u početku često sukobljavaju zbog različitih pogleda na život, s vremenom se među njima razvija uzajamno povjerenje i snažna emocionalna povezanost. Međutim, bijeg od prošlosti nikada nije jednostavan. Moć sekte i njenog utjecaja proteže se dalje nego što Merjem može zamisliti, a opasnosti vrebaju na svakom koraku. Kada se otkrije istina o Leventovoj kćerki, njihovi životi se dodatno zakomplikuju, a sudbina Merjem i Zejnep postaje još neizvjesnija.</desc>
     <date>2023</date>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/03/13/9b8fce6b-35ee-4994-9dcd-b58e5549744d_stb_xl.jpg" />
     <country lang="hr">Turska</country>
   </programme>
-  <programme start="20261025180000 +0000" stop="20261025204000 +0000" channel="OBN.(BIH).ba">
+  <programme start="20261025130036 +0000" stop="20261025204000 +0000" channel="OBN.(BIH).ba">
     <title lang="hr">Hype zvezde</title>
     <desc lang="hr">Najzabavnija muzička emisija donosi vam nove talente, sjajne nastupe i mnogo dobre energije! Najzabavnija muzička emisija donosi vam nove talente, sjajne nastupe i mnogo dobre energije!</desc>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/09/22/d4f6b0fc_ee01_49c9_a8c6_54690b9c51e1_stb_xl.jpg" />
@@ -14433,7 +14424,7 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20261024063334 +0000" stop="20261024143100 +0000" channel="Pink.BH.ba">
+  <programme start="20261024063334 +0000" stop="20261024093148 +0000" channel="Pink.BH.ba">
     <title lang="hr">Elita uživo</title>
     <desc lang="hr">Najintrigantniji reality program na ovim prostorima obara rekorde na društvenim mrežama, dok je po gledanosti apsolutno bez konkurencije. A nova, jubilarna sezona, koja nosi naziv "Elita 10", prijeti... Najintrigantniji reality program na ovim prostorima obara rekorde na društvenim mrežama, dok je po gledanosti apsolutno bez konkurencije. A nova, jubilarna sezona, koja nosi naziv "Elita 10", prijeti da nadmaši sva očekivanja i postavi nove standarde među reality formatima. Iza jednog od najvećih projekata TV Pink stoji produkcija koja je pomjerala granice - kada je riječ o kastingu, zadacima i tehničkim inovacijama. Velika iznenađenja najavljena su za "Elitu 10", a region već s nestrpljenjem očekuje da sazna ko su učesnici čije će živote pratiti uživo pred kamerama narednih 10 mjeseci.</desc>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/09/07/a7610ae9_363e_4fef_b721_c3f789cf2d59_xl.jpg" />
@@ -14441,7 +14432,7 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20261024143100 +0000" stop="20261024150000 +0000" channel="Pink.BH.ba">
+  <programme start="20261024093148 +0000" stop="20261024100041 +0000" channel="Pink.BH.ba">
     <title lang="hr">Elita uživo</title>
     <desc lang="hr">Najintrigantniji reality program na ovim prostorima obara rekorde na društvenim mrežama, dok je po gledanosti apsolutno bez konkurencije. A nova, jubilarna sezona, koja nosi naziv "Elita 10", prijeti... Najintrigantniji reality program na ovim prostorima obara rekorde na društvenim mrežama, dok je po gledanosti apsolutno bez konkurencije. A nova, jubilarna sezona, koja nosi naziv "Elita 10", prijeti da nadmaši sva očekivanja i postavi nove standarde među reality formatima. Iza jednog od najvećih projekata TV Pink stoji produkcija koja je pomjerala granice - kada je riječ o kastingu, zadacima i tehničkim inovacijama. Velika iznenađenja najavljena su za "Elitu 10", a region već s nestrpljenjem očekuje da sazna ko su učesnici čije će živote pratiti uživo pred kamerama narednih 10 mjeseci.</desc>
     <date>2026</date>
@@ -14450,7 +14441,7 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20261024150000 +0000" stop="20261024162000 +0000" channel="Pink.BH.ba">
+  <programme start="20261024100041 +0000" stop="20261024112846 +0000" channel="Pink.BH.ba">
     <title lang="hr">Magazin In</title>
     <desc lang="hr">U "Magazinu In" vas očekuju smijeh, suze, emotivne ispovjesti i priznanja poznatih ličnosti - i prikaz života bez filtera. Kroz svoju autorsku emisiju, Sanja Marinković će nastaviti da javne ličnosti... U "Magazinu In" vas očekuju smijeh, suze, emotivne ispovjesti i priznanja poznatih ličnosti - i prikaz života bez filtera. Kroz svoju autorsku emisiju, Sanja Marinković će nastaviti da javne ličnosti pita sve ono što biste i vi željeli da znate, i baviće se zanimljivom, ali ponekad i škakljivom temom muško - ženskih odnosa. Kako bi svake sezone bila inovativna i opravdala povjerenje milionskog auditorijuma, Sanja pomno prati svjetske trendove i implementira ih u svoju autorsku emisiju, zbog čega je u domovima širom regiona subotnje popodne rezervisano upravo za "Magazin In".</desc>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/10/06/fd494514-05ac-42f4-b0f3-94c922b2ae95_stb_xl.jpg" />
@@ -14459,15 +14450,15 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20261024162000 +0000" stop="20261024175300 +0000" channel="Pink.BH.ba">
+  <programme start="20261024112846 +0000" stop="20261024125315 +0000" channel="Pink.BH.ba">
     <title lang="hr">Elita pregled dana</title>
     <desc lang="hr">Najintrigantniji reality program na ovim prostorima obara rekorde na društvenim mrežama, dok je po gledanosti apsolutno bez konkurencije. A nova, jubilarna sezona, koja nosi naziv "Elita 10", prijeti... Najintrigantniji reality program na ovim prostorima obara rekorde na društvenim mrežama, dok je po gledanosti apsolutno bez konkurencije. A nova, jubilarna sezona, koja nosi naziv "Elita 10", prijeti da nadmaši sva očekivanja i postavi nove standarde među reality formatima. Iza jednog od najvećih projekata TV Pink stoji produkcija koja je pomjerala granice - kada je riječ o kastingu, zadacima i tehničkim inovacijama. Velika iznenađenja najavljena su za "Elitu 10", a region već s nestrpljenjem očekuje da sazna ko su učesnici čije će živote pratiti uživo pred kamerama narednih 10 mjeseci.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/09/07/a7610ae9_363e_4fef_b721_c3f789cf2d59_stb_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/09/07/a7610ae9_363e_4fef_b721_c3f789cf2d59_xl.jpg" />
     <rating system="BA">
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20261024175300 +0000" stop="20261024184300 +0000" channel="Pink.BH.ba">
+  <programme start="20261024125315 +0000" stop="20261024184300 +0000" channel="Pink.BH.ba">
     <title lang="hr">Radio Mileva</title>
     <desc lang="hr">Pratit ćemo svakodnevni život Mileve, Natalije i Sonje, tri generacije porodice Majstorović koje žive pod istim krovom. Glavna junakinja Mileva je glava kuće, sve zna, sve ume i u sve se razume. Penzionerka koja je radni vek provela kao sekretarica predsednika Opštine. Samouverena, energična, snalažljiva i oštroumna žena koja ima sve informacije i širi ih tradicionalnim načinima. Njena svakodnevica protiče u stanu sa ćerkom Natalijom i unukom Sonjom, koja je Milevina naslednica u modernoj verziji jer svoja saznanja, savete i tračeve deli na društvenim mrežama. Mileva nije autoritet samo u okvirima svoje porodice već i u čitavoj zgradi koja je pravi kosmos u malom sa čitavom lepezom živopisnih karaktera iz čijih suprotnosti proističu duhoviti zapleti i iznenadni obrti. Za mnoge od njih postojanje bez Mileve je nezamislivo, a neki znaju da bi bez Mileve jednostavno sve bilo dosadno. U sklopu zgrade, koja je pravi amalgam različitih karaktera, nalazi se i kafić Tavolino u vlasništvu starog beogradskog frajera Dače i frizerski salon koji drži borbena i neposredna Jeca iz Kaluđerice. Radio Mileva je živa, laka, jednostavna i dinamična komedija koja se bavi temama kao što su nesklad među generacijama, sukob različitih naravi i preplitanjem situacione i verbalne komike, pisana, pre svega, da se onaj ko je gleda oseti dobro.</desc>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/10/11/4bcc9cae-ce1c-4d56-bbae-6d4ea774b192_stb_xl.jpg" />
