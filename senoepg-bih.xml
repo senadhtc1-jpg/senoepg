@@ -301,51 +301,39 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/03/26/6efb10a4-f8b5-49eb-bd86-ddd6b5948089_stb_xl.jpg" />
     <country lang="hr">Srbija</country>
   </programme>
-  <programme start="20261025083904 +0000" stop="20261025142500 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20261025083904 +0000" stop="20261025092952 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Ponos Ratkajevih</title>
     <desc lang="hr">Radnja serije se odvija u najturbulentnijem razdoblju hrvatske i jugoslavenske istorije, u periodu od 1938. do 1948. godine, a prati život jedne plemićke hrvatske porodice od njenog predratnog. Radnja serije se odvija u najturbulentnijem razdoblju hrvatske i jugoslavenske istorije, u periodu od 1938. do 1948. godine, a prati život jedne plemićke hrvatske porodice od njenog predratnog uspona, pa sve do posle Drugog svetskog rata, usled koga je došlo do promene državnog uređenja, propadanja plemstva i korenite promene svih do tada ustaljenih društvenih vrednosti.</desc>
     <date>2007</date>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/01/b94e1055-a7db-4671-8988-d0ae2abad1d5_stb_xl.jpg" />
     <country lang="hr">Hrvatska</country>
   </programme>
-  <programme start="20261025142500 +0000" stop="20261025143500 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20261025092952 +0000" stop="20261025093557 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Vijesti dana</title>
     <desc lang="hr">Svakodnevni informativni program koji nam prezentuju AI avatari, donosi najnovije i najvažnije vesti iz Sarajeva, Bosne i Hercegovine i sveta. Svakodnevni informativni program koji nam prezentuju AI avatari, donosi najnovije i najvažnije vesti iz Sarajeva, Bosne i Hercegovine i sveta.</desc>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/07/20/7012cb04_f37d_45ba_a9d8_20c8525e6f0b_xl.jpg" />
   </programme>
-  <programme start="20261025143500 +0000" stop="20261025150000 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20261025093557 +0000" stop="20261025095620 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Vremenska prognoza</title>
     <desc lang="hr">Informacije o vremenu i prognoza za naredne dane u Bosni i Hercegovini... Informacije o vremenu i prognoza za naredne dane u Bosni i Hercegovini...</desc>
     <date>2026</date>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/09/23/591e5460_99df_4856_b8c7_9a62b90eba17_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
-  <programme start="20261025150000 +0000" stop="20261025171000 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20261025095620 +0000" stop="20261025121952 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Otac na službenom putu</title>
     <desc lang="hr">Priča filma se odvija u ranim pedesetim godinama, u političkoj istoriji Jugoslavije poznatim pod imenom "vreme informbiroa". Priča filma se odvija u ranim pedesetim godinama, u političkoj istoriji Jugoslavije poznatim pod imenom "vreme informbiroa". Meho, otac iz naslova filma, uspešan je činovnik na republičkom nivou. Jedna njegova neoprezna i usputna izjava pred ljubavnicom, udružena sa njenom ljubomorom i osvetoljubivošću, odvodi ga u zatvor. To će izazvati seriju promena u njegovom životu i u životu njegove porodice. Njegov mlađi sin, šestogodišnji Malik, posmatra i komentariše sve što se događa oko njega, ali će tu biti dosta stvari koje on neće moći nikada da razume.</desc>
     <date>1985</date>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/10/22/c1869b2f-0af1-44aa-9ef9-43b3f391ded3_stb_xl.jpg" />
   </programme>
-  <programme start="20261025171000 +0000" stop="20261025172000 +0000" channel="Alfa.(Sarajevo).ba">
-    <title lang="hr">Vijesti dana</title>
-    <desc lang="hr">Svakodnevni informativni program koji nam prezentuju AI avatari, donosi najnovije i najvažnije vesti iz Sarajeva, Bosne i Hercegovine i sveta. Svakodnevni informativni program koji nam prezentuju AI avatari, donosi najnovije i najvažnije vesti iz Sarajeva, Bosne i Hercegovine i sveta.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/07/20/7012cb04_f37d_45ba_a9d8_20c8525e6f0b_xl.jpg" />
-  </programme>
-  <programme start="20261025172000 +0000" stop="20261025172100 +0000" channel="Alfa.(Sarajevo).ba">
-    <title lang="hr">Vremenska prognoza</title>
-    <desc lang="hr">Informacije o vremenu i prognoza za naredne dane u Bosni i Hercegovini... Informacije o vremenu i prognoza za naredne dane u Bosni i Hercegovini...</desc>
-    <date>2026</date>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/09/23/591e5460_99df_4856_b8c7_9a62b90eba17_stb_xl.jpg" />
-    <country lang="hr">BiH</country>
-  </programme>
-  <programme start="20261025172100 +0000" stop="20261025174100 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20261025121952 +0000" stop="20261025124352 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Art scena</title>
     <desc lang="hr">Art Scena prati puls estradnog i kulturnog života. Emisija donosi najnovije vijesti, intervjue i zanimljivosti iz života poznatih ličnosti. Art Scena prati puls estradnog i kulturnog života. Emisija donosi najnovije vijesti, intervjue i zanimljivosti iz života poznatih ličnosti.</desc>
     <date>2026</date>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/09/23/77895712_903a_4707_a0ae_c112040adbad_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
-  <programme start="20261025174100 +0000" stop="20261025182000 +0000" channel="Alfa.(Sarajevo).ba">
+  <programme start="20261025124352 +0000" stop="20261025182000 +0000" channel="Alfa.(Sarajevo).ba">
     <title lang="hr">Radio Mileva</title>
     <desc lang="hr">Glavna junakinja Mileva je glava kuće, sve zna, sve ume i u sve se razume. Penzionerka koja je radni vek provela kao sekretarica predsednika Opštine. Glavna junakinja Mileva je glava kuće, sve zna, sve ume i u sve se razume. Penzionerka koja je radni vek provela kao sekretarica predsednika Opštine. Samouverena, energična, snalažljiva i oštroumna žena koja ima sve informacije i širi ih tradicionalnim načinima. Njena svakodnevica protiče u stanu sa ćerkom Natalijom i unukom Sonjom, koja je Milevina naslednica u modernoj verziji jer svoja saznanja, savete i tračeve deli na društvenim mrežama. Mileva nije autoritet samo u okvirima svoje porodice već i u čitavoj zgradi koja je pravi kosmos u malom sa čitavom lepezom živopisnih karaktera iz čijih suprotnosti proističu duhoviti zapleti i iznenadni obrti. Za mnoge od njih postojanje bez Mileve je nezamislivo, a neki znaju da bi bez Mileve jednostavno sve bilo dosadno. U sklopu zgrade, koja je pravi amalgam različitih karaktera, nalazi se i kafić Tavolino u vlasništvu starog beogradskog frajera Dače i frizerski salon koji drži borbena i neposredna Jeca iz Kaluđerice. Radio Mileva je živa, laka, jednostavna i dinamična komedija koja se bavi temama kao što su nesklad među generacijama, sukob različitih naravi i preplitanjem situacione i verbalne komike, pisana, pre svega, da se onaj ko je gleda oseti dobro.</desc>
     <date>2021</date>
@@ -13839,25 +13827,25 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/01/07/19fada2b_49b6_47e6_973d_bcfc24897828_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
-  <programme start="20261026075808 +0000" stop="20261026150000 +0000" channel="OBN.(BIH).ba">
+  <programme start="20261026075808 +0000" stop="20261026101154 +0000" channel="OBN.(BIH).ba">
     <title lang="hr">Ako progovorim</title>
     <desc lang="hr">"Ako progovorim" je iskren talk-show u kojem gosti dijele svoje najdublje ispovijesti, otkrivaju životne borbe i progovaraju o temama koje rijetko dospiju u javnost. "Ako progovorim" je emisija koja ruši tabue, otvara važne teme i donosi razgovore koji ostaju urezani dugo nakon gledanja. U svakoj epizodi čućete neispričane priče i trenutke iz života poznatih ličnosti i stručnjaka koji su se rijetko gdje usudili podijeliti. Gocin stil – direktan, iskren, ali pun razumijevanja – stvara atmosferu u kojoj gosti progovaraju o onome što su godinama držali u sebi. Goca Tržan, poznata po svom direktnom, hrabrom i autentičnom pristupu, sa gostima razgovara o temama koje se tiču svakog od nas: · porodica, brak i odnosi · razlazi, novi počeci i suočavanje sa životnim lomovima · roditeljstvo i svakodnevni izazovi · pritisci javnosti, karijera i očekivanja · lične borbe, strahovi i mentalno zdravlje.</desc>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/08/29/b2ad7608-27bf-4ff6-a1e4-d287f78b9e2d_stb_xl.jpg" />
     <country lang="hr">Srbija</country>
   </programme>
-  <programme start="20261026150000 +0000" stop="20261026163000 +0000" channel="OBN.(BIH).ba">
+  <programme start="20261026101154 +0000" stop="20261026113042 +0000" channel="OBN.(BIH).ba">
     <title lang="hr">Hot Date</title>
     <desc lang="hr">Donosimo zabavnu i interesantnu emisiju "Hot Date" u kojoj razgovaramo sa poznatim osobama iz regije i pokrivamo raznolike aktualne teme koje će vas oduševiti. Zaboravite na standardne podcaste i šablonske intervjue. Hot Date sa Enom Avdić donosi nešto sasvim drugačije – iskrene, dinamične i nefiltrirane razgovore s najzanimljivijim licima sa regionalne javne scene. U prvoj sezoni gledatelji će imati priliku upoznati brojne poznate ličnosti i influensere iz različitih oblasti – od mode, muzike i glume, do sporta i društvenih mreža. Hot Date nije emisija sa skriptom. Nema sigurnih zona. Sve je dopušteno, osim dosade. Gledaoci će čuti priče koje inače ne bi čuli, osjetiti emocije koje se rijetko viđaju na malim ekranima, i možda, baš kao i Ena, ponešto novo otkriti o svojim omiljenim javnim ličnostima.</desc>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/05/08/ac16ba26_1461_46c9_b346_3db193fc60c3_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
-  <programme start="20261026163000 +0000" stop="20261026174500 +0000" channel="OBN.(BIH).ba">
+  <programme start="20261026113042 +0000" stop="20261026124609 +0000" channel="OBN.(BIH).ba">
     <title lang="hr">Da, draga</title>
     <desc lang="hr">Uz kulinarske vještine, ključni sastojci svakog izazova su strpljenje i međusobno razumijevanje. Emisija nije samo zabava – ona motivira gledaoce da se uključe u vlastite kulinarske avanture,... Uz kulinarske vještine, ključni sastojci svakog izazova su strpljenje i međusobno razumijevanje. Emisija nije samo zabava – ona motivira gledaoce da se uključe u vlastite kulinarske avanture, isprobaju nove recepte i nauče korisne trikove za pripremu jela. Da, draga! pruža priliku da se kuhanje doživi kao zajednički izazov, ali i zabava, dok svaki par prolazi kroz jedinstveno iskustvo koje dodatno učvršćuje njihov odnos.</desc>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/06/29/af41b99f-26fd-4f17-aa34-077147989258_stb_xl.jpg" />
     <country lang="hr">BiH</country>
   </programme>
-  <programme start="20261026174500 +0000" stop="20261026175000 +0000" channel="OBN.(BIH).ba">
+  <programme start="20261026124609 +0000" stop="20261026175000 +0000" channel="OBN.(BIH).ba">
     <title lang="hr">Vremenska prognoza</title>
     <desc lang="hr">U detaljnoj vremenskoj prognozi otkrijte kakvo vrijeme vas očekuje za narednih nekoliko dana. U detaljnoj vremenskoj prognozi otkrijte kakvo vrijeme vas očekuje za narednih nekoliko dana.</desc>
     <date>2026</date>
@@ -14391,7 +14379,7 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20261026085022 +0000" stop="20261026144000 +0000" channel="Pink.BH.ba">
+  <programme start="20261026085022 +0000" stop="20261026094403 +0000" channel="Pink.BH.ba">
     <title lang="hr">Scena Pregled Sedmice</title>
     <desc lang="hr">Emisija se bavi aktuelnim dešavanjima iz života poznatih, prati bitne događaje na domaćoj javnoj sceni i donosi pregršt zanimljivih vijesti, intervjua i izveštaja o poznatima. Za ovu zabavnu emisiju o... Emisija se bavi aktuelnim dešavanjima iz života poznatih, prati bitne događaje na domaćoj javnoj sceni i donosi pregršt zanimljivih vijesti, intervjua i izveštaja o poznatima. Za ovu zabavnu emisiju o poznatima govorile su najveće domaće i regionalne zvijezde, a čine je i aktuealne vijesti iz svijeta šoubiznisa, kako domaćeg, tako i stranog. Ekipa emisije SCENA REGION donosi sve važne vijesti iz života poznatih i prati sve najznačajnije događaje, ne samo u zemlji, već i u regionu.</desc>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/30/6e62ee10-b71b-4ccb-8fdd-3a85d2cac728_stb_xl.jpg" />
@@ -14400,7 +14388,7 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20261026144000 +0000" stop="20261026145400 +0000" channel="Pink.BH.ba">
+  <programme start="20261026094403 +0000" stop="20261026095422 +0000" channel="Pink.BH.ba">
     <title lang="hr">Premijera Vikend specijal</title>
     <desc lang="hr">Za "Premijeru vikend specijal" govorile su najveće domaće i regionalne zvezde, a čine je i aktuelne vesti iz sveta šoubiznisa, kako domaćeg, tako i stranog. Za "Premijeru vikend specijal" govorile su najveće domaće i regionalne zvezde, a čine je i aktuelne vesti iz sveta šoubiznisa, kako domaćeg, tako i stranog. Ekipa emisije svake nedelje priprema televizijski maraton i retrospektivu prethodne nedelje, uz sve važne vesti iz života poznatih i aktulenosti iz Srbije i regiona. Osim novog studija i dobro poznatih rubrika - "Pričalo se o...", "Dogodilo se", "Premotavanje", "Sa lica mesta", "Beograd noću", "Dan za nama", "Njihovih 1800 sekundi sa Nemanjom", "Nedeljno popodne sa..." i "Muzički kutak" - sedma sezona "Premijera - Vikend specijala" doneće i potpuno nove rubrike u svakoj emisiji.</desc>
     <date>2026</date>
@@ -14410,7 +14398,7 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20261026145400 +0000" stop="20261026150100 +0000" channel="Pink.BH.ba">
+  <programme start="20261026095422 +0000" stop="20261026095939 +0000" channel="Pink.BH.ba">
     <title lang="hr">U trendu</title>
     <desc lang="hr">BH u trendu donosi najtačniju i najrelevantniju muzičku listu hitova u regionu. Otkrivamo vam koje se pjesme najviše slušaju i koji su izvođači najpopularniji. Sve što je najgledanije na youtube - u i... BH u trendu donosi najtačniju i najrelevantniju muzičku listu hitova u regionu. Otkrivamo vam koje se pjesme najviše slušaju i koji su izvođači najpopularniji. Sve što je najgledanije na youtube - u i koji hitovi imaju najviše pregleda. Odvojite sat vremena za zabavu i pogledajte svake nedjelje koji su hitovi na vrhu top liste, te koji su izvođači "izbacili" nove singlove.</desc>
     <date>2025</date>
@@ -14420,7 +14408,7 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20261026150100 +0000" stop="20261026155500 +0000" channel="Pink.BH.ba">
+  <programme start="20261026095939 +0000" stop="20261026105511 +0000" channel="Pink.BH.ba">
     <title lang="hr">Premijera Vikend specijal</title>
     <desc lang="hr">Za "Premijeru vikend specijal" govorile su najveće domaće i regionalne zvezde, a čine je i aktuelne vesti iz sveta šoubiznisa, kako domaćeg, tako i stranog. Za "Premijeru vikend specijal" govorile su najveće domaće i regionalne zvezde, a čine je i aktuelne vesti iz sveta šoubiznisa, kako domaćeg, tako i stranog. Ekipa emisije svake nedelje priprema televizijski maraton i retrospektivu prethodne nedelje, uz sve važne vesti iz života poznatih i aktulenosti iz Srbije i regiona. Osim novog studija i dobro poznatih rubrika - "Pričalo se o...", "Dogodilo se", "Premotavanje", "Sa lica mesta", "Beograd noću", "Dan za nama", "Njihovih 1800 sekundi sa Nemanjom", "Nedeljno popodne sa..." i "Muzički kutak" - sedma sezona "Premijera - Vikend specijala" doneće i potpuno nove rubrike u svakoj emisiji.</desc>
     <date>2026</date>
@@ -14430,7 +14418,7 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20261026155500 +0000" stop="20261026160200 +0000" channel="Pink.BH.ba">
+  <programme start="20261026105511 +0000" stop="20261026110012 +0000" channel="Pink.BH.ba">
     <title lang="hr">U trendu</title>
     <desc lang="hr">BH u trendu donosi najtačniju i najrelevantniju muzičku listu hitova u regionu. Otkrivamo vam koje se pjesme najviše slušaju i koji su izvođači najpopularniji. Sve što je najgledanije na youtube - u i... BH u trendu donosi najtačniju i najrelevantniju muzičku listu hitova u regionu. Otkrivamo vam koje se pjesme najviše slušaju i koji su izvođači najpopularniji. Sve što je najgledanije na youtube - u i koji hitovi imaju najviše pregleda. Odvojite sat vremena za zabavu i pogledajte svake nedjelje koji su hitovi na vrhu top liste, te koji su izvođači "izbacili" nove singlove.</desc>
     <date>2025</date>
@@ -14440,7 +14428,7 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20261026160200 +0000" stop="20261026170000 +0000" channel="Pink.BH.ba">
+  <programme start="20261026110012 +0000" stop="20261026120553 +0000" channel="Pink.BH.ba">
     <title lang="hr">Premijera Vikend specijal</title>
     <desc lang="hr">Za "Premijeru vikend specijal" govorile su najveće domaće i regionalne zvezde, a čine je i aktuelne vesti iz sveta šoubiznisa, kako domaćeg, tako i stranog. Za "Premijeru vikend specijal" govorile su najveće domaće i regionalne zvezde, a čine je i aktuelne vesti iz sveta šoubiznisa, kako domaćeg, tako i stranog. Ekipa emisije svake nedelje priprema televizijski maraton i retrospektivu prethodne nedelje, uz sve važne vesti iz života poznatih i aktulenosti iz Srbije i regiona. Osim novog studija i dobro poznatih rubrika - "Pričalo se o...", "Dogodilo se", "Premotavanje", "Sa lica mesta", "Beograd noću", "Dan za nama", "Njihovih 1800 sekundi sa Nemanjom", "Nedeljno popodne sa..." i "Muzički kutak" - sedma sezona "Premijera - Vikend specijala" doneće i potpuno nove rubrike u svakoj emisiji.</desc>
     <date>2026</date>
@@ -14450,7 +14438,7 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20261026170000 +0000" stop="20261026171600 +0000" channel="Pink.BH.ba">
+  <programme start="20261026120553 +0000" stop="20261026121651 +0000" channel="Pink.BH.ba">
     <title lang="hr">Premijera Vikend specijal</title>
     <desc lang="hr">Za "Premijeru vikend specijal" govorile su najveće domaće i regionalne zvezde, a čine je i aktuelne vesti iz sveta šoubiznisa, kako domaćeg, tako i stranog. Za "Premijeru vikend specijal" govorile su najveće domaće i regionalne zvezde, a čine je i aktuelne vesti iz sveta šoubiznisa, kako domaćeg, tako i stranog. Ekipa emisije svake nedelje priprema televizijski maraton i retrospektivu prethodne nedelje, uz sve važne vesti iz života poznatih i aktulenosti iz Srbije i regiona. Osim novog studija i dobro poznatih rubrika - "Pričalo se o...", "Dogodilo se", "Premotavanje", "Sa lica mesta", "Beograd noću", "Dan za nama", "Njihovih 1800 sekundi sa Nemanjom", "Nedeljno popodne sa..." i "Muzički kutak" - sedma sezona "Premijera - Vikend specijala" doneće i potpuno nove rubrike u svakoj emisiji.</desc>
     <date>2026</date>
@@ -14460,7 +14448,7 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20261026171600 +0000" stop="20261026173000 +0000" channel="Pink.BH.ba">
+  <programme start="20261026121651 +0000" stop="20261026122939 +0000" channel="Pink.BH.ba">
     <title lang="hr">Premijera Vikend specijal</title>
     <desc lang="hr">Za "Premijeru vikend specijal" govorile su najveće domaće i regionalne zvezde, a čine je i aktuelne vesti iz sveta šoubiznisa, kako domaćeg, tako i stranog. Za "Premijeru vikend specijal" govorile su najveće domaće i regionalne zvezde, a čine je i aktuelne vesti iz sveta šoubiznisa, kako domaćeg, tako i stranog. Ekipa emisije svake nedelje priprema televizijski maraton i retrospektivu prethodne nedelje, uz sve važne vesti iz života poznatih i aktulenosti iz Srbije i regiona. Osim novog studija i dobro poznatih rubrika - "Pričalo se o...", "Dogodilo se", "Premotavanje", "Sa lica mesta", "Beograd noću", "Dan za nama", "Njihovih 1800 sekundi sa Nemanjom", "Nedeljno popodne sa..." i "Muzički kutak" - sedma sezona "Premijera - Vikend specijala" doneće i potpuno nove rubrike u svakoj emisiji.</desc>
     <date>2026</date>
@@ -14470,7 +14458,7 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20261026173000 +0000" stop="20261026173100 +0000" channel="Pink.BH.ba">
+  <programme start="20261026122939 +0000" stop="20261026123051 +0000" channel="Pink.BH.ba">
     <title lang="hr">Vremenska prognoza BH</title>
     <desc lang="hr">Informacije o vremenu i prognoza za naredne dane u Bosni i Hercegovini i okruženju... Informacije o vremenu i prognoza za naredne dane u Bosni i Hercegovini i okruženju...</desc>
     <date>2026</date>
@@ -14480,7 +14468,7 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20261026173100 +0000" stop="20261026185500 +0000" channel="Pink.BH.ba">
+  <programme start="20261026123051 +0000" stop="20261026185500 +0000" channel="Pink.BH.ba">
     <title lang="hr">Elita Pregled dana</title>
     <desc lang="hr">Pregleda najzanimljivijih dešavanja u Eliti prethodnog dana... Pregleda najzanimljivijih dešavanja u Eliti prethodnog dana...</desc>
     <date>2026</date>
@@ -14541,7 +14529,7 @@
   <programme start="20261027000000 +0000" stop="20261027010000 +0000" channel="Pink.BH.ba">
     <title lang="hr">Elita uživo</title>
     <desc lang="hr">Najintrigantniji reality program na ovim prostorima obara rekorde na društvenim mrežama, dok je po gledanosti apsolutno bez konkurencije. A nova, jubilarna sezona, koja nosi naziv "Elita 10", prijeti... Najintrigantniji reality program na ovim prostorima obara rekorde na društvenim mrežama, dok je po gledanosti apsolutno bez konkurencije. A nova, jubilarna sezona, koja nosi naziv "Elita 10", prijeti da nadmaši sva očekivanja i postavi nove standarde među reality formatima. Iza jednog od najvećih projekata TV Pink stoji produkcija koja je pomjerala granice - kada je riječ o kastingu, zadacima i tehničkim inovacijama. Velika iznenađenja najavljena su za "Elitu 10", a region već s nestrpljenjem očekuje da sazna ko su učesnici čije će živote pratiti uživo pred kamerama narednih 10 mjeseci.</desc>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/09/07/a7610ae9_363e_4fef_b721_c3f789cf2d59_xl.jpg" />
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/09/07/a7610ae9_363e_4fef_b721_c3f789cf2d59_stb_xl.jpg" />
     <rating system="BA">
       <value>18+</value>
     </rating>
